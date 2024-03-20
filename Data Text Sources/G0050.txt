@@ -1,0 +1,65 @@
+Climate Change: Ocean Heat Content
+ BY REBECCA LINDSEY AND LUANN DAHLMAN
+PUBLISHED SEPTEMBER 6, 2023
+HIGHLIGHTS
+The ocean is storing an estimated 91 percent of the excess heat energy trapped in the Earth's climate system by excess greenhouse gases.
+Averaged over the full depth of the ocean, the 1993–2022 heat-gain rates are approximately 0.64 to 0.83 Watts per square meter averaged over the surface of the Earth.
+Increasing ocean heat content is contributing to sea level rise, ocean heat waves and coral bleaching, and melting of ocean-terminating glaciers and ice sheets around Greenland and Antarctica. 
+Heat already stored in the deeper layers of the ocean will eventually be released, committing Earth to at least some additional surface warming in the future.
+Ocean heat content statistics and maps are updated in summer each year, following the release of the annual State of the Climate report, which is edited by NOAA experts and published in the Bulletin of the American Meteorological Society.
+
+Rising amounts of greenhouse gases are preventing heat radiated from Earth’s surface from escaping into space as freely as it used to. Most of the excess atmospheric heat is passed back to the ocean. As a result, upper ocean heat content has increased significantly over the past few decades. Upper layers are accumulating heat faster than deeper layers, but averaged over the full depth of the ocean, the 1993–2022 heat-gain rates are approximately 0.64 to 0.83 Watts per square meter averaged over the surface of the Earth.
+
+Bar graph of ocean heat content anomalies since 1950
+Seasonal (3-month) heat energy in the top half-mile of the ocean compared to the 1955-2006 average. Heat content in the global ocean has been consistently above-average (red bars) since the mid-1990s. More than 90 percent of the excess heat trapped in the Earth system due to human-caused global warming has been absorbed by the oceans. NOAA Climate.gov graph, based on data (0-700m) from the NCEI Ocean Heat Content product collection.
+
+ 
+
+Global map of ocean heat trends from 1993-2022
+Change in heat content in the upper 2,300 feet (700 meters) of the ocean from 1993-2022. Between 1993–2022, heat content rose by up to 6 Watts per square meter in parts of the ocean (dark orange). Some areas lost heat (blue), but overall, the ocean gained more heat than it lost. The changes in areas covered with the gray shading were small relative to the range of natural variability. NOAA Climate.gov image, based on data from NCEI.
+
+How heat moves
+The ocean is the largest solar energy collector on Earth. Not only does water cover more than 70 percent of our planet’s surface, it can also absorb large amounts of heat without a large increase in temperature. This tremendous ability to store and release heat over long periods of time gives the ocean a central role in stabilizing Earth’s climate system. The main source of ocean heat is sunlight. Additionally, clouds, water vapor, and greenhouse gases emit heat that they have absorbed, and some of that heat energy enters the ocean. Waves, tides, and currents constantly mix the ocean, moving heat from warmer to cooler latitudes and to deeper levels.
+
+Heat absorbed by the ocean is moved from one place to another, but it doesn’t disappear. The heat energy eventually re-enters the rest of the Earth system by melting ice shelves, evaporating water, or directly reheating the atmosphere. Thus, heat energy in the ocean can warm the planet for decades after it was absorbed. If the ocean absorbs more heat than it releases over a given time span, its heat content increases. Knowing how much heat energy the ocean absorbs and releases is essential for understanding and modeling global climate.
+
+Measuring ocean heat
+Historically, taking the ocean’s temperature required ships to dangle sensors or sample collectors into the water. This time-consuming method could only provide temperatures for a small part of the planet’s vast ocean. To get global coverage, scientists turned to satellites that measure the height of the ocean’s surface. As water warms, it expands, so estimates for ocean temperature can be deduced from sea surface heights.
+
+To get a more complete picture of ocean heat content at different depths, scientists and engineers also use a range of in situ temperature-sensing instruments. Among these are a fleet of more than 3,000 robotic “floats” that measure ocean temperature around the world. Known as Argo floats, the sensors drift through the ocean at different depths. Every 10 days or so, according to their programmed instructions, they rise through the water, recording temperature (and salinity) as they ascend. When a float reaches the surface, it sends its location and other information to scientists via satellite, and then descends again.
+
+A photo collage showing different instruments and techniques for measuring ocean heat
+Instruments for taking ocean temperatures include Conductivity-Temperature-Depth instruments (known as CTDs), Expendable Bathythermographs (known as XBTs), and Argo floats. Seals have even been fitted with instruments to obtain temperatures in areas that are difficult to reach. (Photos courtesy of NOAA, Kara Lavender, and M. Weise, California Sea Grant.)
+
+Scientists constantly compare data from satellites, floats, and probes to verify that the values they produce make sense. They process the range of measurements to calculate an estimate for global average ocean heat content every three months. Converting the temperatures to joules (a standard unit of energy) allows them to compare heat in the ocean to heat in other parts of Earth’s climate system.
+
+Change over time
+More than 90 percent of the warming that has happened on Earth over the past 50 years has occurred in the ocean. Recent studies estimate that warming of the upper oceans accounts for about 63 percent of the total increase in the amount of stored heat in the climate system from 1971 to 2010, and warming from 700 meters down to the ocean floor adds about another 30 percent.
+
+Time series graph of ocean heat content at different depths
+Annual ocean heat content compared to the 1993 average from 1993-2019, based on multiple data sets: surface to depths of 700 meters (2,300 feet) in shades of red, orange, and yellow; from 700-2,000 meters (6,650 feet) in shades of green and blue; and below 6,650 feet (2,000 meters) as a gray wedge. Graph by NOAA Climate.gov, adapted from Figure 3.6 in State of the Climate in 2019. See original figure for details about data sources and uncertainty.
+
+Averaged over Earth's surface, the 1993–2022 heat-gain rates were 0.38 (±0.05) to 0.44 (±0.10) Watts per square meter for depths from 0–700 meters (down to 0.4 miles), depending on which research group's analysis you consult. Meanwhile, heat gain rates were 0.17 (±0.03) to 0.32 (±0.04) Watts per square meter for depths of 700–2,000 meters (0.4–1.2 miles). For depths between 2000–6000 meters (1.2–3.7 miles), the estimated increase was 0.07 (±0.03) Watts per square meter for the period from September 1992 to January 2013. According to the State of the Climate in 2022 report, “Summing the three layers (despite their slightly different time periods as given above), the full-depth ocean heat gain rate ranges from 0.64 W m-2 to 0.83 W m−2 applied to Earth’s entire surface.” 
+
+Less than a watt per square meter might seem like a small change, but multiplied by the surface area of the ocean (more than 360 million square kilometers), that translates into an enormous global energy imbalance.  It means that while the atmosphere has been spared from the full extent of global warming for now, heat already stored in the ocean will eventually be released. That release of ocean heat would commit Earth to at least some additional warming in the future once greenhouse gas emissions stop. (The latest Earth system model simulations, however, find that at present levels of warming, this release of heat may be mostly balanced by the natural carbon cycle, which will begin incrementally reducing atmospheric carbon dioxide levels right away. If these models are correct, the amount of warming that can be expected once greenhouse gas emissions reach zero is at most a few tenths of a degree Celsius over a decade, and may be closer to zero.)
+
+In the present, warming of ocean water is raising global sea level because water expands when it warms. Combined with water from melting glaciers on land, the rising sea threatens natural ecosystems and human structures near coastlines around the world. Warming ocean waters are also implicated in the thinning of ice shelves and sea ice, both of which have further consequences for Earth’s climate system. Finally, warming ocean waters threaten marine ecosystems and human livelihoods. For example, warm waters jeopardize the health of corals, and in turn, the communities of marine life that depend upon them for shelter and food. Ultimately, people who depend upon marine fisheries for food and jobs may face negative impacts from the warming ocean.
+
+Further Reading
+Information on how ocean heat content is calculated from ocean temperatures is available from NOAA’s National Oceanographic Data Center.
+
+Scott, Michon. 2006. Earth’s Big Heat Bucket. NASA Earth Observatory. Accessed February 2, 2011.
+
+Lindsey, Rebecca. 2008. Correcting Ocean Cooling. NASA Earth Observatory. Accessed February 2, 2011.
+
+References
+Johnson, G. C., J. M. Lyman, C. Atkinson, T. Boyer, L. Cheng, J. Gilson, M. Ishii, R. Locarnini, A. Mishonov, S. G. Purkey, J. Reagan, and K. Sato, 2023. Ocean heat content [in “State of the Climate in 2022”]. Bull. Amer. Meteor. Soc., 104 (9), S145-S148, https://doi.org/10.1175/BAMS-D-23-0076.2.
+
+Rhein, M., S. R. Rintoul, S. Aoki, E. Campos, D. Chambers, R. A. Feely, S. Gulev, G. C. Johnson, S. A. Josey, A. Kostianoy, C. Mauritzen, D. Roemmich, L. D. Talley, and F. Wang,2013: Observations: Ocean. In: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Stocker, T. F., D. Qin, G.-K. Plattner, M. Tignor, S. K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P. M. Midgley (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, doi:10.1017/CBO9781107415324.010.
+
+S. Levitus, J. I. Antonov, T. P. Boyer, R. A. Locarnini, H. E. Garcia, and A. V. Mishonov. 2009. “Global ocean heat content 1955–2008 in light of recently revealed instrumentation problems” Geophysical Research Letters, 36, L07608, doi:10.1029/2008GL037155.
+
+T. P. Boyer, J. I. Antonov , O. K. Baranova, H. E. Garcia, D. R. Johnson, R. A. Locarnini, A. V. Mishonov, T. D. O’Brien, D. Seidov, I. V. Smolyar, M. M. Zweng, 2009. World Ocean Database 2009. S. Levitus, Ed., NOAA Atlas NESDIS 66, U.S. Gov. Printing Office, Wash., D.C., 216 pp., DVDs.
+
+Data
+Global Ocean Heat Content from the National Oceanographic Data Center.

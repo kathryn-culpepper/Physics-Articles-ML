@@ -1,0 +1,16 @@
+Radar
+
+This modern method of measuring distances is based on the fact that light (whether in the form of radio waves, microwaves, visible light, or X-rays) travels with a speed of 300,000 km/sec. Therefore, based on the fact that distance traveled equals to the speed at which you travel times the length of time you travel at that speed, we can determine distances in our solar system.
+
+diagram showing distance between two objects being determined by light travelling from one to the other where it is detected so the distance is equal to the speed of light times the travel time
+Specifically,
+
+d = v x t
+where d is distance, v is velocity, and t is time. As mentioned above, when we use any form of light, v is equal to 300,000 km./sec. So if we measure how long it takes for light to go to an object, we can calculate the distance.
+
+This method has been used in one form or another to determine the distances to all of the planets in our solar system (except Pluto, which we have not visited). It is also routinely used to measure the distance from the Earth to the Moon. Mirrors left by Apollo astronauts reflect a laser beam shot from Earth and allow scientists to keep close track on the lunar orbit. The image below shows how the technique works.
+
+diagram 
+showing distance between two objects being determined by light travelling 
+from one to the other and bouncing back so the travel time is equal to twice 
+the distance divided by the speed of light>

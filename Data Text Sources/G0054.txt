@@ -1,0 +1,70 @@
+Climate Change: Atmospheric Carbon Dioxide
+ BY REBECCA LINDSEY  REVIEWED BY ED DLUGOKENCKY
+PUBLISHED MAY 12, 2023
+HIGHLIGHTS
+Each year, human activities release more carbon dioxide into the atmosphere than natural processes can remove, causing the amount of carbon dioxide in the atmosphere to increase.
+The global average carbon dioxide set a new record high in 2022: 417.06 parts per million.
+Atmospheric carbon dioxide is now 50 percent higher than it was before the Industrial Revolution.
+The annual rate of increase in atmospheric carbon dioxide over the past 60 years is about 100 times faster than previous natural increases, such as those that occurred at the end of the last ice age 11,000-17,000 years ago.  
+The ocean has absorbed enough carbon dioxide to lower its pH by 0.1 units, a 30% increase in acidity. 
+
+Based on the annual report from NOAA’s Global Monitoring Lab, global average atmospheric carbon dioxide was 417.06 parts per million (“ppm” for short) in 2022, setting a new record high. The increase between 2021 and 2022 was 2.13 ppm—the 11th year in a row where the amount of carbon dioxide in the atmosphere increased by more than 2 ppm. At Mauna Loa Observatory in Hawaii, where the modern carbon dioxide record began in 1958, the annual average carbon dioxide in 2022 was 418.56.
+
+Carbon Dioxide graph for the Global Climate Dashboard
+The modern record of atmospheric carbon dioxide levels began with observations recorded at Mauna Loa Observatory in Hawaii. This graph shows the station's monthly average carbon dioxide measurements since 1958 in parts per million (ppm). The seasonal cycle of highs and lows (small peaks and valleys) is driven by Northern Hemisphere summer vegetation growth, which reduces atmospheric carbon dioxide, and winter decay, which increases it. The long-term trend of rising carbon dioxide levels is driven by human activities. At Mauna Loa, the highest monthly value each year occurs in May. In May 2023, carbon dioxide hit 424 ppm—a new record. NOAA Climate.gov image, based on Mauna Loa monthly mean data from NOAA Global Monitoring Lab. 
+
+Carbon dioxide concentrations are rising mostly because of the fossil fuels that people are burning for energy. Fossil fuels like coal and oil contain carbon that plants pulled out of the atmosphere through photosynthesis over many millions of years; we are returning that carbon to the atmosphere in just a few hundred. Since the middle of the 20th century, annual emissions from burning fossil fuels have increased every decade, from close to 11 billion tons of carbon dioxide per year in the 1960s to an estimated 36.6 billion tons in 2022 according to the Global Carbon Budget 2022.
+
+Carbon cycle experts estimate that natural “sinks”—processes that remove carbon from the atmosphere—on land and in the ocean absorbed the equivalent of about half of the carbon dioxide we emitted each year in the 2011-2020 decade. Because we put more carbon dioxide into the atmosphere than natural sinks can remove, the total amount of carbon dioxide in the atmosphere increases every year.
+
+The more we overshoot what natural processes can remove in a given year, the faster the atmospheric concentration of carbon dioxide rises. In the 1960s, the global growth rate of atmospheric carbon dioxide was roughly 0.8± 0.1 ppm per year. Over the next half century, the annual growth rate tripled, reaching 2.4 ppm per year during the 2010s. The annual rate of increase in atmospheric carbon dioxide over the past 60 years is about 100 times faster than previous natural increases, such as those that occurred at the end of the last ice age 11,000-17,000 years ago. 
+
+Line graphs showing how atmospheric carbon dioxide amounts have risen at roughly the same pace as carbon dioxide emissions
+The amount of carbon dioxide in the atmosphere (blue line) has increased along with human emissions (gray line) since the start of the Industrial Revolution in 1750. Emissions rose slowly to about 5 gigatons—one gigaton is a billion metric tons—per year in the mid-20th century before skyrocketing to more than 35 billion tons per year by the end of the century. NOAA Climate.gov graph, adapted from original by Dr. Howard Diamond (NOAA ARL). Atmospheric CO2 data from NOAA and ETHZ. CO2 emissions data from Our World in Data and the Global Carbon Project. 
+
+Why carbon dioxide matters
+Carbon dioxide is Earth’s most important greenhouse gas: a gas that absorbs and radiates heat. Unlike oxygen or nitrogen (which make up most of our atmosphere), greenhouse gases absorb heat radiating from the Earth’s surface and re-release it in all directions—including back toward Earth’s surface. Without carbon dioxide, Earth’s natural greenhouse effect would be too weak to keep the average global surface temperature above freezing. By adding more carbon dioxide to the atmosphere, people are supercharging the natural greenhouse effect, causing global temperature to rise. According to observations by the NOAA Global Monitoring Lab, in 2021 carbon dioxide alone was responsible for about two-thirds of the total heating influence of all human-produced greenhouse gases.
+
+Another reason carbon dioxide is important in the Earth system is that it dissolves into the ocean like the fizz in a can of soda. It reacts with water molecules, producing carbonic acid and lowering the ocean's pH (raising its acidity). Since the start of the Industrial Revolution, the pH of the ocean's surface waters has dropped from 8.21 to 8.10. This drop in pH is called ocean acidification.
+
+macro photo of tiny ocean snail shells showing a healthy snail shell compared to one damaged by ocean acidification
+(left) A healthy ocean snail has a transparent shell with smoothly contoured ridges. (right) A shell exposed to more acidic, corrosive waters is cloudy, ragged, and pockmarked with ‘kinks’ and weak spots. Photos courtesy Nina Bednarsek, NOAA PMEL. 
+
+Past and future carbon dioxide
+Natural increases in carbon dioxide concentrations have periodically warmed Earth’s temperature during ice age cycles over the past million years or more. The warm episodes (interglacials) began with a small increase in incoming sunlight in the Northern Hemisphere due to variations in Earth’s orbit around the Sun and its axis of rotation. (For more details, see the “Milankovitch cycles and ice ages” section of our Climate change: incoming sunlight article.) That little bit of extra sunlight caused a little bit of warming. As the oceans warmed, they outgassed carbon dioxide—like a can of soda going flat in the heat of a summer day. The extra carbon dioxide in the atmosphere greatly amplified the initial, solar-driven warming.
+
+Based on air bubbles trapped in mile-thick ice cores and other paleoclimate evidence, we know that during the ice age cycles of the past million years or so, atmospheric carbon dioxide never exceeded 300 ppm. Before the Industrial Revolution started in the mid-1700s, atmospheric carbon dioxide was 280 ppm or less.
+
+paleo-carbon dioxide graph - large
+Atmospheric carbon dioxide (CO2) in parts per million (ppm) for the past 800,000 years based on ice-core data (light purple line) compared to 2022 concentration (bright purple dot). The peaks and valleys in the line show ice ages (low CO2) and warmer interglacials (higher CO2). Throughout that time, CO2 was never higher than 300 ppm (light purple dot, between 300,000 and 400,000 years ago). The increase over the last 60 years is 100 times faster than previous natural increases. In fact, on the geologic time scale, the increase from the end of the last ice age to the present (dashed purple line) looks virtually instantaneous. Graph by NOAA Climate.gov based on data from Lüthi, et al., 2008, via NOAA NCEI Paleoclimatology Program.
+
+By the time continuous observations began at Mauna Loa Volcanic Observatory in 1958, global atmospheric carbon dioxide was already 315 ppm. Carbon dioxide levels today are higher than at any point in human history. In fact, the last time atmospheric carbon dioxide amounts were this high was more than 3 million years ago, during the Mid-Pliocene Warm Period, when global surface temperature was 4.5–7.2 degrees Fahrenheit (2.5–4 degrees Celsius) warmer than during the pre-industrial era. Sea level was at least 16 feet higher than it was in 1900 and possibly as much as 82 feet higher.
+
+If global energy demand continues to grow rapidly and we meet it mostly with fossil fuels, human emissions of carbon dioxide could reach 75 billion tons per year or more by the end of the century. Atmospheric carbon dioxide could be 800 ppm or higher—conditions not seen on Earth for close to 50 million years.
+
+Two graphs with colored lines showing (left) past and different future annual carbon dioxide emissions with diffrent socioeconomic pathways and (right) past and future atmospheric carbon dioxide amounts for those pathways
+Plausible future socioeconomic pathways for annual carbon dioxide emissions (left) and the resulting atmospheric carbon dioxide concentrations (right) through the end of the century. A shared socioeconomic pathway is an internally consistent set of assumptions about future population growth, global and regional economic activity, and technological advances. Models use these pathways to project a range of possible future carbon dioxide emissions; for simplicity, the image only shows the only the mean value. NOAA Climate.gov graphic adapted from figure TS.4 in the IPCC Sixth Assessment Report Technical Summary.
+
+More on carbon dioxide
+NOAA carbon dioxide observations
+
+Carbon cycle factsheet
+
+Carbon dioxide emissions by country over time
+
+Comparing greenhouse gases by their global warming potential
+
+Ocean acidification
+
+References
+Collins, M., R. Knutti, J. Arblaster, J.-L. Dufresne, T. Fichefet, P. Friedlingstein, X. Gao, W.J. Gutowski, T. Johns, G. Krinner, M. Shongwe, C. Tebaldi, A.J. Weaver and M. Wehner, 2013: Long-term Climate Change: Projections, Commitments and Irreversibility. In: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Stocker, T.F., D. Qin, G.-K. Plattner, M. Tignor, S.K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.
+
+Friedlingstein, P., O’Sullivan, M., Jones, M. W., Andrew, R. M., Gregor, L., Hauck, J., Le Quéré, C., Luijkx, I. T., Olsen, A., Peters, G. P., Peters, W., Pongratz, J., Schwingshackl, C., Sitch, S., Canadell, J. G., Ciais, P., Jackson, R. B., Alin, S. R., Alkama, R., … Zheng, B. (2022). Global Carbon Budget 2022. Earth System Science Data, 14(11), 4811–4900. https://doi.org/10.5194/essd-14-4811-2022
+
+Lan, X., B. D. Hall, G. Dutton, J. Mühle, J. W. Elkins, and I. J. Vimont. (2022). Long-lived greenhouses gases [in State of the Climate in 2021, Chapter 2: Global Climate]. Bulletin of the American Meteorological Society, 103 (8), S81-S84. https://doi.org/10.1175/BAMS-D-22-0092.1.
+
+Lüthi, D., M. Le Floch, B. Bereiter, T. Blunier, J.-M. Barnola, U. Siegenthaler, D. Raynaud, J. Jouzel, H. Fischer, K. Kawamura, and T.F. Stocker. (2008). High-resolution carbon dioxide concentration record 650,000-800,000 years before present. Nature, Vol. 453, pp. 379-382. doi:10.1038/nature06949.
+
+Woods Hole Oceanographic Institution. (2015). Introduction to ocean acidification. Accessed October 4, 2017.
+
+Lindsey, R. (2009). Climate and Earth’s energy budget. Accessed October 4, 2017. 

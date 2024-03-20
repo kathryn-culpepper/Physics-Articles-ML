@@ -1,0 +1,171 @@
+ABOUT ICE CORES
+Introduction
+Glaciers form as layers of snow accumulate on top of each other. Each layer of snow is different in chemistry and texture, summer snow differing from winter snow. Over time, the buried snow compresses under the weight of the snow above it, forming ice. Particulates and dissolved chemicals that were captured by the falling snow become a part of the ice, as do bubbles of trapped air. Layers of ice accumulate over seasons and years, creating a record of the climate conditions at the time of formation, including snow accumulation, local temperature, the chemical composition of the atmosphere including greenhouse gas concentrations, volcanic activity, and solar activity.
+
+Ice core with dark band
+The dark band in this ice core from the West Antarctic Ice Sheet Divide (WAIS Divide) is a layer of volcanic ash that settled on the ice sheet approximately 21,000 years ago. — Credit: Heidi Roop, NSF
+Ice cores are cylinders of ice drilled from ice sheets and glaciers. They are essentially frozen time capsules that allow scientists to reconstruct climate far into the past. Layers in ice cores correspond to years and seasons, with the youngest ice at the top and the oldest ice at the bottom of the core. By drilling down into the ice sheet or glacier and recovering ice from ancient times, scientists are able to determine the past composition and behavior of the atmosphere, what the climate was like when the snow fell, and how the size of ice sheets and glaciers have changed in the past in response to different climate conditions. Ice cores have provided climate and ice dynamics information over many hundred thousand years in very high, sometimes seasonal, resolution. This information allows scientists to determine how and why climate changed in the past. By understanding how and why climate changed in the past, scientists are able to improve predictions of how climate will change in the future.
+
+Because of their high time-resolution, the physical nature of their proxy records, and their ability to archive actual greenhouse (and non-greenhouse) gas concentrations from the past, ice cores have become one of the golden standards in paleoclimate research.
+
+About NSF-ICF
+Introduction
+The National Science Foundation Ice Core Facility (NSF-ICF) — formerly the U.S. National Ice Core Laboratory (NICL) — is a facility for storing, curating, and studying meteoric ice cores recovered from the glaciated regions of the world. It provides scientists with the capability to conduct examinations and measurements on ice cores, and it preserves the integrity of these ice cores in a long-term repository for current and future investigations.
+
+Storage & Curation
+NSF-ICF's most important responsibility is for the safe and secure storage and curation of ice cores that are collected primarily by National Science Foundation sponsored projects. NSF-ICF currently stores over 17,000 meters of ice core collected from various locations in Antarctica, Greenland, and North America. NSF-ICF's main archive freezer is 55,000 cubic feet in size and is held at a temperature of -36°C.
+
+When a shipment of new ice arrives, the insulated boxes carrying the cores are quickly unloaded into the main archive freezer. Once the new ice has come to thermal equilibrium with its new surroundings, it is carefully unpacked, organized, racked and inspected. After racking, the tubes are checked into NSF-ICF's inventory system.
+
+Each silver tube on these shelves contains a 1-meter long section of an ice core
+Each silver tube on these shelves contains a 1-meter long section of an ice core. The white boxes contain new ice cores drilled from the West Antarctic Ice Sheet (WAIS) Divide ice core site. —Credit: Peter Rejcek, NSF
+Examination & Core Processing
+In addition to the main archive freezer, NSF-ICF also has an exam room held at -25°C that scientists use when examining the ice cores. The exam room is 12,000 cubic feet in size and is contiguous with the main archive area. In addition, there is also a Class-100 HEPA-filtered, cold clean room held at -25°C that scientists can use.
+
+Scientists often use the exam room to cut samples from the ice cores, and then ship the samples back to their university or laboratory for analysis. Very few analyses on the ice cores are actually carried-out at the NSF-ICF facility. Almost all of the measurements that are made on the ice cores are conducted back at the scientist's university or laboratory.
+
+A frequent activity that is held at NSF-ICF is what is called a core processing line, or CPL, for short. When a new ice core arrives at NSF-ICF, researchers from around the country, including young scientists working on their doctorates, gather at NSF-ICF for the CPL. During the CPL, the scientists—along with NSF-ICF staff—measure, catalog, cut and ship pieces of the ice core to their respective universities and laboratories for analysis. Depending on the complexity of the cut plan, cores can typically be run through a CPL at a rate of 30-35 meters per day. At this rate, a 1000-meter long ice core takes six to eight weeks to process.
+
+The floor plan of the exam room will be specifically tailored to the number of scientists and the type of science or sampling which will be done during a particular CPL. As many as 10 different preparation, cutting, or analysis stations may be set up to accommodate the core with additional processing being performed off the main line if required.
+
+A NSF-ICF staff member measures a section of the WAIS Divide ice core as it begins its journey down a CPL
+A NSF-ICF staff member measures a section of the WAIS Divide ice core as it begins its journey down a CPL. Scientists and technicians will cut the ice so it can be sent to labs around the country for analysis. —Credit: Peter Rejcek, NSF
+Drilling Ice Cores
+Introduction
+Ice cores are drilled in glaciers and on ice sheets on all of Earth's continents. Most ice cores, however, come from Antarctica and Greenland, where the longest ice cores extend to 3 kilometers—over 2 miles—or more in depth. Ice cores from the cold interior regions of polar ice sheets provide exceptionally well-preserved and detailed climate records. This is because the lack of melt at these locations does not corrupt the record of trapped gases or blur the record of other impurities. The oldest continuous ice core records extend to 130,000 years in Greenland, and 800,000 years in Antarctica.
+
+Ice cores are typically drilled by means of either a mechanical or thermal drill. Both types of drills incise an annulus, or circle, around a central, vertical core.
+
+A mechanical drill is simply a rotating pipe, or drill barrel, with cutters at the head. When the drill barrel is rotated, the cutters incise a circle around the ice to be cored until the barrel is filled with ice. The cuttings—also referred to as chips—are transported to a chip chamber in the drill. The drill barrel is rotated by either physical force, as in the case with simple hand augers, or with an electromechanical motor drive, as in the case with sophisticated electromechanical drills. Thermal drills, in contrast, use a ring-shaped heating element to melt an annulus around the ice to be cored and the melt water is stored in a tank in the drill.
+
+At sites where the ice is well below freezing, such as the interiors of the polar ice sheets, mechanical drills must be used. In contrast, thermal drills are particularly effective at coring through warmer ice (e.g., ice approximately above -10°C) and are frequently used on mid- or low-latitude glaciers. On many non-polar glaciers, however, ice conditions can vary from "cold" ice to "warm" ice, requiring both mechanical and thermal drilling to retrieve the best possible core quality over the entire depth interval that is drilled.
+
+The length of the drill barrel determines the maximum length of a core section that can be retrieved in a single drill run. Ice cores are typically retrieved in sections that are 1 meter to as much as 6 meters in length, and typically 50-132 millimeters in diameter. The collection of a long ice core therefore requires many repeated cycles—or drill runs—of lowering the drill, cutting a core section, raising the drill back to the surface, removing the drilled ice core section from the barrel, and readying the drill to go back down the hole to retrieve more ice.
+
+A mechanical drill head showing the cutters used to shave an annulus around the ice to be cored
+A mechanical drill head showing the cutters used to shave an annulus around the ice to be cored. —Credit: Steven Profaizer, NSF
+A thermal drill head showing the absence of cutters
+A thermal drill head showing the absence of cutters. Thermal drills use a heating element to melt an annulus around the ice to be cored. —Credit: Tony Wendricks, Univ. Wisconsin
+Hand Augers
+When scientists are interested in collecting ice cores from the top 20- to 30-meters of a glacier or ice sheet a hand auger is commonly used. In the United States, there are four types of hand augers commonly used: the SIPRE auger, the PICO auger, the Kovacs auger, and the IDDO auger.
+
+The hand auger is the most basic of the mechanical drills and consists of a barrel and cutting head. The barrel is typically 1 meter long and with an internal diameter of either 3 or 4 inches. A protruding thread spiraling up and around the barrel is used to remove the ice chips from the cutting face. The cutter head includes 2 or 3 hardened steel or carbide teeth, and the protrusion of the teeth can be adjusted to control the depth of cut. If the depth of cut is set too small, the cutter head will skid over the ice surface rather than cut down into it. If the depth of cut is set too large, the teeth will become lodged in the ice halting the drilling altogether.
+
+The hand auger is driven from the surface by a series of extensions that are added as drilling proceeds into the ice. The hand auger, like all other coring drills, has to be retrieved each time a core section is recovered. Hand augers are either driven by hand, using an attached T-bar, or adapted to use a powered motor drive or drill. The maximum depth to which a hand auger and its extensions can be raised and lowered in and out of a borehole by two people is ~20-30 meters. A mechanical winch/lifting system is generally required at greater depths. The depth limit for hand augers is limited by the strength and flexibility of the extension rods to ~40 meters.
+
+A scientist operates a hand auger outside of Summit Station, Greenland
+A scientist operates a hand auger outside of Summit Station, Greenland. —Credit: David Noone
+Shallow Ice Coring
+When depths greater than ~40 meters need to be reached, ice coring projects typically use specialized electromechanical or electrothermal drills that hang on a cable. The cable runs from a winch over a top wheel—called a sheave—on a vertical tower. The cable has electrical wires inside that power the drill and allow for operation of the drill from the surface. This type of drilling is referred to as cable-suspended drilling, and is the preferred drilling method when drilling intermediate and deep ice cores. While several early ice drilling projects used conventional surface-driven rotary and wireline drill rigs to collect ice cores, the use of specialized cable-suspended drills to collect ice cores is now the common practice. Cable-suspended drill systems are preferred because they significantly decrease the weight of the drill and its power consumption, shorten the time of travel in and out of the borehole, and simplify the process of removing the cuttings from the borehole.
+
+While most cable-suspended drills are similar in design, the details do vary from drill to drill, often with specific projects and field sites in mind. For instance, due to the remoteness and high-altitude of most non-polar glaciers, the drills used at these locations must be lightweight and of modular design to allow for transportation by helicopter, or for glaciers located above the range of helicopter operation (e.g., above 5500 meters elevation), transportation by either porters or pack animals. In the polar regions, extremely low temperatures and very remote and logistically complicated field sites influence the design of the drills used.
+
+Below are general descriptions for two types of cable-suspended ice coring drills: electromechanical and electrothermal. More detailed information can be found by reading the literature noted in References and Links.
+
+Cable-Suspended Electromechanical Drills
+There are many versions of the electromechanical (EM) drill used in ice coring. The portion of the drill that goes down the borehole is called the sonde, and its only physical connection to the surface is through its suspending cable. The components of the sonde typically include a cutting head that is attached to an inner barrel, an outer barrel, a motor to rotate the inner barrel, and an anti-torque system that counteracts the rotational cutting action.
+
+The cutting head typically has 3 to 4 hardened steel or carbide teeth that shave ice in an annulus around the central, vertical core. The protrusion of the teeth and their subsequent depth of cut into the ice are controlled with small, adjustable buttons called shoes that are located on the bottom face of the cutter head. The vertical distance between the bottom of the shoes and the cutters determines the depth of cut into the ice.
+
+A protruding thread, also referred to as flights, spiraling up and around the inner barrel is used to remove the ice chips from the cutting face. As the cutting head spins around and the cutters shave the ice, the chips are transported up the flights between the two barrel sections. The inner barrel spins while the outer barrel stays stationary, and it is that difference that actually drives the chips upward along the flights to the top of the sonde thus removing them from the cutting face.
+
+Most cable-suspended EM drills are designed as double-barreled (e.g., an inner barrel and an outer barrel) for several reasons. Double-barreled drills collect ice chips more efficiently than single-barreled drills, and the added stiffness of the double-barreled design typically results in fewer breaks in the cores that are drilled, as well as straighter boreholes.
+
+Because of the great depths that can be reached, cable-suspended EM drills are often used with a drilling fluid to prevent closure of the borehole at depth (see Deep Ice Coring).
+
+The anti-torque system on EM drills often consists of three or four leaf springs that anchor the sonde to the wall of the borehole. If there is no anti-torque section, the motor will cause the entire EM drill and cable to rotate inside the borehole, preventing the ice from being cut and causing the cable to become wrapped.
+
+When a drill run is finished and the barrel is full with ice, the core is typically held in the inner barrel by spring-loaded lever arms called core dogs that grip, break, and retain the ice core when the cable and sonde is pulled upward. The sonde is then hoisted to the surface with the winch and the core removed. In many modern cable-suspended EM drill systems, the sonde and tower both tilt from the vertical position to the horizontal position to aid in the removal of the ice core and the chips.
+
+Scientists at Allan Hills, Antarctica use the Badger-Eclipse electromechanical drill to look for ice as old as 2.5 million years
+Scientists at Allan Hills, Antarctica use the Badger-Eclipse electromechanical drill to look for ice as old as 2.5 million years. Note the inner barrel on the left and the tilting outer barrel/tower design. —Credit: Melissa Rohde, Univ. Maine
+Drillers at WAIS Divide, Antarctica use the 4-Inch electromechanical drill to collect an ice core
+Drillers at WAIS Divide, Antarctica use the 4-Inch electromechanical drill to collect an ice core. The 4-inch Drill is a double-barreled drill with a stationary (non-tilting) tower. —Credit: Joseph Souney, Univ. New Hampshire
+Cable-Suspended Electrothermal Drills
+The electrothermal (ET) drill uses a ring-shaped heating element in the coring head to melt an annulus around the ice to be cored, rather than shaving it away with cutters like the EM drill. The electrical power to heat the coring head is fed through the drill's suspending cable.
+
+The meltwater that is produced by ET drills may either be left down the hole or stored in a tank within the sonde. When englacial temperatures are low and there is concern that the meltwater may re-freeze causing the borehole to close-in on itself, the meltwater is either stored in a tank in the sonde and emptied once on the surface, or the meltwater is mixed with an antifreeze solution and left down the hole. For depths below which borehole closure in an open hole is a concern, the meltwater is left down the hole to help prevent hole closure. If re-freezing is also a concern, the meltwater that is left down the hole is mixed with an antifreeze solution.
+
+ET drills have only one barrel, so the size of the borehole is generally smaller than a borehole from an EM drill for a similar diameter ice core. ET drills are mechanically much simpler than EM drills because they contain fewer moving parts. They also do not require an anti-torque system since there is no rotational cutting action. ET drills are also generally more compact in size and weight than EM drills, in part because no chip storage is required.
+
+While ET drills are particularly effective at coring through warmer ice (e.g., ice approximately above -10°C) they have also been used to drill in cold ice in Antarctica. The main disadvantage of using ET drills to drill cold ice (e.g., ice approximately below -15°C) is the large thermal shock that occurs to the core, which is bad for many types of measurements that are typically made on ice cores.
+
+A 2-meter section of ice core from Combatant Col, British Columbia, is removed from an electrothermal drill
+A 2-meter section of ice core from Combatant Col, British Columbia, is removed from an electrothermal drill. Note the absence of cutters on the drill head, as well as the absence of an anti-torque system on the sonde. —Credit: Doug Clark, Univ. Washington
+Deep Ice Coring
+For depths below which borehole closure in an open hole is a concern, a drilling fluid is used to make sure that the pressure in the borehole is approximately the same as the surrounding ice to prevent closure of the borehole. The plastic nature of ice, which is what produces the hole closure, is strongly temperature dependent and therefore the depth at which a drilling fluid is required to prevent borehole closure is also strongly temperature dependent. A drilling fluid may be required as early as 100 meters depth on glaciers that are at their melting point (e.g., temperate glaciers), or as deep as 1000 meters on the high, extremely-cold interior plateau of East Antarctica. In general, drilling fluids are used whenever depths greater than ~300 meters are required.
+
+Deep ice core drilling, that is, to depths where the use of a drilling fluid is required, is typically carried-out using cable-suspended EM drills that use a pump to circulate both the drilling fluid and the chips through screens that separate the chips from the fluid.
+
+The deepest ice core records come from Antarctica and Greenland, where the very deepest ice cores extend to 3 kilometers (over two miles) in depth. The oldest continuous ice core records extend to 130,000 years in Greenland, and 800,000 years in Antarctica. The United States (U.S.), Denmark, Russia, France, Germany and Japan have all developed highly specialized cable-suspended EM drills for the purpose of recovering ice cores to depths of 2 kilometers or more.
+
+The most recent U.S. deep ice coring project is the West Antarctic Ice Sheet Divide (WAIS Divide) project in West Antarctica, funded by the National Science Foundation. After seven field seasons of preparation and drilling, the WAIS Divide project reached its final depth goal of 3,405 meters on December 31, 2011, completing the longest U.S. ice core ever recovered from the polar regions.
+
+The WAIS Divide ice core was drilled using the U.S. Deep Ice Sheet Coring Drill (DISC Drill). The DISC Drill is a cable-suspended EM drill system capable of cutting and retrieving cores of ice—in 3 meter long sections—to depths of ~4,000 meters. The sonde consists of a cutter head, a core barrel in which the core is collected, screens to remove chips from the drill fluid, a motor and transmission to drive the cutter head, a pump to circulate ice cuttings in the drill fluid through the sonde, an instrumentation/control section, an anti-torque section to stabilize the drill in the borehole, and the mechanical, electrical power, and fiber optic terminations of the cable. The 15 mm diameter cable suspends the drill sonde in the borehole and also provides electrical power and fiber optic communication to the sonde. The drill's cutter head contains four razor-sharp cutters that shave out an annulus of ice, which the 14 meter long sonde slides down into. As the sonde slides down into the annulus it slides over the core, which is 12.2 centimeters in diameter. When a cable pulls up the sonde, four cams grab the core and fracture it. After the sonde is pulled back to the surface, the sonde and tower are tilted as one unit from a vertical to a horizontal orientation and the core is pushed out.
+
+The 3,405 meter long core was drilled over the course of six field seasons. Typically, ~40 days were available each season for drilling, and drilling operations were conducted on a 24-hours per day, 6-days per week schedule by a crew of ~9 drillers (3 shifts of 3 drillers/shift) each season.
+
+The DISC Drill's sonde and tower tilt from vertical to horizontal to aid in the removal of the ice core and chips
+The DISC Drill's sonde and tower tilt from vertical to horizontal to aid in the removal of the ice core and chips. In this image the tower and sonde are at a ~45° position inside the drill slot. —Credit: Jay Johnson, Univ. Wisconsin
+The DISC Drill's cutter head and core barrel with an ice core inside
+The DISC Drill's cutter head and core barrel with an ice core inside. An arrow is marked on the core to indicate which side of the core was facing north when the core was in the ice sheet. —Credit: Jay Johnson, Univ. Wisconsin
+The components of the DISC Drill's winch system include the winch drum
+The components of the DISC Drill's winch system include the winch drum, which can hold 4,400 meters of cable, a level-wind system that allows for the payout of cable from the winch drum with a single sheave, and a drive system. —Credit: Jay Johnson, Univ. Wisconsin
+Video Gallery
+Live from the National Science Foundation Ice Core Facility
+On February 9, 2023, the Denver Museum of Nature & Science held a virtual field trip to the National Science Foundation Ice Core Facility (NSF-ICF). Much like reading tree rings, scientists can read the past (and even predict the future!) using ice cores cut and transported from extreme places such as Antarctica and Greenland. So, what is the ancient ice telling us? And how is this ice different from what we might pull out of a freezer? Watch the recording from the virtual field trip and hear Assistant Curator Richard Nunn talk about the NSF-ICF and ice cores!
+
+Credit: Denver Museum of Nature & Science
+
+
+NSF Ice Core Facility - March 31, 2022
+Dani Sturges from 9News visited the NSF Ice Core Facility in Denver, Colorado, and spoke with Assistant Curator Richard Nunn.
+
+Credit: Colorado and Company KUSA-TV
+
+
+Antarctic Ice Core Research at National Ice Core Lab
+Ars Technica's Scott Johnson visited the USGS National Ice Core Lab in Colorado and talked to researchers studying deep ice cores from Antarctica to find clues to climate change patterns up to 50,000 years ago. Read the article.
+
+
+Ancient Ice Reveals Earth's Climate History
+LAKEWOOD, Colo. (AP) – Inside a huge walk-in freezer in suburban Denver, a college student in a thick parka shoots a jolt of electricity through a yard-long column of ice extracted from Antarctica. Just outside the freezer, in a much warmer room, a computer wired to the ice registers a sudden spike in a jagged red line crawling across the screen. "Hey, we got a volcano," says T.J. Fudge, a University of Washington researcher. The electric current has detected a thin layer of volcanic residue in the ice, deposited by an eruption about 8,000 years ago.
+
+Credit: Dan Elliot, Associated Press
+
+
+National Ice Core Lab Stores Valuable Ancient Ice
+It's a freezing cold day inside the National Ice Core Laboratory (NICL) in Denver, Colo., as it is every day of the year. That's because the NICL is a facility for storing and studying ice cores recovered from the polar regions of the world. It's -10°F inside, so everyone is bundled up in ski parkas, insulated gloves and boots. And, saws are buzzing, as scientists from all over the U.S. are measuring and cutting pieces of precious Antarctic glacier ice to take back to their labs for research. While their research goals vary, all the scientists are here on this day for same thing - ice cores from the WAIS Divide Ice Core project.
+
+
+CO2 in the Ice Core Record
+Studying ice cores at the National Ice Core Lab, Dr. Richard Alley shows how ancient ice contains records of Earth's past climate. Over 400,000 years, and even longer, levels of carbon dioxide (CO2) have risen and fallen from about 180 parts per million to 280, varying from colder in the Ice Ages to warmer in interglacial periods. Today, however, for the first time in more than 400,000 years, CO2 is at 390 parts per million and continuing to rise at 2 parts per million (ppm) per year. Alley relates the onset of this change to the Industrial Revolution.
+
+Credit: EARTH: The Operators' Manual (Segment 5)
+
+
+NSF-ICF Core Processing Line
+This excellent short video, filmed during the 2010 WAIS Divide core processing line (CPL), provides a good summary of how many CPLs are carried out at the NSF-ICF.
+
+The video was filmed and produced by Logan Mitchell.
+
+
+Alaska mountain glaciers retreating due to climate change
+With support from the National Science Foundation (NSF), the scientists are working to reconstruct the climate history of this area over the last thousand years. They're researching the relationship between the temperatures and precipitation rates, and the response of glaciers in this area to climate changes.
+
+In 2013, the team drilled ice cores high atop Denali's Mount Hunter. By carefully analyzing ice layers inside the cores, the team is developing a record of temperature change in the Alaska range over the last millennium.
+
+
+Ice Core Secrets Could Reveal Answers to Global Warming
+At the Stable Isotope Lab in Boulder, Colo., scientists are doing a lot of the same things that those CSI folks do on TV. But instead of being "crime scene investigators," these experts are more like "cold scene investigators." Geoscientists like lab director Jim White work primarily with one raw material: ancient ice, in the form of ice cores.
+
+The ice cores come from Greenland and Antarctica. And, says White, they hold secrets from thousands of years ago.
+
+
+Time History of Atmospheric Carbon Dioxide (Showing Ice Core Data)
+History of atmospheric CO2 from 800,000 years ago until January 2016. Measurements were taken in dozens of locations around the world (the red ball measures CO2 in Hawaii and the blue dot measures CO2 at the South Pole). The ice core CO2 data starts at roughly the 2:30 minute mark.
+
+
+How do Ice Cores Allow Researchers to look at Global Climate Change?
+Bess Koffman, PhD Student at the University of Maine, explains how ice cores are used to study global climate change.
+

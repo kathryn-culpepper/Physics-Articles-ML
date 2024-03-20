@@ -1,0 +1,61 @@
+Salt may have carved out Mercury’s terrains, including glacierlike features
+surface of Mercury
+Mercury’s mottled surface (seen in this image from NASA’s Messenger probe) may have been shaped largely by ephemeral compounds called volatiles.
+
+CARNEGIE INSTITUTION OF WASHINGTON, JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY, NASA
+
+Share this:
+Email
+Facebook
+Twitter
+Pinterest
+Pocket
+Reddit
+Print
+By Shi En Kim
+
+JANUARY 4, 2024 AT 9:00 AM
+Mercury’s surface might not be quite so terra firma, at least on geologic timescales.
+
+The closest planet to the sun is a world sculpted by volatiles — ephemeral compounds that can freeze, flow or float into space over time, analogous to water on Earth. Salt, the primary volatile on Mercury, appears to have reshuffled the planet’s landscape over billions of years and might even flow — very slowly — in glacierlike landforms, researchers report in the November Planetary Science Journal. The volatile could possibly even form habitable niches deep underground, the authors speculate.
+
+Subscribe to Science News
+Get great science journalism, from the most trusted source, delivered to your doorstep.
+
+SUBSCRIBE
+Scientists have long suspected that many of Mercury’s signature terrains have been shaped by volcanic debris from deep within the planet. Instead, “volatile-driven resurfacing on Mercury has been one of the major engines in the evolution of the landscape,” says Alexis Rodriguez, a space research scientist at NASA’s Marshall Space Flight Center in Huntsville, Ala.
+
+Until relatively recently, researchers thought Mercury couldn’t even harbor such salts. The planet sits so close to the sun that scientists assumed the compounds would either be baked off or stripped away by the solar wind. But when NASA’s Messenger spacecraft circled the planet in the early 2010s, the probe detected unmistakable signs of volatiles (SN: 6/17/11).
+
+The sun-scorched world has done more than cling to them, the new study proposes. It has stockpiled them in abundance throughout Mercury’s crust, possibly in a planetwide cache. Those volatiles might in turn be responsible for carving two common geologic features: chaotic terrains and glacierlike flows.
+
+Mercury’s surface is a jumble of hills, plateaus and grooves (SN: 5/10/16). Previous theories suggested that long-ago volcanic outbursts were primarily responsible for the chaotic terrain. But that doesn’t jibe with where the terrains are found, say Rodriguez and colleagues.
+
+If volcanic outbursts had formed the messy landscape, they would have preferentially erased certain preexisting geologic features, such as smaller impact craters, over others. But there are plenty of chaotic terrains that harbor ghosts of craters big and small that collapsed long ago, the researchers point out. They think the crater-preserving chaotic terrains formed another way: from volatiles in the ground leaking into space, such that the land loses structural integrity and collapses like a Jenga tower. The team previously proposed this happened elsewhere on the planet.
+
+features on Mercury
+The cracked and puckered terrain of Mercury’s Caloris Basin, an impact crater a bit wider than Texas, is a classic example of the planet’s chaotic terrain. In this false-color image from the Messenger probe, orange denotes terrain flooded long ago by lava, whereas blue highlights material unearthed by more recent collisions.
+CARNEGIE INSTITUTION OF WASHINGTON, JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY, NASA
+In the new study, a close analysis of features at the planet’s north pole suggests similar sculpting done by salts. And there’s possibly even more evidence for volatile sculpting in the basins of  asteroid craters — formations that look like “glaciers” made of salt. The structures appear as oozing blobs in photos from the Messenger probe and probably formed over the eons after asteroids hit the planet’s surface and exposed buried volatiles, the team proposes. The heat of the impact — reaching several hundred degrees Celsius — mobilizes the underlying volatiles in the crust to trudge towards lower ground and pool like thick syrup, Rodriguez explains.
+
+Like Earth’s glaciers, these slow-moving land masses carve up the land wherever they flow, the researchers say (SN: 5/12/17). Divots tens of meters deep pockmark their surface, indicating that the salt glaciers are losing volatiles into Mercury’s tenuous atmosphere. After a billion years, the formations might disappear altogether.
+
+Mercury feature resembling glaciers
+Mercury has globular geological structures that resemble glacier flows (several marked in this Messenger image). Pits on the glacier’s surface may be caused by volatiles escaping into space.
+J.A.P. RODRIGUEZ ET AL/THE PLANETARY SCIENCE JOURNAL 2023 AND CARNEGIE INSTITUTION OF WASHINGTON, JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY, NASA
+Interestingly, the ubiquity of surface volatiles (and their geologic effects) suggests there’s a lot more lurking underground. Rodriguez and colleagues estimate that a volatile-rich layer in the planet’s crust can run up to several kilometers deep. That’s thick enough to fashion pockets of habitability to potentially shelter hardy critters from the extreme temperatures on Mercury’s surface, the team argues.
+
+Whether life could survive there in theory or not, the mere presence of glaciers on Mercury is in itself surprising. If Mercury’s geologic features do, in fact, count as glaciers, that means they’re common throughout our solar system, from the sun’s closest neighbor to the farthest dwarf, Pluto.
+
+However, other scientists say the “glacier” label is moot. The “glaciers” could contain more rocky material than volatiles, says Sean Solomon, a retired planetary scientist at Lamont-Doherty Earth Observatory in Palisades, N.Y., and the principal investigator of the Messenger mission. So perhaps the landforms are more like landslides lubricated by volatiles. Still, he says, the study’s argument for how the structures formed is plausible.
+
+The new ideas are radical, notes David Rothery, a planetary scientist at the Open University in Milton Keynes, England. “But it all fits the pattern: Mercury is surprisingly rich in volatiles, and we have yet to understand the limits of what the volatiles are able to do to Mercury’s landscape.” A revisit with more advanced instruments than Messenger’s is very much in order, Rothery says.
+
+Fortunately, BepiColombo, a joint endeavor between the European and Japanese space agencies, is on the way (SN: 1/15/21). Launched in 2018, the spacecraft will enter Mercury’s orbit in December 2025. “BepiColombo, as well as answering some of those questions, is going to give us some more surprises,” says Rothery, who is involved with the mission. “I’d be very surprised if we are not surprised.”
+
+Questions or comments on this article? E-mail us at feedback@sciencenews.org | Reprints FAQ
+
+CITATIONS
+J.A.P. Rodriguez et al. Mercury's hidden past: revealing a volatile-dominated layer through glacier-like features and chaotic terrains. The Planetary Science Journal. Vol. 4, November 2023, p. 219. doi: 10.3847/PSJ/acf219.
+
+J.A.P. Rodriguez et al. The chaotic terrains of Mercury reveal a history of planetary volatile retention and loss in the innermost solar system. Scientific Reports. Published online March 16, 2020. doi: 10.1038/s41598-020-59885-5.

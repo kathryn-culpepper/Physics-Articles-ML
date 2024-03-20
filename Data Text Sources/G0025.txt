@@ -1,0 +1,18 @@
+How frequent are tides?
+Coastal areas experience two low tides and two high tides every lunar day, or 24 hours and 50 minutes.
+description of image
+The two tidal bulges caused by inertia and gravity will rotate around the Earth as the moons position changes. These bulges represent high tides while the flat sides indicate low tides.
+
+A lunar day is how long it takes for one point on the Earth to make one complete rotation and end up at the same point in relation to the moon. The reason that a lunar day is longer than a normal 24-hour day is because the moon rotates around the Earth in the same direction that the Earth is spinning. It takes the Earth an extra 50 minutes to “catch up” to the moon.
+
+Tides are very long waves that move across the oceans. They are caused by the gravitational forces exerted on the earth by the moon, and to a lesser extent, the sun. When the highest point in the wave, or the crest, reaches a coast, the coast experiences a high tide. When the lowest point, or the trough, reaches a coast, the coast experiences a low tide.
+
+Imagine the ocean is shaped like a football pointing at the moon. The football’s pointed ends represent the parts of the Earth experiencing high tide and the football’s flat sides are the parts of the earth experiencing low tide.
+
+The point facing the moon is formed because the gravitational pull of the moon is strongest on whichever side of the Earth faces it. Gravity pulls the ocean towards the moon and high tide occurs.
+
+The bulge on the far side of the Earth is caused by inertia. The water moving away from the moon resists the gravitational forces that attempt to pull it in the opposite direction. Because the gravitational pull of the moon is weaker on the far side of the Earth, inertia wins, the ocean bulges out and high tide occurs.
+
+As the Earth spins, different areas of the planet face the moon, and this rotation causes the tides to cycle around the planet.
+
+NOS scientists advanced tidal recording systems as well as satellite imagery to monitor tides and water levels. These data are used to predict ocean behavior in order to protect our coasts and coastal communities.

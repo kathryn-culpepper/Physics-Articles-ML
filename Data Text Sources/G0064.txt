@@ -1,0 +1,92 @@
+Hurricanes are one of nature’s most powerful storms. They produce strong winds, storm surge flooding, and heavy rainfall that can lead to inland flooding, tornadoes, and rip currents.
+A satellite image of Hurricane Humberto with a well-defined eye off the coast of the Southeastern United States. 
+Hurricane Humberto, as captured by a NOAA satellite September 15, 2019. (Image credit: NOAA Satellites)
+
+Download Image
+What is a hurricane?
+Hurricanes, known generically as tropical cyclones, are low-pressure systems with organized thunderstorm activity that form over tropical or subtropical waters. They gain their energy from warm ocean waters.
+
+Two satellite images side by side. In the image on the left, there is no clear thunderstorm banding. On the right, the disturbance has escalated to a tropical storm and it has become "organized" with bands wrapping around the center.
+Satellite images of the disturbance that became Hurricane Maria in September 2017. In the image on the left, there is no clear thunderstorm banding. On the right, the disturbance has escalated to a tropical storm and it has become "organized" with bands wrapping around the center. (NOAA Satellites/NOAA Education)
+Download Image
+ 
+
+As storm systems strengthen into hurricanes, the surface winds move continuously in a circular motion. Meteorologists refer to this pattern as “closed circulation." The direction of circulation is different depending on where the storm is located: it is counter-clockwise in the Northern hemisphere and clockwise in the Southern hemisphere.
+
+This satellite image of Hurricane Michael from October 10, 2018 has arrows superimposed on top to show the closed circulation wind pattern that is characteristic of a hurricane.
+This satellite image of Hurricane Michael from October 10, 2018 has arrows superimposed on top to show the closed circulation wind pattern that is characteristic of a hurricane. (NOAA Satellites/NOAA Office of Education)
+Download Image
+ 
+
+These rotating winds lead to the development of the characteristic “eye” of the hurricane, the calm, clear center of the storm. The eye is surrounded by the eyewall, where winds are strongest. 
+
+Tropical cyclones are classified by their maximum wind speed. 
+
+Winds less than 39 mph: Tropical depressions
+Winds 39-73 mph: Tropical storms 
+Winds 74 mph or greater: Hurricanes
+Major hurricanes have winds of at least 111 mph and can reach speeds of over 180 mph, with gusts of 200 mph. 
+ 
+
+This image from the GOES-7 satellite shows Hurricane Andrew at its peak intensity on August 24, 1992 before making landfall near Homestead, Florida.
+Hurricane Andrew: A NOAA scientist’s retrospective
+In the rearview mirror, life-changing events can look a little different. An extreme weather event survived by a young Anthony Arguez later altered his life in a positive way. Despite the devastation, Hurricane Andrew’s landfall in the summer of 1992 sent him on a new path that led to NOAA.
+
+What’s in a name?
+Hurricanes, typhoons, and cyclones are actually all the same type of storm, but have different names based on where they form. In the North Atlantic and central and eastern North Pacific, these storms are called “hurricanes.” In the western North Pacific, they are called “typhoons” and in the South Pacific and Indian Ocean, they are called “cyclones.” (Tropical cyclones are rare in the South Atlantic.)
+
+Once a storm escalates to tropical storm-level winds, it is given a name. The names are chosen by an international committee of the World Meteorological Organizationoffsite link (WMO). Names are reused every six years, although the WMO may retire the name of a particularly deadly or costly storm.
+
+Tropical Storm Allison on June 5, 2001, early in its life, strikes the Gulf coast of Texas and Louisiana. Satellite image is from GOES-8, channel 1 visible mixed with the cloud-free blue marble as background.
+Remembering Tropical Storm Allison
+On the 18th anniversary of Tropical Storm Allison, we take a look back at the storm, which never reached hurricane-level winds but brought devastating flooding to parts of Texas.
+How do tropical cyclones form?
+Tropical storms form from an atmospheric disturbance like a tropical wave or group of thunderstorms. For these disturbances to grow into a tropical cyclone, the following environmental conditions must be in place:
+
+Warm ocean waters (at least 80°F/27°C).
+An unstable atmosphere driven by differences in temperature, where temperature decreases with height.
+Moist air near the mid-level of the atmosphere.
+Must be at least 200 miles (with rare exceptions) north or south of the equator for it to spin (due to the Coriolis effect).
+Little change in wind speed or direction with height (known as low vertical wind shear).
+This image of Tropical Storm Arlene was captured by NOAA/NASA Suomi NPP satellite on April 20, 2017
+Tropical storms and hurricanes in winter and spring?
+Nature doesn’t always pay attention to the calendar.
+Hurricane safety 
+Hurricanes, tropical storms, and tropical depressions pose a variety of threats to people and property. Storm surge and inland flooding have historically been the number oneoffsite link and two causes of loss of life during hurricanes. Hurricanes can also bring strong winds, tornados, rough surf, and rip currents. The time to prepare for a hurricane is before hurricane season begins, June 1 in the Atlantic and May 15 in the Eastern and Central Pacific.
+
+Hurricane categories only tell part of the story 
+Hurricanes are categorized using the Saffir-Simpson Hurricane Wind Scale, which addresses wind speed on a scale from one to five. However, a tropical storm or category one or two hurricane can cause as much overall damage as a major hurricane.
+ 
+
+NOAA-20 captured this nighttime view of the eye of Cyclone Cebile, as it swirled at Category 4 strength in the Indian Ocean on January 30, 2018.
+The Saffir-Simpson Hurricane Wind Scale
+The scale was created by wind engineer Herb Saffir and meteorologist Bob Simpson to help explain damage that buildings will sustain under different wind speeds. Importantly, the Saffir-Simpson scale does not include hazards from rain, flooding, or storm surge.
+Every storm is different
+Each tropical system can bring a variety of unique, life-threatening hazards to a given location. It’s critical to know your risk, especially if you live in a storm surge evacuation zone or in an area where flooding could occur. Even if you’ve previously survived a storm in your area, future hurricanes may bring different hazards.
+
+Local officials may issue evacuation orders before storm or storm surge watches or warnings are issued for your area. Evacuation orders are released to ensure residents have enough time to leave vulnerable areas before the first hazards from the storm arrive. Be prepared to evacuate and do so immediately when ordered.
+
+Hurricanes bring extreme rainfall 
+Warm air can hold more moisture than cool air. In tropical cyclones, the air is particularly warm and can hold a tremendous amount of moisture. The moisture cools as it rises and condenses into heavy rain, often much more than a typical low pressure systemoffsite link. These rains can occur not only at the coast, but many miles inland, causing flooding that can continue for days or even weeks after a storm. Always follow evacuation orders and never drive into flooded roadways. If you live in a low-lying or flood prone area, always have an evacuation plan before a storm begins.
+
+Mosaic image showing new NOAA hurricane products. 
+The state of hurricane forecastingoffsite link
+The National Hurricane Center has a long history of issuing tropical cyclone advisories, with the first known recorded forecast being in 1954, when 24-hour predictions of a storm’s track were made. Since then, forecasts have been expanded out in time and added predictions of intensity, size, and associated hazards, such as wind, storm surge, and rainfall.
+Water, not wind, is the biggest threat
+Though hurricanes are well known for strong and destructive winds, hurricane storm surge is the greatest threat. Storm surge is water that is pushed toward the shore by winds swirling around the storm. This rise in water level can cause severe flooding in coastal areas. With much of the United States' densely populated Atlantic and Gulf Coast coastlines less than 10 feet above mean sea level, the danger from storm surges is tremendous. Historically, about half of direct fatalitiesoffsite link from hurricanes that make landfall in the U.S. are from storm surge. Always follow evacuation orders.
+
+Run from the water, hide from the wind
+When you’re at risk from flooding, it’s important to get to high ground away from bodies of water and any flood-prone areas. When there are high winds, but no danger of flooding (rare in hurricanes, but also important during any storm), it’s important to shelter in place in a sturdy structure, away from doors and windows. This is why most evacuation orders are given for water, not wind.
+
+Causes of direct fatalities from Atlantic tropical cyclones 1963-2012. Storm surge: 49%, rain: 27%, surf: 6%, offshore: 6%, wind: 8%, tornado: 3%, other: 1%. Note that 88% of deaths can be attributed to water hazards. Chart adapted from Fatalities in the United States from Atlantic Tropical Cyclones: New Data and Interpretation by Edward N. Rappaport, 2014.
+Chart adapted from Fatalities in the United States from Atlantic Tropical Cyclones: New Data and Interpretation by Edward N. Rappaport, 2014.
+Download Image
+ 
+
+Stay safe after a storm passes
+Hurricane-related hazards don’t disappear when the weather clears. After the storm, use generators safely, be careful not to overexert yourself, and do not venture into storm-damaged areas before it is safe to do so. Many fatalities are reported after storms end, due to heart attacks, issues related to power outages, and accidents.
+
+EDUCATION CONNECTION
+As the climate changes, hurricane impacts also change. Coastal communities are particularly vulnerable as rising sea levels compound storm surge flooding. This collection provides educators and students with resources to explore how hurricanes form, their potential effects, ways to prepare for hurricanes, and even a citizen science project to classify hurricanes from satellite imagery.
+
+Last updated May 1, 2020

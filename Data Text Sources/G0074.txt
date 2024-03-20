@@ -1,0 +1,29 @@
+Clusters of atmospheric rivers are costlier than expected
+
+Early in 2023, a series of storms dumped record-breaking amounts of rain and snow across California. Flooding, power outages, and mudslides from the deluge resulted in 21 deaths and more than $3 billion in losses.
+
+
+The deluge resulted from streams of water vapor in the sky known as atmospheric rivers, which paraded over California one after another. In all, nine atmospheric rivers hit California between Dec. 26, 2022, and Jan. 17, 2023. New research from Stanford University suggests back-to-back atmospheric rivers, which are likely to become more common because of climate change, bring particularly severe damages.
+
+The study, published Jan. 19 in Science Advances, shows that atmospheric rivers arriving in rapid succession cause three to four times more economic damage than they would have individually by drenching already-saturated soils and increasing flood risks.
+
+"We're going to see more feast-or-famine conditions, where we have really dry years and also have years with one atmospheric river after another, as we saw in the 2023 winter," said senior study author Jack Baker, professor of civil and environmental engineering, which is in the Stanford Doerr School of Sustainability and the Stanford School of Engineering. "The more we can anticipate the flooding and damage these storms can cause, the more rapidly we can respond."
+
+More frequent and more damaging
+Atmospheric rivers are long, narrow bands of water vapor that travel from the tropics. At their strongest, these systems can carry up to 15 times the amount of water flowing out of the Mississippi River. When all this moisture hits the U.S. West Coast it cools and condenses into rain and snow. Atmospheric rivers provide roughly half of California's annual precipitation, restoring the state's snowpack and filling reservoirs, but the storms can also cause significant damage, especially when they arrive in groups.
+
+
+Using data from flood insurance claims and county-level estimates of storm damage from the National Centers for Environmental Information, the researchers analyzed the economic losses caused by atmospheric rivers. Atmospheric rivers that arrived within five days of each other were considered part of a sequence and caused much more damage than the researchers expected.
+
+"When I started this work, I was expecting the losses to be 10% or 20% higher for atmospheric rivers occurring in a sequence, but the losses are tripled or quadrupled," said lead study author Corinne Bowers, Ph.D. '23, who worked on the study as part of her doctoral thesis as a student in Baker's lab. "It shows that we can't just look at one storm at a time. Emergency management agencies need to consider what happened in the last week or month and the current state of the hydrologic system when communicating risk and making water management decisions."
+
+The researchers also noted that stronger atmospheric rivers were the most likely to arrive as part of a sequence. Atmospheric rivers are rated on a scale of 1 to 5, based on their length and how much water they are carrying. Categories 1 and 2 are considered primarily beneficial, categories 4 and 5 are primarily hazardous, and category 3 is an even split of the two. From 1981 to 2021, Category 4 and 5 atmospheric rivers that caused flood damage were almost always part of a sequence, compounding the risks they posed and the damage they caused.
+
+Planning for California's future
+The researchers hope that their work will help improve public communication about the dangers of incoming atmospheric rivers and help flood insurance companies analyze potential risks.
+
+"In the disaster world, we usually characterize events individually, so this is a bit of a different way of thinking about the problem," Baker said. "The idea that you can see three to four times more losses from an atmospheric river storm depending on the presence and intensity of storms around it is a really big deal."
+
+Quantifying the potential economic damage from atmospheric rivers could also help California's water managers make decisions ahead of incoming storms. California's water systems are heavily managed to try to ensure that there is water for municipal use, farming, and recreation during droughts and to mitigate damage from harmful flooding during the wet season.
+
+The water supplied by atmospheric rivers is a vital part of this system but can be challenging to manage because the storms deliver so much of it in such a short period of time, Baker said. "The more we can understand the dynamics of those systems, the better."

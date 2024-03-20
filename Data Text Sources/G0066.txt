@@ -1,0 +1,24 @@
+2023 was the hottest year on record—and even hotter than expected
+Greenhouse gases, El Niño, and clean air fueled surprising spike in temperatures
+
+It comes as no surprise to anyone who sweated through it: 2023 was the hottest year in human history. Average surface temperatures rose nearly 0.2°C above the previous record, set in 2016, to 1.48°C over preindustrial levels, the European Union’s Copernicus Climate Change Service reported today. Only Australia was spared record-setting heat. The extreme conditions are a “dramatic testimony of how far we now are from the climate in which our civilization developed,” said Carlo Buontempo, Copernicus’s director, in a statement.
+
+Yet 2023’s record temperatures—likely to be confirmed later this week by analyses from NASA, the U.S. National Oceanic and Atmospheric Administration, the United Kingdom’s Met Office, and Berkeley Earth—come with a mystery. Humanity’s unabated burning of fossil fuels is the dominant driver of the long-term trend, but it is insufficient to explain 2023’s sudden spike, says Michael Diamond, an atmospheric scientist at Florida State University.
+
+One exacerbating factor was the end of a La Niña climate pattern, which from 2020 to 2022 stirred up an increased amount of deep cold water in the eastern Pacific Ocean that absorbed heat and suppressed global temperatures. In 2023, the pattern flipped into an El Niño event, which blanketed the equatorial Pacific with warm waters and began to boost global temperatures.
+
+SIGN UP FOR THE SCIENCEADVISER NEWSLETTER
+The latest news, commentary, and research, free to your inbox daily
+But the flip is not enough to explain 2023’s record, Gavin Schmidt, director of NASA’s Goddard Institute for Space Studies, wrote in a blog post last week. Typically, El Niño plays a larger role in global temperatures the year after it starts—in this case, this year. And in 2023, heat surged far from El Niño’s influence, Schmidt noted, above the northern Atlantic and Pacific oceans.
+
+The 2022 eruption of Hunga Tonga–Hunga Ha‘apai, a volcano in the south Pacific, had been a suspect in the global temperature jump because of the vast amounts of climate-warming water vapor it injected into the stratosphere. But early studies neglected the sulfate particles it also sent into the upper atmosphere, which reflected light and canceled out the water vapor’s warming effect, says Mark Schoeberl, an atmospheric scientist at the Science and Technology Corporation. “For 2022, it was a nonevent. I have continued my computations into 2023—still a nonevent.”
+
+Perhaps the best explanation for the extra warming is the continued drop in light-blocking pollution as society shifts to cleaner sources of energy, says Tianle Yuan, an atmospheric physicist at NASA’s Goddard Space Flight Center. In 2022, satellites began to detect this decrease from space. In 2020, new regulations from the International Maritime Organization added to the effect when ships began to cut sulfur pollution—and inadvertently curbed the light-reflecting clouds that the sulfur particles help create. A preprint on Research Square suggests the loss of these clouds alone can explain half of the increase in the warming rate seen so far this decade, says Yuan, who led the work. “[It] would not account for all the warming we see this year, but it would represent a significant additional warming.”
+
+ADVERTISEMENT
+
+In a November 2023 paper, famed climate scientist James Hansen suggested curbing pollution has accelerated warming to 0.27°C per decade, up from the 0.18°C per decade rate experienced from 1970 to 2010. But the acceleration has yet to show up in records of heat in the ocean depths, which resist the short-term fluctuations of the atmosphere and offer a truer sense of long-term trends.
+
+The mystery of the past year leaves projections for this year less certain than usual. El Niño may inflate temperatures further, pushing the world briefly past the arbitrary 1.5°C “limit” settled on by policymakers in 2015’s Paris agreement to protect small island nations from extreme sea-level rise. But extreme heat will again have to develop over the northern oceans for the world to breach the threshold—hardly a sure bet.
+
+Regardless, the long-term warming pattern is certain to continue, as it has for decades—until fossil fuel burning ends.

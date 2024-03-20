@@ -1,0 +1,58 @@
+o you want to prove that the Earth is round?
+
+Hop on a plane, and fly to Cape Town, South Africa, or Melbourne, Australia — two major cities located in the Southern Hemisphere. There, you won’t be able to see the North Star.
+
+This might seem like an expensive trip, but it’s one part of an experiment that can be done to disprove the Flat Earth Theory — a theory at the center of a popular new documentary — Behind the Curve — that is now streaming on Netflix.
+
+The documentary follows several people who espouse the Flat Earth Theory, which is the belief that the Earth is a plane or a disk, and try to generate support for their cause through Internet videos, social media, podcasts, meetings, and even international conferences.
+
+Jason Steffen, an assistant professor of physics and astronomy at UNLV, works in the field of exoplanets (planets that orbit distant stars) and has a history in experimental studies of dark matter, dark energy, and gravity. For more than 10 years, Steffen was also a member of the science team for NASA’s Kepler mission. Discoveries from that mission revolutionized our understanding of planets and planetary systems, Steffen said.
+
+As such, he was able to help us break down reasons why the Flat Earth Theory falls flat.
+
+OK, so how do we know — scientifically — that the Earth is a sphere?
+At a very basic level, we can see the Earth’s curvature through satellites that we’ve launched into space. Additionally, through the use of high-powered telescopes, we’ve been able to examine planets both in our solar system and beyond, and all of them are spherical in shape.
+
+There is a very deep, fundamental reason why the Earth is round: the force of gravity depends upon the distance between two interacting objects, and the only three-dimensional object you can make with a single distance is a sphere. We can measure the behavior of gravity in the laboratory with a variety of highly sensitive experiments. Each of these experiments shows that the force of gravity depends only on the mass of the two objects and the distance between them. If, on the other hand, you wanted to form a flattened object using gravity alone, the force of gravity would have to depend upon two, perpendicular distances in two perpendicular directions.
+
+Now, let’s backtrack to the time before satellites and telescopes. Why did people once think that the Earth was flat?
+The primary reason that ancient people believed that the Earth was flat was that it looks flat from our vantage point on the ground. Most people throughout history never traveled more than a few miles from their place of birth, so the horizon that they saw was always the same. Moreover, most people were more worried about meeting the necessities of life than they were about the shape of the Earth.
+
+The misconception that the Earth must be flat because it looks flat to us arises simply because the Earth is big. The height of an adult is much less than one millionth of the Earth's radius. In order to see the curvature of the Earth in a single field of view, you would need to be perched above the surface a sizable fraction of that radius, and one millionth wouldn't be considered "sizable.”
+
+What clues changed their thinking?
+This state of affairs started to change about 2,500 years ago during the Iron Age, especially with the Greeks. There are two primary reasons that the Greeks knew the Earth was round:
+
+Lunar eclipses. First, they saw that during a lunar eclipse the shadow of the Earth always had a round profile. This happened regardless of the time of night that the eclipse occurred, the season, or the direction that the shadow crept across the Moon's surface. The only object that casts a circular shadow no matter how you shine a light across it is a sphere. Any other shape would not be able to cast a round shadow under this variety of circumstances.
+Star patterns. The second observation is how the pattern of stars changes as you move north and south. If you were to stand at the North Pole, Polaris (the North Star), would be directly overhead. On a flat Earth, Polaris would always be visible — no matter how far away from the North Pole you moved, it would still be above the horizon. However, by the time you reach the equator, Polaris is on the northern horizon, and it disappears entirely once you move into the southern hemisphere. You can't see Polaris from Australia. In fact, the ancient Greeks calculated the circumference of the Earth using this effect and produced an answer that was strikingly close to what we measure today.
+If you want to prove that the Earth is a sphere, here’s an experiment you can do today:
+Quito, Ecuador and Nairobi, Kenya are two cities on the equator. Fly to either and you'll see Polaris on the northern horizon. Cape Town, South Africa and Melbourne, Australia are well south of the equator. Fly to either and you won't see Polaris at all. A few minutes drawing the predictions of the two competing models on a piece of paper is sufficient to exclude one of those models. And, this isn't the only demonstration you can do from the ground.
+
+Flat Earth theorists say that if the Earth is a spinning sphere, why can’t they feel it? How did scientists first prove that the Earth rotates?
+Though the shape of the Earth had been settled for over two millennia, a scientist by the name of Leon Foucault designed an experiment in 1851, using a very long pendulum, that showed both that the Earth is round and that it rotates. If you place the pendulum at the North Pole, the direction of its swing changes with respect to the ground and completes a full circle each day. Placing the same pendulum on the equator yields no change at all in the direction of the swing. These facts, and the behavior of the pendulum when it is placed anywhere else, agree with Foucault's prediction.
+
+Are there other clues that prove the Earth spins on its axis?
+We can see the effects of the Earth's shape and rotation in several other ways:
+
+The six jet streams on the Earth — and how their directions relate to each other — is a consequence of the Earth's shape and rotation.
+Artillery gunners must correct for the rotation of the Earth as the shell flies through the air above the surface.
+Modern naval guns can shoot far over their visible horizon due to the Earth's curvature.
+Hurricanes and (most) tornadoes rotate counter-clockwise in the northern hemisphere while they rotate clockwise in the southern hemisphere. Fun fact: Toilets and sinks are too small to reliably reproduce this effect, despite the rumors that they flush or drain in the opposite direction in the southern hemisphere.
+The next time you’re at a party, impress your friends with this enlightening experiment
+Hold a pencil in front of you, looking down at the tip. Rotate it so that its tip is spinning counter-clockwise. Keep rotating it with your fingers in the same direction as you slowly turn the pencil over so that you are looking at its eraser. Now, the eraser will be spinning clockwise. Slowly rotate it back, while continuing its spin, will bring the tip to the top, rotating counter-clockwise.
+
+March
+11
+2019
+AUTHOR:
+JASON STEFFEN, NATALIE BRUZDA
+SECTION:
+ RESEARCH
+MEDIA CONTACT:
+NATALIE BRUZDA (702) 895-5132; NATALIE.BRUZDA@UNLV.EDU
+TOPICS:
+STEM,  SPACE
+CAMPUS UNITS:
+DEPARTMENT OF PHYSICS AND ASTRONOMY,  COLLEGE OF SCIENCES
+RELATED EXPERTS:
+JASON STEFFEN

@@ -1,0 +1,39 @@
+Wobbling particles in the sky
+Date:
+January 19, 2024
+Source:
+Max Planck Institute for Dynamics and Self-Organization
+Summary:
+Tiny particles such as ice crystals or ash particles tend to oscillate as they settle through the atmosphere. In their experiments, the scientists were able to track non-spherical particles of size smaller than 1 millimeter with unprecedented accuracy. Their observations gave rise to a model which can help to refine prediction on air pollutants or weather forecasts.
+
+Tiny particles such as ice crystals or ash particles tend to oscillate as they settle through the atmosphere. In their experiments, the scientists were able to track non-spherical particles of size smaller than 1 millimeter with unprecedented accuracy. Their observations gave rise to a model which can help to refine prediction on air pollutants or weather forecasts.
+
+The atmosphere contains many tiny solid particles. Scientists from the Max Planck Institute for Dynamics and Self-Organization (MPI-DS) and the University of Göttingen in collaboration with the Centre national de la recherche scientifique (CNRS) in France and the university of Gothenburg, Sweden, now studied how such non-spherical particles settle in air.
+
+
+
+For this, they used a new precision apparatus equipped with high-speed cameras and a novel particle injection mechanism.
+
+Using a 3D-printer, they created particles of different shapes resembling discs of thickness as low as 50 micrometer and rods of length as high as 880 micrometers.
+
+Thanks to this setup, they could observe that particles tend to oscillate as they settle in quiescent air.
+
+"So far, most studies on the behavior of such small particles were done with models in liquids since experiments in air are extremely challenging," Mohsen Bagheri, group leader at MPI-DS, describes previous approaches.
+
+"However, the true settling dynamics could not be explored this way. They were now revealed in our experimental setting, directly measuring the motion of real-size particles, which are much heavier than the surrounding environment," he continues.
+
+The observed oscillation could impact the collision of individual particles, their travelling distance in the atmosphere and their interaction with the solar radiation.
+
+Predicting the dynamics of particles
+
+Typically, atmospheric particles are not perfectly spherical, but rather flattened or elongated structures.
+
+The scientists developed and tested a model to describe and predict the movement of such particles, which very accurately captures the experimental results.
+
+The new model can be used to study the dynamics and formation of particles clusters and the resulting effects in everyday life.
+
+"In particular, our results can help to better predict how long pollutants reside in the atmosphere or how precipitation is initiated in clouds," summarizes Alain Pumir.
+
+The CNRS researcher developed the model together with his colleagues Bernhard Mehlig and Kristian Gustavsson.
+
+In total, these new insights contribute to a more accurate understanding of atmospheric particles, and how they affect our environment and climate.

@@ -1,0 +1,44 @@
+Giant, ‘Odd’ Circles of Radio Waves in Space May Finally Have an Explanation
+The mystifying orbs could be caused by galactic winds, propelled by a period of rapid star formation and death
+
+Will Sullivan
+Will Sullivan
+
+Daily Correspondent
+
+January 22, 2024
+A blurry light-green circle surrounded by stars in space
+An image of an odd radio circle called ORC 1. ORCs can be much wider across than the Milky Way galaxy and are large enough to surround entire galaxies. Jayanne English / University of Manitoba
+For the last couple of years, astronomers have pondered the origins of massive rings of radio waves in space, called odd radio circles (ORCs), that encompass entire galaxies.
+
+Now, in a paper published this month in the journal Nature, researchers propose the circles are made up of fast-moving charged particles called galactic wind blowing out of galaxies. The wind may be triggered by exploding stars.
+
+“I think this is an important paper toward demystifying the nature of ORCs around galaxies,” Amitesh Omar, who studies radio galaxies at the Aryabhatta Research Institute of Observational Sciences in India and did not contribute to the new findings, tells Science’s Daniel Clery.
+
+ORCs are truly gargantuan structures, spanning several hundred kiloparsecs across. The Milky Way galaxy, by comparison, is a mere 30 kiloparsecs in diameter. Fewer than 12 ORCs have been found so far, according to Science, but astronomers haven’t gleaned much about their origins.
+
+The Australian Square Kilometer Array Pathfinder, a telescope made up of 36 dish antennae that each span 12 meters in diameter, first detected odd radio circles in 2019, per a statement from the University of California, San Diego (UCSD).
+
+Since then, scientists have come up with a number of theories to explain what causes these giant rings of radio waves. Proposed sources included planetary nebulae, or the shed outer layers of quietly dying stars, as well as merging black holes, according to the statement.
+
+
+Report this ad
+For the new paper, a group led by UCSD astrophysicist Alison Coil employed the W. M. Keck Observatory in Hawaii to look at a radio circle called ORC 4, which was the first ORC to be identified that can be seen from the Northern Hemisphere. Previously, researchers had only spotted ORCs at radio wavelengths, but Coil’s team was able to collect optical data from ORC 4.
+
+They detected an unexpectedly high amount of fluorescent light from oxygen ions, signaling there was a lot of star formation occurring in the galaxy, according to Science.
+
+“The bulk of the light from the stars shows an old stellar population with an age of some six billion years,” Coil says to Sky & Telescope’s Monica Young. “But there appears to also have been a more recent ‘burst’ of star formation, where many stars formed over a relatively brief period of time, and that happened around one billion years ago.”
+
+Periods of rapid star formation tend to result in large stars that quickly burn out and explode after a few million years, creating galactic wind. If many of these stars exploded close to each other and at the same time, the resulting wind could reach 2,000 kilometers per second. In theory, it would spew material and magnetic fields out of the galaxy, producing the radio waves we can observe from Earth.
+
+Computer simulations run by the researchers suggest that in order to form the ORC, galactic winds might have flowed out of the galaxy for 200 million years. The wind likely drove two shock waves—one shock traveling outward, spraying hot gas out of the galaxy to form the radio rings, and another collapsing inward, bringing cooler gas back in and producing the ionized oxygen.
+
+
+Report this ad
+“It turns out the galaxies we’ve been studying have these high-mass outflow rates,” Coil says in the statement. “They’re rare, but they do exist. I really do think this points to ORCs originating from some kind of outflowing galactic winds.”
+
+Ray Norris, an astronomer at Western Sydney University in Australia who led the team that discovered the first ORCs but was not involved with the new paper, tells Sky & Telescope that he agrees with the results of the new study.
+
+By better understanding ORCs, astronomers might be able to learn more about the evolution of galaxies.
+
+“While we think of galaxies as being isolated islands of stars, they are in fact surrounded by low density gas and are connected on very large scales to the cosmic web; gas is flowing into and out of galaxies all the time,” Coil tells Sky & Telescope. “ORCs can potentially allow us to probe the conditions of the gas far from galaxies which we can’t see otherwise.”

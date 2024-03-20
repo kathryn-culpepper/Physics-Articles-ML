@@ -1,0 +1,30 @@
+June 2006 (Volume 15, Number 6)
+
+This Month in Physics History
+June, ca. 240 B.C. Eratosthenes Measures the Earth
+
+By around 500 B.C., most ancient Greeks believed that Earth was round, not flat. But they had no idea how big the planet is until about 240 B.C., when Eratosthenes devised a clever method of estimating its circumference.
+
+It was around 500 B.C. that Pythagoras first proposed a spherical Earth, mainly on aesthetic grounds rather than on any physical evidence. Like many Greeks, he believed the sphere was the most perfect shape. Possibly the first to propose a spherical Earth based on actual physical evidence was Aristotle (384-322 B.C.), who listed several arguments for a spherical Earth: ships disappear hull first when they sail over the horizon, Earth casts a round shadow on the moon during a lunar eclipse, and different constellations are visible at different latitudes.
+
+Around this time Greek philosophers had begun to believe the world could be explained by natural processes rather than invoking the gods, and early astronomers began making physical measurements, in part to better predict the seasons. The first person to determine the size of Earth was Eratosthenes of Cyrene, who produced a surprisingly good measurement using a simple scheme that combined geometrical calculations with physical observations.
+
+Eratosthenes was born around 276 B.C., which is now Shahhat, Libya. He studied in Athens at the Lyceum. Around 240 B.C., King Ptolemy III of Alexandria appointed him chief librarian of the library of Alexandria.
+
+Known as one of the foremost scholars of the time, Eratosthenes produced impressive works in astronomy, mathematics, geography, philosophy, and poetry. His contemporaries gave him the nickname “Beta” because he was very good, though not quite first-rate, in all these areas of scholarship. Eratosthenes was especially proud of his solution to the problem of doubling a cube, and is now well known for developing the sieve of Eratosthenes, a method of finding prime numbers.
+
+Eratosthenes’ most famous accomplishment is his measurement of the circumference of Earth. He recorded the details of this measurement in a manuscript that is now lost, but his technique has been described by other Greek historians and writers.
+
+Eratosthenes was fascinated with geography and planned to make a map of the entire world. He realized he needed to know the size of Earth. Obviously, one couldn’t walk all the way around to figure it out.
+
+Eratosthenes had heard from travelers about a well in Syene (now Aswan, Egypt) with an interesting property: at noon on the summer solstice, which occurs about June 21 every year, the sun illuminated the entire bottom of this well, without casting any shadows, indicating that the sun was directly overhead. Eratosthenes then measured the angle of a shadow cast by a stick at noon on the summer solstice in Alexandria, and found it made an angle of about 7.2 degrees, or about 1/50 of a complete circle.
+
+He realized that if he knew the distance from Alexandria to Syene, he could easily calculate the circumference of Earth. But in those days it was extremely difficult to determine distance with any accuracy. Some distances between cities were measured by the time it took a camel caravan to travel from one city to the other. But camels have a tendency to wander and to walk at varying speeds. So Eratosthenes hired bematists, professional surveyors trained to walk with equal length steps. They found that Syene lies about 5000 stadia from Alexandria.
+
+Eratosthenes then used this to calculate the circumference of the Earth to be about 250,000 stadia. Modern scholars disagree about the length of the stadium used by Eratosthenes. Values between 500 and about 600 feet have been suggested, putting Eratosthenes’ calculated circumference between about 24,000 miles and about 29,000 miles. The Earth is now known to measure about 24,900 miles around the equator, slightly less around the poles.
+
+Eratosthenes had made the assumption that the sun was so far away that its rays were essentially parallel, that Alexandria is due north of Syene, and that Syene is exactly on the tropic of cancer. While not exactly correct, these assumptions are good enough to make a quite accurate measurement using Eratosthenes’ method. His basic method is sound, and is even used by schoolchildren around the world today.
+
+Other Greek scholars repeated the feat of measuring the Earth using a procedure similar to Eratosthenes’ method. Several decades after Eratosthenes measurement, Posidonius used the star Canopus as his light source and the cities of Rhodes and Alexandria as his baseline. But because he had an incorrect value for the distance between Rhodes and Alexandria, he came up with a value for Earth’s circumference of about 18,000 miles, nearly 7,000 miles too small.
+
+Ptolemy included this smaller value in his treatise on geography in the second century A.D. Later explorers, including Christopher Columbus, believed Ptolemy’s value and became convinced that Earth was small enough to sail around. If Columbus had instead known Eratosthenes larger, and more accurate, value, perhaps he might never have set sail.

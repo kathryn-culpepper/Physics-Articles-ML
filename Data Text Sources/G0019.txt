@@ -1,0 +1,56 @@
+Why Do Eclipses Happen?
+
+Eclipses occur on our planet when the Sun, Moon, and Earth line up. Exactly how they align determines what kind of eclipse we see. A solar eclipse happens when the Moon passes between the Sun and Earth, blocking at least some of the Sun and casting a shadow on Earth.
+
+Moon Casts Shadow on Earth
+A solar eclipse occurs when the Moon passes between the Sun and Earth, casting its shadow on Earth. The shadow comprises two concentric cones, a dark inner shadow called the umbra and a lighter outer shadow called the penumbra. Observers on Earth who are within the smaller, central umbra see the Sun completely blocked. Within the larger penumbra, the Sun is only partially blocked.
+Credit: NASA's Scientific Visualization Studio
+Solar eclipses only occur during the new moon, when the Moon and Sun are aligned on the same side of Earth (in other words, when the Moon is in the daytime sky).
+
+Although a new moon happens about once a month, solar eclipses do not. That’s because the Moon does not orbit in the same plane that the Sun and Earth are in (known as the ecliptic plane). Instead, the Moon’s orbit around Earth is tilted (or inclined) by about five degrees. During the new moon, the Moon usually passes below or above the Sun, and its shadow misses Earth. There are only two times a year, called “eclipse seasons,” when the new moon crosses the Earth-Sun (ecliptic) plane and provides opportunities for solar eclipses.
+
+Why don't we have a solar eclipse every month? Because the Moon's orbit is tilted, changing the placement of its shadow. Sometimes the Moon's shadow is too high above Earth. Sometimes the shadow is too low. Other times, it is just right, producing an eclipse. Credits: NASA's Goddard Space Flight Center; Music: Witch Waltz by Dorian Kelly
+Total Solar Eclipse
+A total solar eclipse happens when the Moon completely blocks the face of the Sun.
+
+It is the result of a cosmic coincidence. Even though the Sun is about 400 times bigger than the Moon, it is also about 400 times farther away. This makes the Sun and the Moon appear almost exactly the same size in our sky.
+
+During a total solar eclipse, the Moon moves directly in front of the Sun and barely covers the solar disk. This allows observers in the center of the Moon’s shadow to briefly see the Sun’s outer atmosphere, the corona, which is too dim to see when the bright solar disk is not covered.
+
+The Moon appears as a black disk in the center, surrounded by a white, asymmetrical halo of wisps and streamers, set against a black background.
+During a total solar eclipse, the Sun's ghostly white corona appears around the black disk of the Moon. This total solar eclipse was photographed on Aug. 21, 2017, from Madras, Oregon.
+NASA/Aubrey Gemignani
+The shadow that the Moon casts has two main parts: the darker inner shadow called the umbra, and a fainter outer shadow called the penumbra. Within the umbra, the Sun’s light is completely blocked. In the penumbra, the Sun’s light is only partially blocked. To see a total solar eclipse, an observer must be within the umbra. Observers in the penumbra will witness a partial eclipse, with only part of the Sun covered by the Moon. Those outside the Moon’s shadow will see no eclipse at all.
+
+This diagram illustrates how a total eclipse shadow can have many different characteristics for observers on Earth. Observers in the umbra of the shadow will witness darkness, as if it was twilight. Observers in the penumbra of the shadow will witness a partial eclipse, where part of the Sun is still visible. Credits: NASA's Scientific Visualization Studio
+As the shadow extends away from the Moon, the umbra narrows or gets smaller. By the time it reaches Earth, the umbra covers a relatively small area on our planet compared to the penumbra. That means the area that experiences a total eclipse is much smaller than the area that experiences a partial eclipse. A typical umbral path may be less than 50 miles wide, while the penumbral zone can span a thousand miles or more.
+
+Because Earth is continuously rotating, and the Moon is constantly moving in its orbit, the Moon’s shadow will travel across Earth’s surface, tracing a path. This is called the eclipse path. Within this area is a smaller path traced by the umbra, called the path of totality. The rapid movement of the Moon in its orbit causes the shadow of the Moon to sweep across the face of Earth in just four to five hours. At any location along the path of totality, the total phase of a solar eclipse may last only a few minutes, or even less.
+
+This animation shows the shadow cast by the Moon onto Earth during a total solar eclipse on Aug. 21, 2017. The umbra appears as a dark inner cone, and the penumbra appears as a larger, gray cone, outlined in yellow. The portion of the umbra that reaches Earth's surface appears as a small, black circle, covering a small area as it crosses the U.S. from Oregon to South Carolina. The larger penumbra passes over all of North and Central America and the Amazon basin, as well as Greenland and the North Pole. Credits: NASA's Scientific Visualization Studio
+Annular Solar Eclipse
+Although the Moon and Sun appear nearly the same size in the sky, their apparent sizes do change over time. That’s because the Moon’s orbit around Earth is not a perfect circle, and neither is Earth’s orbit around the Sun. Both orbits are slightly elliptical or oval-shaped, meaning that the Moon changes distance from us as it orbits Earth, and Earth changes distance from the Sun throughout the year. (Ever heard of a “supermoon”? That’s when the Moon is closer to Earth than normal, making it appear larger than average.)
+
+
+This short animation compares the Moon's size and distance at its closest point to Earth (perigee) and its farthest (apogee). Credit: NASA/JPL-Caltech
+When the Moon is at its farthest point from Earth, called its apogee, it appears a little smaller than normal. If the Moon passes directly in front of the Sun at or near apogee, its umbral shadow does not reach Earth and the Moon does not appear to completely cover the Sun. Instead, a ring of sunlight (or an “annulus”) appears around the Moon, creating an annular solar eclipse.
+
+A ring of golden sunlight appears around the Moon, which looks like a black disk, set against a black background. The ring of sunlight is thinner in the upper left and thicker in the lower right.
+During an annular solar eclipse, as shown here, the Sun is never completely blocked by the Moon.
+NASA/Bill Dunford
+During an annular eclipse, the part of the Moon’s shadow that extends from the end of the umbra is called the antumbra. Observers within the antumbra will see the annular eclipse, while those in the penumbra will see only a partial eclipse. The path traced across Earth by the antumbra is called the path of annularity.
+
+This diagram illustrates how an annular eclipse shadow can have many different characteristics for observers on Earth. Credits: NASA's Scientific Visualization Studio
+Hybrid Solar Eclipse
+Sometimes during a solar eclipse, the Moon’s umbra will reach Earth’s surface in some places, creating a total eclipse, but Earth’s surface will curve away from the shadow so that the umbra no longer reaches the planet’s surface in other places, creating an annular eclipse. When a solar eclipse appears total in some places but annular in others, it’s called a hybrid eclipse.
+
+Partial Solar Eclipse
+When the Moon and Sun are not perfectly aligned and just a part of the Moon passes in front of the Sun, only the Moon’s penumbra will hit Earth. The umbra misses our planet completely. This produces a partial eclipse only.
+
+The Sun appears as a large orange crescent, with the upper right portion of it covered by the Moon, which just appears as a black disk. A few sunspots can be seen near the middle and lower left edges of the Sun.
+This partial solar eclipse was seen from Northern Cascades National Park in Washington on Aug. 21, 2017.
+NASA/Bill Ingalls
+Did You Know?
+
+Earth’s orbit around the Sun also isn’t a perfect circle but an ellipse, or slightly oval-shaped, meaning that sometimes Earth is closer to the Sun (in January) and sometimes it is farther away (in July). So the Sun appears to change size slightly as Earth moves somewhat closer and farther away during the year. While the Sun does not appear to change in size as much as the Moon does, the Sun’s apparent size can also play a part in whether a solar eclipse is an annular or a total.
+

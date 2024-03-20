@@ -1,0 +1,45 @@
+Studying Earth’s Stratospheric Water Vapor
+The headshot image of NASA
+NASA
+AUG 17, 2021
+ARTICLE
+Stratospheric Aerosol and Gas Experiment III (SAGE III, a and c) is compared to Microwave Limb Sounder (MLS, b and d) for August 2017 (top) and January 2018 (bottom).
+Stratospheric Aerosol and Gas Experiment III (SAGE III, a and c) is compared to Microwave Limb Sounder (MLS, b and d) for August 2017 (top) and January 2018 (bottom). In August of 2017, SAGE III H2O showed that water vapor over the North American monsoon region was relatively higher than over the Asian monsoon region. While the SAGE III instrument takes about one month to cover the latitude range ∼60N–60S, scientists have found that this monthly sampling captures more localized values of water vapor in the lower stratosphere. Credits: NASA
+What does water vapor have in common with Sisyphus, the mythological Greek character cursed to roll a rock uphill only to have it roll back down again?
+
+Water is continuously cycling on Earth between bodies of water such as oceans, lakes and rivers, land surfaces, and in the atmosphere. When water warms and evaporates from the Earth’s surface it becomes gaseous in the form of water vapor, H2O. As water vapor rises into the atmosphere, it cools and can condense into clouds which can produce rain or snow bringing water back to the Earth’s surface. And the cycle begins again.
+
+Water vapor is also an important component in Earth’s evolving climate system. As a major greenhouse gas – a gas that traps heat – water vapor absorbs heat produced by Earth’s surface and the shining Sun. The water molecules then emit that heat back to Earth’s surface which can increase the temperature. This relationship between an increase in water vapor in the atmosphere contributing to warming temperatures, and warmer temperatures causing an increase in water vapor is called a positive feedback loop.
+
+Although water vapor in the stratosphere is only a few molecules per million air molecules, this positive feedback relationship between water vapor and temperature is important as scientists study to better understand how much this impacts Earth’s changing climate.
+
+In addition to measuring stratospheric ozone and aerosols, the Stratospheric Aerosol and Gas Experiment (SAGE) III instrument on the International Space Station (ISS) measures trace gases including water vapor. Unlike many other science data instruments, SAGE III provides a very precise and highly accurate measurement of water vapor in the upper troposphere and throughout the stratosphere.
+
+Other satellite-based instruments, such as the Microwave Limb Sounder (MLS) on NASA’s Aura and the High-Altitude Lidar Observatory (HALO), measure atmospheric water vapor in the upper troposphere and stratosphere. SAGE III uses the solar occultation technique, which is unique, in that it can take more precise measurements covering vertical layers of atmosphere. 
+
+“Because SAGE III provides such a high accuracy data set, we can look at different levels of the atmosphere in more detail than ever before. We can see every kilometer in the vertical profiles of data,” said Mijeong Park, Project Scientist at the National Center for Atmospheric Research in Boulder, Colorado.
+
+In partnership with the National Center for Atmospheric Research (NCAR), the National Oceanic and Atmospheric Administration (NOAA), and the Jet Propulsion Laboratory (JPL), the SAGE III team at NASA’s Langley Research Center in Hampton, Virginia, released initial analyses of the SAGE III water vapor data version 5.1 in the paper “Near-Global Variability of Stratospheric Water Vapor Observed by SAGE III/ISS.”
+
+Throughout the paper, the SAGE III version 5.1 water vapor data are validated against MLS version 5 retrievals and show overall first-rate agreement between the two data sets. The relatively young SAGE III/ISS dataset is recording water vapor seasonal variability that agrees well with MLS from the tropopause through the middle stratosphere (∼16–30 km).
+
+By looking at SAGE III data between 2017 and 2020, scientists were given some insight into the year-to-year variability of H2O during boreal summer monsoon season. A monsoon is a seasonal change in wind and rain patterns observed in certain parts of the world, including North America.
+
+“By looking at multiple years of data, we can understand how much water vapor is going into the stratosphere through the summer monsoon circulation each year,” said Park.
+
+Although the summer monsoon season varies year by year, SAGE’s ability to detect the interannual variability of stratospheric water vapor during monsoon season helps scientists better understand how changes in water vapor are contributing to Earth’s climate.
+
+Scientists are also able to study relative humidity (RH) with SAGE III’s water vapor data. Relative humidity tells us how much water vapor is in the air, relative to how much water vapor the air could hold at a given temperature. As air temperatures rise, warmer air can hold more water vapor increasing the saturation point. Cold air can hold less water vapor.
+
+The RH-temperature relationships captured by SAGE III agree with the near-tropopause data derived from high-resolution Upper Troposphere/Lower Stratosphere (UTLS) aircraft measurements, which enhances the science community’s confidence in the quality of the SAGE III data set.
+
+“The SAGE III data can be used for more detailed studies of relative humidity distribution and its variability because of the accuracy. It will also help scientists to better simulate our climate using global climate models,” said Park. 
+
+While SAGE III will continue to measure water vapor from ISS over the coming years, a longer record of water vapor data is needed.
+
+“It is very important to have a continuous measurement of water vapor anywhere on Earth. There are many ways to measure water vapor, by satellite, like SAGE, by airplane, or by ground-based instruments. There is only one continuous water vapor record of 30-plus years from balloon measurements in Boulder, Colorado. Satellite missions have limited lifetimes. We need continuous measurements of water vapor to really understand how water vapor affects our climate,” said Park.
+
+Allison McMahon
+NASA Langley Research Center
+
+Using SAGE III water vapor data collected from June 2017 – February 2021, the visualization illustrates the transport of water vapor in Earth’s stratosphere at various altitudes and latitudes. In the equatorial region, notable masses of dry air (blue/green colors) are seen rising upward from the tropopause, the transition point between the troposphere and stratosphere denoted by the grey dashed line, through the lower to mid-stratosphere. The orbit of the International Space Station enables SAGE III to observe the southern mid-latitudes, tropics and northern mid-latitudes every month, with the exception of July and December when data is confined to the mid-latitudes. Credits: Mijeong Park/National Center for Atmospheric Research

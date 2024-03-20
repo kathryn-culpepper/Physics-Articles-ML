@@ -1,0 +1,241 @@
+Stefan-Boltzmann law
+ Recall Planck function
+
+B
+T  =
+2 hc
+2
+
+5
+exp
+[
+hc
+ kT
+]
+−1
+ Eq. (A-1) in M&P
+ h = Planck's constant, k = Boltzmann's constant, c = speed of light, T = temperature (in degK)
+ B(T) is a function of the "wavelength"  (of electromagnetic waves)
+ Fig. 2.2 in M&P
+ The total (rate of) energy output is the integral of B(T) over .
+ (More precisely, there's an additional factor of ; see next slide)
+
+ A quick technical point:
+ The B(T) in previous slide is the "monochromatic radiation intensity"
+ (per radian solid angle). The "monochromatic irradiance (or radiative energy flux)"
+ is B(T), provided that the radiation is isotropic (independent of direction).
+
+For those who are really curious...
+Think of a small area element at the surface of the sun: It emits radiation with the intensity of B(T)
+in all direction, thereby producing a total energy flux of 4B(T), where 4 is the total solid angle of a
+sphere enclosing that area element. Note, however, that a half of this energy flux goes back into the
+interior of the sun. Of the other half that comes out of the surface, we are only concerned with the
+component that is normal to the surface (which is the radiation that will go out to space for the
+whole universe to see). In mathematical terms, the relevant radiative energy flux is
+ ∫
+
+B cosd  = B
+.
+Here, the integral is over the half sphere that raises above the surface of the sun,  is solid angle,
+and  is the angle between a ray of radiation emitted by the small area element and the upward-pointing
+vector normal to the surface of the sun.
+No need to worry about this detail. For our purpose, it suffices to take the extra factor of  as given
+and move on. Interested student can consult any textbook on atmospheric radiation (see instructor).
+For a blackbody with surface temperature T, the energy flux (per unit surface area)
+emitted by that object is
+  BT ≡∫
+0
+∞
+B
+T  d  =  T
+4
+,
+ =2
+5
+k
+4
+/15h
+3
+c
+2
+ Eq. (A-2) in M&P
+ This is known as Stefan-Boltzmann law, which states that
+ the rate of outward radiative energy (per unit area) emitted by an object with
+ temperature T is proportional to the 4th power of T
+ The higher the temperature of an object, the greater its radiative energy output will be
+ The Stefan-Boltzmann constant  ≈ 5.67  10-8 W m-2 K-4
+ B(T) has the unit of W m-2
+ The total outward radiative energy output of an object with surface temperature T
+ and surface area A is B(T)  A
+ The Sun
+ Radius of the sun RS ≈ 696000 km, or 696000000 m
+
+ Surface area of the sun, AS = 4  RS
+2
+ = 6.08 1018 m2
+ Outward radiative energy flux (per unit area) at the sun's surface (T ≈ 6000K) is
+ B(T) =  T
+4
+ = (5.67  10-8)  (6000)4
+ = 7.35 107
+ W m-2
+
+ The total radiative energy output of the Sun is
+ B(T)  AS ≈ 4.47 1026 W
+ The actual temperature at the surface of the sun is slightly less than 6000K.
+ This gives rise to the slightly smaller value of 3.87 1026 W in p. 9 of
+ M&P textbook. We will follow the textbook by adopting this value.
+ Every second, the Sun emits 3.87 1026 Joule of energy into the Universe.
+ How much of it is intercepted by the Earth?
+ The distance between the Sun and the Earth is RSE = 1 A.U.  150,000,000 km
+ The big sphere centered at the Sun with a radius of RSE (see figure) has the total
+ surface area of ASE = 4  (RSE)
+2
+. The energy output of the sun, 3.87 1026 W,
+ is uniformly distributed on this sphere.
+ The cross section (that intercepts sun light) of the Earth is CE =  (RE)
+2
+. where
+ RE = 6370 km is earth's radius. (See next slide)
+  The energy intercepted by the Earth is (3.87 1026 W)  (CE/ASE)   1017 W
+R
+SE
+ = 1 A.U.
+Surface area of
+the big sphere
+A
+SE
+ = 4  (RSE
+)
+2
+Cross section of
+the Earth, CE
+ =  (RE
+)
+2
+Sun Earth
+ (The cross section of the Earth, CE =  (RE)
+2
+)
+ Fig. 2.4 in M&P
+ It is justifiable to assume that the sunlight that reaches the Earth
+ is parallel. See next slide.
+
+ "Plane Parallel" Assumption
+ The sunlight that reaches the Earth can be considered "plane parallel"
+ because of the large distance between the Sun and the Earth, and because
+ of smallness of the Earth itself.
+
+
+  AOB = 2  , where tan  = RE/RSE
+ Since tan  << 1,   tan 
+  AOB  2 RE/RSE 0.000085 radian 0.0048 degree
+ Rays OA and OB are almost parallel
+ (Note: tan 
+
+
+Sun Earth
+R
+SE
+ = 1 A.U. = 150,000,000 km
+R
+E
+ = 6370 km
+A
+O B
+ Solar constant
+It is often more convenient to consider the radiative energy per cross-sectional unit area
+that the Sun provides for the Earth system. This quantity is called the "Solar constant"
+and is simply the total energy output of the sun divided by the the area (ASE) of the
+"big sphere",
+ So = (3.87 1026 W)/ASE 1368 W m-2
+
+R
+SE
+ = 1 A.U.
+Surface area of
+the big sphere
+A
+SE
+ = 4  (RSE
+)
+2
+Sun Earth
+Solar constant is the
+energy flux per unit area
+on this big sphere
+ Multiply So by the cross section of the Earth, CE, we recover the total energy
+ intercepted by the Earth as So  CE   1017 W. Recall that CE =  (RE)
+2
+.
+ If we redistribute this amount of energy uniformly to the surface of the Earth,
+ with its area being AE = 4  (RE)
+2
+, the energy per unit area of solar radiation
+ received by the Earth would be
+ So  CE/AE = So/4  W m-2
+ Note:
+ (1) This is assuming that the tropics and polar regions receive the same
+ energy per unit area. In reality, the tropics receives more energy of course.
+
+ (2) In determining the solar constant So or So/4, we have lumped together
+ day and night and the four seasons; Note that Earth's cross sectional area
+ never changes regardless of time of the day or day of the year. Therefore,
+ The amount of solar energy intercepted by the Earth is the same all the time.
+ (So does vary slightly with season because Earth's orbit is slightly elliptical. In the present
+ epoch, Earth is slightly closer to the Sun during Northern Hemisphere winter. Let's not worry
+ about such detail for now.)
+
+ As an aside, the value of So/4  W m-2 is useful to remember at least for
+ its "order of magnitude" when one thinks of solar energy applications.
+ (A typical solar panel for household uses has the size of a few m2
+. It's efficiency
+ is however much less than 100%.)
+ Note that the value, So/4  W m-2, is the average over day and night,
+ winter and summer, and all latitudes. If you live on a tropical island, the
+ local value would be higher.
+
+ Part of the solar radiative energy from So/4  W m-2 is bounced back
+ to space by reflection of Earth's surface and clouds (and to a lesser
+ extent by the scattering by air molecules - this process is what makes
+ the sky blue)
+ If a fraction, p, of the solar radiative energy is bounced back to space,
+ the net per-unit-area solar energy received by the Earth would be only
+
+ (So/4) (1 - p)
+ We call p the "planetary albedo", nominally defined as the global average
+ of the reflectivity of the Earth system. We have some observations (mainly
+ by satellites) to estimate this quantity.
+ Fig. 2.5 in M&P (Ocean has small albedo; looks "dark" in satellite photos)
+ Earth in radiative equilibrium
+ If Earth keeps receiving energy from the Sun without giving it back
+ (to space), it will become hotter and hotter. But recall that any object
+ that has a non-zero temperature emits radiation. As Earth gets hotter,
+ it emits more energy back to space. At a certain temperature TE, an
+ equilibrium will be reached such that the solar energy received by the
+ Earth equals the energy that the Earth radiates back to space.
+ The incoming solar energy per unit area is (So/4) (1 - p)
+ At temperature TE, the energy per unit area radiated by the Earth is
+ (by Stefan-Boltzmann law)  TE
+4
+ Let "in = out",  TE
+4
+ = (So/4) (1 - p) , we have
+ TE = [(1/)(So/4)(1 - p)]1/4
+ For example, if p = 0.1, we have TE  271.4 K
+
+ Note:
+ (1) Given TE  271.4 K, we can plug it into B(T) to see that the peak
+ wavelength in this case is ~ 10 m, in the infrared range.
+  Earth emits primarily infrared radiation
+ (2) The previous slide has not taken into account the fact that Earth's
+ atmosphere can absorb infrared radiation (and re-emitting it back to
+ the surface), preventing heat loss to space. The consequence is that
+ Earth's surface would be warmer in the presence of "greenhouse gases"
+ in the atmosphere
+ For our purpose, the "greenhouse gases" are defined as the
+ gases that absorb the infrared radiation emitted by a planet
+ Fig. 2.6 in M&P (again)
+
+ Energy balance of global atmosphere (will be revisited)
+ From Liou (1980) (Not recent; might need some update)

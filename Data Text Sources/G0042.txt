@@ -1,0 +1,60 @@
+Causes of Climate Change
+Graph: Human and Natural Influences on Global Temperature
+Human and natural factors both influence the earth’s climate, but the long-term trend observed over the past century can only be explained by the effect of human activities on climate. Source: U.S. Global Change Research Program, Fourth National Climate Assessment, Chapter 2: Our Changing Climate, 2017.
+Since the Industrial Revolution, human activities have released large amounts of carbon dioxide and other greenhouse gases into the atmosphere, which has changed the earth’s climate. Natural processes, such as changes in the sun's energy and volcanic eruptions, also affect the earth's climate. However, they do not explain the warming that we have observed over the last century.1
+
+Human Versus Natural Causes
+It is unequivocal that human influence has warmed the atmosphere, ocean and land.
+- Intergovernmental Panel on Climate Change4
+
+Scientists have pieced together a record of the earth’s climate by analyzing a number of indirect measures of climate, such as ice cores, tree rings, glacier lengths, pollen remains, and ocean sediments, and by studying changes in the earth’s orbit around the sun.2 This record shows that the climate varies naturally over a wide range of time scales, but this variability does not explain the observed warming since the 1950s. Rather, it is extremely likely (> 95%) that human activities have been the dominant cause of that warming.3
+
+Human activities have contributed substantially to climate change through:
+
+Greenhouse Gas Emissions
+Reflectivity or Absorption of the Sun’s Energy
+Heat-trapping Greenhouse Gases And The Earth's Climate
+
+Source: Smithsonian National Museum of Natural History, 2018
+Greenhouse Gases
+Concentrations of the key greenhouse gases have all increased since the Industrial Revolution due to human activities. Carbon dioxide, methane, and nitrous oxide concentrations are now more abundant in the earth’s atmosphere than any time in the last 800,000 years.5 These greenhouse gas emissions have increased the greenhouse effect and caused the earth’s surface temperature to rise. Burning fossil fuels changes the climate more than any other human activity.
+
+Carbon dioxide: Human activities currently release over 30 billion tons of carbon dioxide into the atmosphere every year.6 Atmospheric carbon dioxide concentrations have increased by more than 40 percent since pre-industrial times, from approximately 280 parts per million (ppm) in the 18th century7 to 414 ppm in 2020.8
+
+Methane: Human activities increased methane concentrations during most of the 20th century to more than 2.5 times the pre-industrial level, from approximately 722 parts per billion (ppb) in the 18th century9 to 1,867 ppb in 2019.10
+
+Nitrous oxide: Nitrous oxide concentrations have risen approximately 20 percent since the start of the Industrial Revolution, with a relatively rapid increase toward the end of the 20th century. Nitrous oxide concentrations have increased from a pre-industrial level of 270 ppb11 to 332 ppb in 2019.12
+
+For more information on greenhouse gas emissions, see the Greenhouse Gas Emissions website. To learn more about actions that can reduce these emissions, see What You Can Do. To translate abstract greenhouse gas emissions measurements into concrete terms, try using EPA's Greenhouse Gas Equivalencies Calculator.
+
+Graph showing concentrations of key greenhouse gases.
+This graph shows the increase in atmospheric concentrations of three of the key greenhouse gases over the last 2,000 years. Increases in concentrations of these gases since 1750 are due to human activities in the industrial era. Source: U.S. EPA, Climate Change Indicators in the United States: Atmospheric Concentrations of Greenhouse Gases, 2021.
+Reflectivity or Absorption of the Sun’s Energy
+Activities such as agriculture, road construction, and deforestation can change the reflectivity of the earth's surface, leading to local warming or cooling. This effect is observed in heat islands, which are urban centers that are warmer than the surrounding, less populated areas. One reason that these areas are warmer is that buildings, pavement, and roofs tend to reflect less sunlight than natural surfaces. While deforestation can increase the earth’s reflectivity globally by replacing dark trees with lighter surfaces such as crops, the net effect of all land-use changes appears to be a small cooling.13
+
+Emissions of small particles, known as aerosols, into the air can also lead to reflection or absorption of the sun's energy. Many types of air pollutants undergo chemical reactions in the atmosphere to create aerosols. Overall, human-generated aerosols have a net cooling effect on the earth. Learn more about human-generated and natural aerosols.
+
+Natural Processes
+Natural processes are always influencing the earth’s climate and can explain climate changes prior to the Industrial Revolution in the 1700s. However, recent climate changes cannot be explained by natural causes alone.
+
+Changes in the Earth’s Orbit and Rotation
+Changes in the earth’s orbit and its axis of rotation have had a big impact on climate in the past. For example, the amount of summer sunshine on the Northern Hemisphere, which is affected by changes in the planet’s orbit, appears to be the primary cause of past cycles of ice ages, in which the earth has experienced long periods of cold temperatures (ice ages), as well as shorter interglacial periods (periods between ice ages) of relatively warmer temperatures.14  At the coldest part of the last glacial period (or ice age), the average global temperature was about 11°F colder than it is today. At the peak of the last interglacial period, however, the average global temperature was at most 2°F warmer than it is today.15
+
+Variations in Solar Activity
+Changes in the sun’s energy output can affect the intensity of the sunlight that reaches the earth’s surface. While these changes can influence the earth’s climate, solar variations have played little role in the climate changes observed in recent decades.16 Satellites have been measuring the amount of energy the earth receives from the sun since 1978. These measurements show no net increase in the sun’s output, even as global surface temperatures have risen.17
+
+Measurements of Global Average Surface Temperature and the Sun’s Energy
+The sun follows a natural 11-year cycle of small ups and downs in intensity (bottom chart), but the effect on the earth is small. Over the same period, the average global temperature has increased markedly (top chart). Source: National Academy of Sciences, Climate Change Evidence & Causes, 2020. 
+Changes in the Earth’s Reflectivity
+The amount of sunlight that is absorbed or reflected by the planet depends on the earth’s surface and atmosphere. Dark objects and surfaces, like the ocean, forests, and soil, tend to absorb more sunlight. Light-colored objects and surfaces, like snow and clouds, tend to reflect sunlight. About 70 percent of the sunlight that reaches the earth is absorbed.18 Natural changes in the earth’s surface, like the melting of sea ice, have contributed to climate change in the past, often acting as feedbacks to other processes.
+
+Volcanic Activity
+Volcanoes have played a noticeable role in climate, and volcanic eruptions released large quantities of carbon dioxide in the distant past. Some explosive volcano eruptions can throw particles (e.g., SO2) into the upper atmosphere, where they can reflect enough sunlight back to space to cool the surface of the planet for several years.19 These particles are an example of cooling aerosols.
+
+Volcanic particles from a single eruption do not produce long-term climate change because they remain in the atmosphere for a much shorter time than greenhouse gases. In addition, human activities emit more than 100 times as much carbon dioxide as volcanoes each year.20
+
+Changes in Naturally Occurring Carbon Dioxide Concentrations
+Over the last several hundred thousand years, carbon dioxide levels varied in tandem with the glacial cycles. During warm interglacial periods, carbon dioxide levels were higher. During cool glacial periods, carbon dioxide levels were lower.21 The heating or cooling of the earth’s surface and oceans can cause changes in the natural sources and sinks of these gases, and thus change greenhouse gas concentrations in the atmosphere.22 These changing concentrations have acted as a positive climate feedback, amplifying the temperature changes caused by long-term shifts in the earth’s orbit.23
+
+A graph of atmospheric carbon dioxide concentrations.
+Analyses of ice core data extending back 800,000 years show that warmer periods on the earth coincide with periods of relatively high atmospheric carbon dioxide concentrations. Source: Based on data appearing in NAS, Climate Change Evidence & Causes, 2020.

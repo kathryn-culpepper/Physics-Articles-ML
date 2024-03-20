@@ -1,0 +1,74 @@
+1.3. Earth's Tilted Axis and the Seasons
+PrintPrint
+In EME 810, you learned and applied principles regarding the Earth's rotation, the cosine projection effect of light, and some insight into the driving force behind the seasons. These principles are critical for appropriate engineering of solar thermal solutions for utilities and industry. A comprehensive understanding of the solar resource and the physics behind the intermittent and cyclical behavior of solar energy enables the engineering of solar thermal systems that adequately meet a client's needs.
+
+Axis of the Earth. Image adequately described in caption.
+Figure 1.2 The axis of the Earth currently tilts approximately 23.5 degrees from the perpendicular (dashed line) to its orbital plane
+Credit: David Babb.
+Earth's Rotation
+As we have seen in our reading, the Earth rotates with a roughly constant speed, so that every hour the direct beam (a ray pointing from the surface of the sun to a spot on Earth) will traverse across a single standard meridian (standard meridians are spaced 15∘
+ apart). The implications are that the unit of one hour is equivalent to the rotation of Earth 15 degrees. When Earth rotates such that the beam of the sun shifts +1∘
+ of longitude from East to West: it takes 4 minutes of time.
+
+1 h=+15∘ Earth rotation
+4 min=+1∘ Earth rotation
+Wild fact: a time zone change of one hour is really just 15 degrees of separation between standard meridians.
+
+The axis of rotation of the Earth is tilted at an angle of 23.5 degrees away from vertical, perpendicular to the plane of our planet's orbit around the sun.
+
+The tilt of the Earth's axis is important, in that it governs the warming strength of the sun's energy. The tilt of the surface of the Earth causes light to be spread across a greater area of land, called the cosine projection effect.
+
+Cosine Projection Effect
+When you tilt a surface away from a beam of light, you spread the same density of light across a larger area. Recall that irradiance is in units of W/m2
+, so a larger denominator means a smaller value of irradiance, right?
+
+Explore the concept of the cosine projection effect in the following experiment.
+
+
+Experiment with the virtual flashlight above.
+Click to expand to provide more information
+David Babb
+Seasons and the Cosine Projection Effect
+The sun is about 93 million miles away from the Earth (equivalent to ~150 million km). That is so far away that the photons from solar irradiation effectively travels in parallel rays. So, unlike the flashlight experiment, the tilt of the sun has no bearing on the intensity of the radiation reaching the Earth's surface. Instead, we find that the Earth's tilt controls the intensity of irradiation and the seasons.
+
+Keep in mind that the Earth's axis points to the same position in space (toward the North Star, Polaris). As the Earth travels in a near spherical (a very small eccentricity into an ellipse) orbit around the sun, the northern hemisphere can be tilted toward or away from the sun, depending on its orbital position.
+
+
+Season Designations for the Northern Hemisphere
+
+Click to expand to provide more information
+David Babb
+Self Check
+Click on "Summer" in the above animation. When the northern hemisphere tilts toward the sun, the irradiation has a lower angle of incidence, meaning more photons strike a smaller area during the daytime. Answer the following questions for yourself.
+
+What happens to the southern hemisphere?
+What is the correlation between concentrated sunlight and the seasons?
+What happens beyond the Arctic Circle, which spans from about 66.5 degrees latitude to the North Pole?
+Now, answer the same questions for autumn, spring, and winter.
+
+Multiple exposure of the sun at Barrow, Alaska. Image adequately described in caption.
+Figure 1.3 From late spring to late summer, the sun never sets at Barrow, Alaska (as this multiple exposure of the sun reveals)
+Credit: Alaska Community Database, AK Division of Community and Regional Affairs.
+Forecasters and meteorologists use different criteria to determine the "meteorological seasons." For example, meteorological winter in PA runs from December 1 to Feb 28/29, a period that statistically includes the three coldest months of the year. This is also centered on a time about 25 days after the Winter Solstice. 
+
+Meteorological summer runs from June 1 to August 31, a period that includes the warmest three months of the year. Again, this is a period centered about 25 days from the Summer Solstice.
+
+Please review the following NASA movie from 2000-2001, showing the rhythms of the most intense ultraviolet radiation coinciding with the most direct rays of the sun (around the summer solstices). Again, what may be a surprising observation is that the average air temperatures lag the sun's most direct days.
+
+
+Ultraviolet Radiation Patterns
+Click here to open a text description of the Ultraviolet Radiation Patterns animation.
+
+As one more example, review Pittsburgh's plot of annual average high temperatures. The maximum daily temperature occurs in late July, long after the summer solstice.
+
+Daily mean max temp and extremes, Pittsburgh, PA.  The max daily temperature occurs in late July. 
+Figure 1.4 The annual variations of average, record-high, and record-low maximum temperatures at Pittsburgh, PA. Access the annual temperature stats at other cities(link is external)
+Credit: Earth System Research Library
+Self Check
+You have seen these questions already in EME 810; you should be able to answer the following questions.
+
+What is the symbol for the day number?
+What is the declination, and what is the symbol for declination?
+What season is it in the Southern Hemisphere if the declination is a large positive number?
+How many hours of sunlight are in a day when the declination is zero?
+Does the sun always rise due East?

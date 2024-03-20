@@ -1,0 +1,76 @@
+Climate Change: Global Temperature
+ BY REBECCA LINDSEY AND LUANN DAHLMAN  REVIEWED BY JESSICA BLUNDEN
+PUBLISHED JANUARY 18, 2024
+HIGHLIGHTS
+Earth’s temperature has risen by an average of 0.11° Fahrenheit (0.06° Celsius) per decade since 1850, or about 2° F in total.
+The rate of warming since 1982 is more than three times as fast: 0.36° F (0.20° C) per decade.
+2023 was the warmest year since global records began in 1850 by a wide margin.
+It was 2.12 °F (1.18 °C) above the 20th-century average of 57.0°F (13.9°C).
+It was 2.43 °F (1.35 °C) above the pre-industrial average (1850-1900).
+The 10 warmest years in the historical record have all occurred in the past decade (2014-2023). 
+2023 global summary
+
+Yearly surface temperature compared to the 20th-century average from 1880–2023. Blue bars indicate cooler-than-average years; red bars show warmer-than-average years. NOAA Climate.gov graph, based on data from the National Centers for Environmental Information.
+
+Given the tremendous size and heat capacity of the global oceans, it takes a massive amount of added heat energy to raise Earth’s average yearly surface temperature even a small amount. The roughly 2-degree Fahrenheit (1 degrees Celsius) increase in global average surface temperature that has occurred since the pre-industrial era (1850-1900 in NOAA's record) might seem small, but it means a significant increase in accumulated heat.
+
+That extra heat is driving regional and seasonal temperature extremes, reducing snow cover and sea ice, intensifying heavy rainfall, and changing habitat ranges for plants and animals—expanding some and shrinking others.  As the map below shows, most land areas have warmed faster than most ocean areas, and the Arctic is warming faster than most other regions. In addition, it's clear that the rate of warming over the past few decades is much faster than the average rate since the start of the 20th century.
+
+Two global maps comparing temperature trends over the full climate record versus the past 30 years
+Trends in annual surface temperature in the past few decades (1994-2023, top) compared to the trend since the start of the 20th century (1901-2023, bottom). Recent warming is much faster than the longer-term average, with some locations warming by 1 degree Fahrenheit or more per decade. Differences are most dramatic in the Arctic, where the loss of reflective ice and snow amplifies the rate of warming. NOAA Climate.gov, based on data provided by NOAA National Centers for Environmental Information.
+
+About surface temperature
+The concept of an average temperature for the entire globe may seem odd. After all, at this very moment, the highest and lowest temperatures on Earth are likely more than 100°F (55°C) apart. Temperatures vary from night to day and between seasonal extremes in the Northern and Southern Hemispheres. This means that some parts of Earth are quite cold while other parts are downright hot. To speak of the "average" temperature, then, may seem like nonsense. However, the concept of a global average temperature is convenient for detecting and tracking changes in Earth's energy budget—how much sunlight Earth absorbs minus how much it radiates to space as heat—over time.
+
+To calculate a global average temperature, scientists begin with temperature measurements taken at locations around the globe. Because their goal is to track changes in temperature, measurements are converted from absolute temperature readings to temperature anomalies—the difference between the observed temperature and the long-term average temperature for each location and date. Multiple independent research groups across the world perform their own analysis of the surface temperature data, and they all show a similar upward trend.
+
+Across inaccessible areas that have few measurements, scientists use surrounding temperatures and other information to estimate the missing values. Each value is then used to calculate a global temperature average. This process provides a consistent, reliable method for monitoring changes in Earth's surface temperature over time. Read more about how the global surface temperature record is built in our Climate Data Primer.
+
+Global temperature in 2023
+According to the 2023 Global Climate Report from NOAA National Centers for Environmental Information, every month of 2023 ranked among the 7 warmest for that month, and the months in the second half of the year (June-December) were each their hottest on record. In July, August, and September, global temperatures were more than 1.0°C (1.8°F) above the long-term average—the first time in NOAA's record any month has breached that threshold. 
+
+Infographic combining global temperature map and animated bar graph
+Map of global average surface temperature in 2023 compared to the 1991-2020 average. Warmer-than-average areas are shades of red, and cooler-than-average areas are shades of blue. The darker tha color, the bigger the difference from average. The animated bar graph shows global temperatures each year from 1976 (left) to 2023 (right) compared to the 1901-2000 average. 1976 (blue bar at far left) was the last time a year was cooler than the 20th-century average. 2023 (far right) set a new record for warmest year.
+
+Other 2023 rankings included...
+
+warmest year on record for land and ocean areas individually;
+warmest year on record for both the Northern and Southern Hemispheres (land and ocean areas combined), 
+warmest year for land and ocean individually in the North,
+2nd-warmest year for land and warmest year for ocean in the South;
+40th-warmest year for the Antarctic,
+4th-warmest year for the Arctic.
+For more regional details and 2023 climate statistics, see the 2023 Global Climate Report from NOAA's National Centers for Environmental Information. 
+
+Past and future change in global temperature
+Though warming has not been uniform across the planet, the upward trend in the globally averaged temperature shows that more areas are warming than cooling. According to NOAA's 2023 Annual Climate Report the combined land and ocean temperature has increased at an average rate of 0.11° Fahrenheit (0.06° Celsius) per decade since 1850, or about 2° F in total. The rate of warming since 1982 is more than three times as fast: 0.36° F (0.20° C) per decade.
+
+According to the latest Synthesis Report (pdf) from the Intergovernmental Panel on Climate Change, there is no debate about the cause of this warming trend:
+
+Human activities, principally through emissions of greenhouse gases, have unequivocally caused global warming, with global surface temperature reaching 1.1°C above 1850-1900 in 2011-2020.
+
+In the IPCC's Sixth Assessment Report on the Physical Basis of Climate Change, experts summarized the relative influence of all things known to affect Earth's average surface temperature:
+
+The likely range of total human-caused global surface temperature increase from 1850–1900 to 2010–2019 is 0.8°C to 1.3°C, with a best estimate of 1.07°C [2.01 ˚F]. Over this period, it is likely that well-mixed greenhouse gases (GHGs) contributed a warming of 1.0°C to 2.0°C, and other human drivers (principally aerosols) contributed a cooling of 0.0°C to 0.8°C, natural (solar and volcanic) drivers changed global surface temperature by –0.1°C to +0.1°C, and internal variability changed it by –0.2°C to +0.2°C.
+
+The amount of future warming Earth will experience depends on how much carbon dioxide and other greenhouse gases we emit in coming decades. Today, our activities—burning fossil fuels and to a lesser extent clearing forests—add about 11 billion metric tons of carbon (equivalent to a little over 40 billion metric tons of carbon dioxide) to the atmosphere each year. Because that is more carbon than natural processes can remove, atmospheric carbon dioxide amounts increase each year.
+
+side by side graphs showing future carbon emissions (left) and projected temperatures that would result (right)
+(left) Hypothetical pathways of carbon emissions ("representative concentration pathways," or RCPs) throughout the twenty-first century based on different possible energy policies and economic growth patterns. (right)  Projected temperature increase relative to the 1901-1960 average depending on which RCP we eventually follow. Image by Katharine Hayhoe, from the 2017 Climate Science Special Report by the U.S. Global Change Research Program.
+
+According to the 2017 U.S. Climate Science Special Report, if yearly emissions continue to increase rapidly, as they have since 2000, models project that by the end of this century, global temperature will be at least 5 degrees Fahrenheit warmer than the 1901-1960 average, and possibly as much as 10.2 degrees warmer. If annual emissions increase more slowly and begin to decline significantly by 2050,  models project temperatures would still be at least 2.4 degrees warmer than the first half of the 20th century, and possibly up to 5.9 degrees warmer.
+
+Key resources
+Climate at a Glance for NOAA global and national surface temperature maps, graphs, and underlying data.
+Maps of U.S. temperature and precipitation trends.
+The Climate Explorer for U.S. county-level maps and time series of past and future temperatures and climate impacts.
+References
+Global Carbon Project. (2023, December 4). Fossil CO2 emissions at record high in 2023. Accessed January 18, 2023, from https://globalcarbonbudget.org/fossil-co2-emissions-at-record-high-in-2….
+
+NOAA National Centers for Environmental Information (2024). Annual 2023 Global Climate Report. Accessed January 17, 2024, from https://www.ncei.noaa.gov/access/monitoring/monthly-report/global/202313.
+
+IPCC, 2021: Summary for Policymakers. In: Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [Masson-Delmotte, V., P. Zhai, A. Pirani, S.L. Connors, C. Péan, S. Berger, N. Caud, Y. Chen, L. Goldfarb, M.I. Gomis, M. Huang, K. Leitzell, E. Lonnoy, J.B.R. Matthews, T.K. Maycock, T. Waterfield, O. Yelekçi, R. Yu, and B. Zhou (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, pp. 3−32, doi:10.1017/9781009157896.001.
+
+IPCC, 2023: Summary for Policymakers. In: Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [Core Writing Team, H. Lee and J. Romero (eds.)]. IPCC, Geneva, Switzerland, pp. 1-34, doi: 10.59327/IPCC/AR6-9789291691647.001
+
+USGCRP, 2017: Climate Science Special Report: Fourth National Climate Assessment, Volume I [Wuebbles, D.J., D.W. Fahey, K.A. Hibbard, D.J. Dokken, B.C. Stewart, and T.K. Maycock (eds.)]. U.S. Global Change Research Program, Washington, DC, USA, 470 pp., doi: 10.7930/J0J964J6.

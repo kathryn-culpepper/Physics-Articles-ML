@@ -1,0 +1,117 @@
+Climate Change: Global Sea Level
+ BY REBECCA LINDSEY  REVIEWED BY RICK LUMPKIN, GREG JOHNSON, PHILLIP THOMPSON, AND WILLIAM SWEET
+PUBLISHED APRIL 19, 2022
+HIGHLIGHTS
+Global average sea level has risen 8–9 inches (21–24 centimeters) since 1880.
+In 2022, global average sea level set a new record high—101.2 mm (4 inches) above 1993 levels.
+The rate of global sea level rise is accelerating: it has more than doubled from 0.06 inches (1.4 millimeters) per year throughout most of the twentieth century to 0.14 inches (3.6 millimeters) per year from 2006–2015. 
+In many locations along the U.S. coastline, the rate of local sea level rise is greater than the global average due to land processes like erosion, oil and groundwater pumping, and subsidence.
+High-tide flooding is now 300% to more than 900% more frequent than it was 50 years ago.
+If we are able to significantly reduce greenhouse gas emissions, U.S. sea level in 2100 is projected to be around 0.6 meters (2 feet) higher on average than it was in 2000.
+On a pathway with high greenhouse gas emissions and rapid ice sheet collapse, models project that average sea level rise for the contiguous United States could be 2.2 meters (7.2 feet) by 2100 and 3.9 meters (13 feet) by 2150. 
+Seasonal (3-month) sea level estimates from Church and White (2011) (light blue line) and University of Hawaii Fast Delivery sea level data (dark blue). The values are shown as change in sea level in millimeters compared to the 1993-2008 average. NOAA Climate.gov image based on analysis and data from Philip Thompson, University of Hawaii Sea Level Center.
+
+Global mean sea level has risen about 8–9 inches (21–24 centimeters) since 1880. The rising water level is mostly due to a combination of melt water from glaciers and ice sheets and thermal expansion of seawater as it warms. In 2022, global mean sea level was 101.2 millimeters (4 inches) above 1993 levels, making it the highest annual average in the satellite record (1993-present).
+
+The global mean water level in the ocean rose by 0.14 inches (3.6 millimeters) per year from 2006–2015, which was 2.5 times the average rate of 0.06 inches (1.4 millimeters) per year throughout most of the twentieth century. By the end of the century, global mean sea level is likely to rise at least one foot (0.3 meters) above 2000 levels, even if greenhouse gas emissions follow a relatively low pathway in coming decades.
+
+In some ocean basins, sea level has risen as much as 6-8 inches (15-20 centimeters) since the start of the satellite record. Regional differences exist because of natural variability in the strength of winds and ocean currents, which influence how much and where the deeper layers of the ocean store heat.
+
+Global map of sea level rise since 1993
+Between 1993 and 2021 mean sea level has risen across most of the world ocean (blue colors). In some ocean basins, sea level has risen 6-8 inches (15-20 centimeters). Rates of local sea level (dots) on the coast can be larger than the global average due to geological processes like ground settling or smaller than the global average due to processes like the centuries-long rebound of land masses from the loss of ice-age glaciers. Map by NOAA Climate.gov based on data provided by Philip Thompson, University of Hawaii.
+
+Past and future sea level rise at specific locations on land may be more or less than the global average due to local factors: ground settling, upstream flood control, erosion, regional ocean currents, and whether the land is still rebounding from the compressive weight of Ice Age glaciers. In the United States, the fastest rates of sea level rise are occurring in the Gulf of Mexico from the mouth of the Mississippi westward, followed by the mid-Atlantic. Only in Alaska and a few places in the Pacific Northwest are sea levels falling, though that trend will reverse under high greenhouse gas emission pathways.
+
+Why sea level matters
+In the United States, almost 30 percent of the population lives in relatively high population-density coastal areas, where sea level plays a role in flooding, shoreline erosion, and hazards from storms. Globally, 8 of the world’s 10 largest cities are near a coast, according to the U.N. Atlas of the Oceans.
+
+a stretch of Miami Beach with hi-res buildings and hundreds of beachgoers
+South Beach, Miami on May 3, 2007. Photo by Flickr user James Williamor, via a Creative Commons license. 
+
+In urban settings along coastlines around the world, rising seas threaten infrastructure necessary for local jobs and regional industries. Roads, bridges, subways, water supplies, oil and gas wells, power plants, sewage treatment plants, landfills—the list is practically endless—are all at risk from sea level rise. 
+
+Higher background water levels mean that deadly and destructive storm surges, such as those associated with Hurricane Katrina, “Superstorm” Sandy, and Hurricane Michael—push farther inland than they once did. Higher sea level also means more frequent high-tide flooding, sometimes called “nuisance flooding” because it isn't generally deadly or dangerous, but it can be disruptive and expensive. (Explore past and future frequency of high-tide flooding at U.S. locations with the Climate Explorer, part of the U.S. Climate Resilience Toolkit.)
+
+Photo of harbor in Annapolis, MD, showing public seating and sculpture installation flooded with several inches of water
+Nuisance flooding in Annapolis in 2012. Around the U.S., nuisance flooding has increased dramatically in the past 50 years. Photo by Amy McGovern.
+
+In the natural world, rising sea level creates stress on coastal ecosystems that provide recreation, protection from storms, and habitat for fish and wildlife, including commercially valuable fisheries. As seas rise, saltwater is also contaminating freshwater aquifers, many of which sustain municipal and agricultural water supplies and natural ecosystems.
+
+What’s causing sea level to rise?
+Global warming is causing global mean sea level to rise in two ways. First, glaciers and ice sheets worldwide are melting and adding water to the ocean. Second, the volume of the ocean is expanding as the water warms. A third, much smaller contributor to sea level rise is a decline in the amount of liquid water on land—aquifers, lakes and reservoirs, rivers, soil moisture. This shift of liquid water from land to ocean is largely due to people depleting ground water.
+
+Pedersen Glacier, at Aialik Bay in Alaska’s Kenai Mountains, in 1917 and 2005.
+Pedersen Glacier, at Aialik Bay in Alaska’s Kenai Mountains, in 1917 (left) and 2005 (right). In the early 20th century, the glacier met the water and calved icebergs into a marginal lake near the bay. By 2005, the glacier had retreated, leaving behind sediment allowed the lake to be transformed into a small grassland. Photos courtesy of Louis H. Pedersen (1917) and Bruce F. Molina (2005), obtained from the Glacier Photograph Collection, Boulder, Colorado USA: National Snow and Ice Data Center/World Data Center for Glaciology. Large images: 1917 | 2005
+
+From the 1970s up through the last decade or so, melting and heat expansion were contributing roughly equally to observed sea level rise. But the melting of mountain glaciers and ice sheets has accelerated:
+
+The decadal average loss from glaciers in the World Glacier Monitoring Service’s reference network quintupled over the past few decades, from the equivalent of 6.7 inches (171 millimeters) of liquid water in the 1980s, to 18 inches (460 millimeters) in the 1990s, to 20 inches (-500 millimeters) in the 2000s, to 33 inches (850 millimeters) for 2010-2018.  
+Ice loss from the Greenland Ice Sheet increased seven-fold from 34 billion tons per year between 1992-2001 to 247 billion tons per year between 2012 and 2016.
+Antarctic ice loss nearly quadrupled from 51 billion tons per year between 1992 and 2001 to 199 billion tons per year from 2012-2016.
+As a result, the amount of sea level rise due to melting (with a small addition from groundwater transfer and other water storage shifts) from 2005–2013 was nearly twice the amount of sea level rise due to thermal expansion.
+
+Infographic showing melt streams on Greenland Ice Sheet with summary text in lower right corner.
+Melt streams on the Greenland Ice Sheet on July 19, 2015. Ice loss from the Greenland and Antarctic Ice Sheets as well as alpine glaciers has accelerated in recent decades. NASA photo by Maria-José Viñas.
+
+Measuring sea level
+Sea level is measured by two main methods: tide gauges and satellite altimeters. Tide gauge stations from around the world have measured the daily high and low tides for more than a century, using a variety of manual and automatic sensors. Using data from scores of stations around the world, scientists can calculate a global average and adjust it for seasonal differences. Since the early 1990s, sea level has been measured from space using radar altimeters, which determine the height of the sea surface by measuring the return speed and intensity of a radar pulse directed at the ocean. The higher the sea level, the faster and stronger the return signal is.
+
+Graph showing the different things contributing to sea level rise since 1995
+Observed sea level since the start of the satellite altimeter record in 1993 (black line), plus independent estimates of the different contributions to sea level rise: thermal expansion (red) and added water, mostly due to glacier melt (blue). Added together (purple line), these separate estimates match the observed sea level very well. NOAA Climate.gov graphic, adapted from Figure 3.15a in State of the Climate in 2018.
+
+To estimate how much of the observed sea level rise is due to thermal expansion, scientists measure sea surface temperature using moored and drifting buoys, satellites, and water samples collected by ships. Temperatures in the upper half of the ocean are measured by a global fleet of aquatic robots. Deeper temperatures are measured by instruments lowered from oceanographic research ships.
+
+To estimate how much of the increase in sea level is due to actual mass transfer—the movement of water from land to ocean—scientists rely on a combination of direct measurements of melt rate and glacier elevation made during field surveys, and satellite-based measurements of tiny shifts in Earth’s gravity field. When water shifts from land to ocean, the increase in mass increases the strength of gravity over oceans by a small amount. From these gravity shifts, scientists estimate the amount of added water.
+
+Future sea level rise
+As global temperatures continue to warm, additional sea level rise is inevitable. How much and by when depends mostly on the future rate of greenhouse gas emissions. But another source of uncertainty is whether big ice sheets in Antarctica and Greenland will melt in a steady, predictable way as the Earth gets warmer, or whether they will reach a tipping point and rapidly collapse.
+
+Every four or five years, NOAA leads an interagency task force that reviews the latest research on sea level rise and issues a report on likely— and ‘unlikely but plausible’—amounts future sea level rise for different greenhouse gas and global warming pathways. In the 2022 report, the task force concluded that even on the pathway with the lowest possible greenhouse gas emissions and warming (1.5 degrees C), global mean sea level would rise at least 0.3 meters (1 foot) above 2000 levels by 2100. On a pathway with very high rates of emissions that trigger rapid ice sheet collapse, sea level could be as much as 2 meters (6.6 feet) higher in 2100 than it was in 2000.
+
+graph of future sea level rise pathways with different amounts of global warming
+Observed sea level from 2000-2018, with future sea level through 2100 for six future pathways (colored lines)  The pathways differ based on future rates of greenhouse gas emissions and global warming and differences in the plausible rates of glacier and ice sheet loss. NOAA Climate.gov graph, adapted from Sweet et al., 2022. 
+
+One piece of good news: the task force concluded that an extreme possibility (8.2 feet above 2000 levels by 2100) that they couldn’t rule out at the time of their 2017 report appears to be less likely based on the latest science. This doesn’t mean global sea level rise of that much won’t ever happen, only that it is extremely unlikely to happen by 2100. Still, on a pathway with high greenhouse gas emissions, if processes triggering rapid ice sheet collapse kick in, global sea level could rise upwards of 3.7 meters (12 feet) higher in 2150 than it was in 2000.
+
+Now the bad news: the report reaffirmed that many parts of the United States can expect their local rate and overall amount of sea level rise to exceed the global average. Extrapolating from observed rates, sea levels on average along the contiguous U.S. are expected to rise as much over the next 30 years (10-12 inches over 2020-2050) as they have over the last 100 years (1920-2020). In some regions, the increases will be even larger. In the western Gulf of Mexico, for example, sea level rise is likely to be about 16-18 inches higher than 2020 levels by 2050—almost a ½ foot higher than the national average.
+
+Projections for U.S. sea level rise for the end of the century and beyond depend on which greenhouse gas pathway we follow and how the major ice sheets respond to this ocean and atmospheric warming. If we are able to significantly reduce greenhouse gas emissions, U.S. sea level in 2100 is projected to be around 0.6 meters (2 feet) higher on average than it was in 2000. But on a pathway with high greenhouse gas emissions and rapid ice sheet collapse, models project that average sea level rise for the contiguous United States could be 2.2 meters (7.2 feet) by 2100 and 3.9 meters (13 feet) by 2150.
+
+About the data used in the time series graph
+These data are for education and communication purposes only. The early part of the time series shown in the graph above comes from the sea level group of CSIRO (Commonwealth Scientific and Industrial Research Organisation), Australia's national science agency. They are documented in Church and White (2011). The more recent part of the time series is from the University of Hawaii Sea Level Center (UHSLC). It is based on a weighted average of 373 global tide gauge records collected by the U.S. National Ocean Service, UHSLC, and partner agencies worldwide. The weights for each gauge in the global mean are determined by a cluster analysis that groups gauges from locations where sea level tends to vary in the same way. This prevents over-emphasizing regions where there are many tide gauges located in close proximity. The most recent year of data should be considered preliminary. Scientific users should acquire research-quality data directly from UHSLC and/or the NOAA Tides and Currents webpage.
+
+References
+Cassotta, S., Derkesen, C., Ekaykin, A., Hollowed, A., Kofinas, G., Mackintosh, A., Melbourne-Thomas, J., Muelbert, M.M.C., Ottersen, G., Pritchard, H., and Schuur, E.A.G. (2019). Chapter 3: Polar regions. In IPCC Special Report on the Ocean and Cryosphere in a Changing Climate [H.-O. Pörtner, D.C. Roberts, V. Masson-Delmotte, P. Zhai, M. Tignor, E. Poloczanska, K. Mintenbeck, M. Nicolai, A. Okem, J. Petzold, B. Rama, N. Weyer (eds.)]. In press. https://www.ipcc.ch/site/assets/uploads/sites/3/2019/11/SROCC_FinalDraft_Chapter3.pdf
+
+Church, J.A., P.U. Clark, A. Cazenave, J.M. Gregory, S. Jevrejeva, A. Levermann, M.A. Merrifield, G.A. Milne, R.S. Nerem, P.D. Nunn, A.J. Payne, W.T. Pfeffer, D. Stammer and A.S. Unnikrishnan. (2013). Sea Level Change. In: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Stocker, T.F., D. Qin, G.-K. Plattner, M. Tignor, S.K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.
+
+Church, J. A., and White, N. J. (2011). Sea-Level Rise from the Late 19th to the Early 21st Century. Surveys in Geophysics, 32(4-5), 585–602. http://doi.org/10.1007/s10712-011-9119-1
+
+Domingues, R., Goni, G., Baringer, M., & Volkov, D. (2018). What Caused the Accelerated Sea Level Changes Along the U.S. East Coast During 2010–2015? Geophysical Research Letters, 45(24), 13,367-13,376. https://doi.org/10.1029/2018GL081183
+
+IPCC, 2019: Summary for Policymakers. In: IPCC Special Report on the Ocean and Cryosphere in a Changing Climate [H.- O. Pörtner, D.C. Roberts, V. Masson-Delmotte, P. Zhai, M. Tignor, E. Poloczanska, K. Mintenbeck, M. Nicolai, A. Okem, J. Petzold, B. Rama, N. Weyer (eds.)]. In press. https://www.ipcc.ch/srocc/chapter/summary-for-policymakers/
+
+IPCC. (2013). Summary for Policymakers. In: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Stocker,T.F., D. Qin, G.-K. Plattner, M. Tignor, S.K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA. [online] http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf. Accessed November 2, 2015.
+
+Thompson, P.R., M. J. Widlansky, E. Leuliette, D. P. Chambers, W. Sweet, B. D. Hamlington, S. Jevrejeva, M. A. Merrifield, G. T. Mitchum, and R. S. Nerem, 2023. Sea level variability and change [in “State of the Climate in 2022”]. Bull. Amer. Meteor. Soc., 104 (9), S159-S162, https://doi.org/10.1175/BAMS-D-23-0076.2.
+
+Leuliette, E. (2014). The budget of recent global sea level rise: 1995-2013. Published by the National Oceanic and Atmospheric Administration. [online pdf] http://www.star.nesdis.noaa.gov/sod/lsa/SeaLevelRise/documents/NOAA_NESD.... Accessed November 18, 2019.
+
+NOAA Center for Operational Oceanographic Products and Services. (n.d.) Sea level trends. [online: https://tidesandcurrents.noaa.gov/sltrends/] Accessed November 18, 2019.
+
+Parris, A., P.  Bromirski, V. Burkett, D. Cayan, M. Culver, J. Hall, R. Horton, K. Knuuti, R. Moss, J. Obeysekera, A. Sallenger, and J. Weiss. (2012). Global Sea Level Rise Scenarios for the US National Climate Assessment.  NOAA Tech Memo OAR CPO-1. 37 pp. [online] http://cpo.noaa.gov/sites/cpo/Reports/2012/NOAA_SLR_r3.pdf. Accessed November 18 2019.
+
+Pelto, M. (2019). Alpine glaciers: Another decade of loss. Realclimate.org. [Online: http://www.realclimate.org/index.php/archives/2019/03/alpine-glaciers-another-decade-of-loss/] Accessed November 18, 2019.
+
+Sweet, W.V., Kopp, R.E., Weaver, C.P., Obeysekera, T., Horton, R.M., Thieler, E.R., and Zervas, C. (2017). Global and Regional Sea Level Rise Scenarios for the United States. NOAA Tech. Rep. NOS CO-OPS 083. National Oceanic and Atmospheric Administration, National Ocean Service, Silver Spring, MD. 75pp. [Online: https://tidesandcurrents.noaa.gov/publications/techrpt83_Global_and_Regional_SLR_Scenarios_for_the_US_final.pdf]
+
+Sweet W. V., J. Park, J.J. Marra, C. Zervas and S. Gill (2014). Sea level rise and nuisance flood frequency changes around the U.S. NOAA Technical Report NOS CO-OPS 73, 53p. [Online: https://tidesandcurrents.noaa.gov/publications/NOAA_Technical_Report_NOS_COOPS_073.pdf]
+
+More sea level data and information from NOAA and partners
+Global Ocean Heat and Salt Content page at NCEI
+
+Tides and Currents Sea Level Trends page at the National Ocean Service
+
+Digital Coast Sea Level Rise Viewer at the Coastal Services Center
+
+Coastal Flood Risk page at the U.S. Climate Resilience Toolkit

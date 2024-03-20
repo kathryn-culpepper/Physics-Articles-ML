@@ -1,0 +1,116 @@
+Deep Dive into Oceanography
+
+Oceanography is the study of all aspects of the ocean. Oceanography covers a wide range of topics, from marine life and ecosystems to currents and waves, the movement of sediments, and seafloor geology.
+
+Oceanography is the study of all aspects of the ocean. Oceanography covers a wide range of topics, from marine life and ecosystems, to currents and waves, to the movement of sediments, to seafloor geology.
+
+The study of oceanography is interdisciplinary. The ocean’s properties and processes function together. The chemical composition of water, for example, influences what types of organisms live there. In turn, organisms provide sediments to the geology of the seafloor. Oceanographers must have a broad understanding of these relationships to research specific topics, or subdisciplines.
+
+Subdisciplines of Oceanography
+
+Oceanography’s diverse topics of study are generally categorized in four major subdisciplines. A subdiscipline is a specialized field of study within a broader subject or discipline. Oceanographers specialize in the biological, physical, geological, and chemical processes of the marine environment.
+
+Biological Oceanography
+
+Biological oceanographers study how each of the subdisciplines of oceanography work either separately or together to influence the distribution and abundance of marine plants and animals, as well as how marine organisms behave and develop in relation to their environment. Marine biologists and fisheries scientists are biological oceanographers.
+
+Biological oceanographers also focus on how species adapt to environmental changes, such as increased pollution, warming waters, and natural and artificial disturbances. A natural disturbance may be the eruption of an underwater volcano or a hurricane, while an artificial disturbance may be an oil spill or overfishing.
+
+The Cetacean Sanctuary Research Project is a marine biology program that focuses on whale and dolphin species (cetaceans) living in the Pelagos Sanctuary in the northwestern Mediterranean Sea. A range of human activities threatens these species—intense maritime traffic, urban pollutants, and oil and gas exploration. By analyzing cetacean behavior in this high-pressure environment, oceanographers hope to protect Pelagos’ marine species and promote their importance to the surrounding coastal community.
+
+To get a clear picture of these species and their behavior, oceanographers monitor their geographic position, movements, and group size. They record vocalizations, respiration patterns, and surface and aerial displays to understand how cetaceans interact with one another and other marine species. Skin and fecal samples are analyzed to generate information on social, sexual, and feeding habits. The Cetacean Sanctuary Research Project has collected one the largest data sets on marine mammals in the Mediterranean Sea.
+
+
+New technology is expanding opportunities for biological oceanographers. The field of marine biotechnology uses marine resources to develop new industrial, medical, and ecological products.
+
+Using a process called biomimicry, researchers are able to understand, isolate, and fabricate biological properties of marine species. Natural compounds found in corals and other marine organisms have potent anti-cancer properties. Proteins found in marine algae and bacteria are being developed into super-absorbent materials that could be used to clean oil spills. Salt-tolerant land crops have been created from genetically engineered marsh plants.
+
+The real-world applications of this research are potentially endless because marine species make up more than 80 percent of Earth’s living organisms.
+
+Physical Oceanography
+
+Physical oceanographers study the relationship between the ocean’s physical properties, atmosphere, seafloor and coast. They investigate ocean temperature, density, waves, tides, and currents. They also focus on how the ocean interacts with Earth’s atmosphere to produce our weather and climate systems.
+
+Oceanographers in South Africa, for example, have studied the turbulent flow of water around the southern tip of Africa. This movement, known as the Agulhas Current, is part of a larger “ocean conveyor belt” that circulates water around the globe based on density, wind, and currents. Physical oceanographers have found that the amount of water flowing from the warmer Indian Ocean to the cooler Atlantic Ocean has increased, a process nicknamed the Agulhas leakage. The increased Agulhas leakage has been linked to global warming.
+
+Physical oceanographers predict that global warming will slow the ocean conveyor belt and radically change climate and weather patterns. As ice caps melt, sea levels rise and the ocean becomes less salty and dense. As ocean waters warm, they also expand, which enhances sea-level rise.
+
+Geological Oceanography
+
+Geological oceanographers study the past and present composition of seafloor structures. They investigate the origins of the underwater landscape and detail its development and changes. They also focus on the physical and chemical properties of rocks and sediments found on the seafloor.
+
+A variety of geological research projects have been conducted on the JOIDES Resolution, an international research vessel. Resolution drills sediment-core samples and collects measurements from under the ocean floor. This research helps scientists understand our paleoclimate. Paleoclimatology is the study of weather and climate patterns over hundreds of millions of years. Changes in the seafloor reflect changes in Earth’s climate, and is very useful in predicting our future climate.
+
+Starting in December 2010, oceanographers and other scientists aboard the Resolution studied the Louisville Seamount Trail, a series of underwater volcanoes found in the South Pacific close to New Zealand. The vessel drilled sediment-cores at six different sites to understand the development of the hot spot that created these volcanoes. The results of this research will help define how landforms develop and change.
+
+Chemical Oceanography
+
+Chemical oceanographers study the chemical composition of seawater and its resulting effects on marine organisms, the atmosphere, and the seafloor. They map chemicals found in seawater to understand how ocean currents move water around the globe—the ocean conveyor belt. Chemical oceanographers study how the carbon from carbon dioxide is buried in the seafloor, highlighting the key role that the ocean plays in regulating greenhouse gases, such as carbon dioxide, that is a major contributor to global warming. Chemical oceanographers also focus on how pollutants affect seawater composition. They may study the unusual and sometimes toxic fluids released by hydrothermal vents in the ocean floor.
+
+Ocean acidification is a key topic in chemical oceanography. The ocean is becoming more acidic because of the increased amount of carbon dioxide in the atmosphere. Acid disrupts the formation of calcium carbonate, the basic building block of shells and corals.
+
+Shellfish populations in the Pacific Northwest region of the United States have declined dramatically as a result of ocean acidification. Chemical oceanographers in Oregon help shellfish growers adjust their operations to reduce the influx of acidic water. They also run experiments to find the threshold at which shellfish are unharmed by acidification. This research will complement other studies that aim to reduce the negative impacts of ocean acidification in shellfish and coral environments around the globe.
+
+History of Oceanography
+
+Oceanography is deeply connected to the histories of exploration, colonization, trade, war, and scientific discovery.
+
+Considered the world’s first seafarers, Polynesians migrated from the western coastline of the Pacific Ocean about 30,000 years ago to colonize islands such as New Guinea, Fiji, Samoa, and Hawai'i.
+
+Polynesians navigated the open ocean using their knowledge of astronomy (the positions of stars and planets) and ocean currents. They used these data to create the first oceanographic maps. Shells and knots represented the location of islands, and curved pieces of wood represented the direction and strength of surrounding waves and currents. These stick charts were passed down and improved from generation to generation over 25,000 years.
+
+Starting in the 1400s, European explorers used the sea to colonize new lands and establish efficient trade routes. Prince Henry of Portugal, nicknamed “Henry the Navigator,” created the first oceanographic institute where scholars and merchants learned about oceans, currents, and mapmaking.
+
+These new studies prompted the Age of Exploration, in which European navigators and explorers such as James Cook, Christopher Columbus, and Ferdinand Magellan launched expeditions around the world. Important oceanographic tools were created and improved upon during this period, including the mariner’s compass, astrolabe, and chronometer. By keeping accurate time on a moving ship, the chronometer allowed sailors to figure out their longitude—a massive advancement in maritime navigation.
+
+A book, Science of the Sea, published in 1912, summarizes the results of the Challenger expedition (1873-1876), which many claim as the beginning of modern oceanography. The scientific inferences made in this book are based on little or no data—and yet are nonetheless outstanding. For example, Science of the Sea contains a map of sediment-accumulation rates in the ocean. The relative rates were based on the number of sharks’ teeth in a unit volume of sediment. If there were lots of sharks’ teeth in a sediment sample, the sediment accumulation rate was recorded as very slow. If there were few sharks’ teeth, the sediment accumulation was recorded as very high. Based on these data, members of the Challenger expedition figured out the relative distribution of sediment accumulation in the ocean—accureately!
+
+Military technology facilitated the study of our oceans. The use of submarines, starting in the U.S. Civil War, prompted the development of sonar and the magnetometer. Sonar measures distance by timing sound waves as they leave and return to a ship after bouncing off surrounding objects. Sonar enables scientists to measure distances from the ocean surface to the seafloor more accurately and efficiently than the rope depth-soundings of the Challenger era. The magnetometer, originally developed to detect the metal hulls of submarines, is used by oceanographers to measure the magnetic properties of the seafloor. These measurements have enhanced our understanding of Earth’s magnetic core.
+
+Since the 1970s, sophisticated computer technologies have helped oceanographers measure ocean properties on a global scale. In 1978, the U.S. space agency NASA launched SEASAT, the first civilian oceanographic satellite. SEASAT’s sensors measured wind speed and direction, sea-surface temperature, polar sea-ice conditions, and surface waves. SEASAT also provided satellite imagery of cloud, land, and water features. Although it was operational for only 105 days, SEASAT collected as much oceanographic data as the previous 100 years of ship-based exploration. Another NASA satellite, TIROS-N, produced the first maps of sea-surface temperature and ocean chlorophyll, a green pigment necessary for photosynthesis.
+
+
+In the late 1970s, the U.S. National Oceanic and Atmospheric Administration (NOAA) began mooring a series of buoys across the tropical Pacific Ocean. Known as the Tropical Atmosphere Ocean array, this collection of 70 buoys sends oceanographic and atmospheric data to shore in real time through a satellite system. This data has improved our ability to predict global climate processes such as El Niño.
+
+Oceanography Today
+
+Modern oceanographers have a variety of tools that help them discover, examine, and describe marine environments. TowCam, for example, is specially designed to handle the extreme conditions of the deep sea. TowCam is the first digital camera system designed to take high-quality imagery of the seafloor. It can also collect rock, lava, and water samples.
+
+Since its completion in 2002, TowCam has been used to study seafloor environments as diverse as the New England Seamounts, Galapagos Rift, Gulf of Mexico, and the offshores of Taiwan and Iceland. It has captured roughly 280,000 photographs and collected more than 300 samples of volcanic glass. Through these photographic and material samples, TowCam has facilitated the study of underwater geology and volcanology around the globe.
+
+Since its first dive in 1997, BIOMAPER has been used to study phytoplankton, zooplankton, and krill in the Gulf of Maine and what Australians call the Southern Ocean around Antarctica. BIOMAPER uses five sonar units that transmit sound waves of different frequencies. These frequencies bounce off objects of different sizes and echo back to the research unit. BIOMAPER uses these echoes to calculate how large and how far away particles are. Unlike conventional nets, which can only sample areas up to five meters (16 feet), BIOMAPER can record data from 500 meters (1,640 feet) deep.
+
+BIOMAPER also measures water temperature, salinity, oxygen, chlorophyll, and light levels. These physical properties are important to the development of phytoplankton, zooplankton, and krill. This microscopic sea life makes up a large part of the diet of many marine animals. Plankton and krill are considered indicator species of the ocean’s overall vitality. By mapping and measuring the environment of this microscopic sea life, BIOMAPER helps oceanographers describe the habitats and health of the open ocean.
+
+JASON is a remote-controlled, deep-diving vessel that allows scientists to explore the seafloor efficiently. Unlike short, expensive dives in a submarine, JASON can be guided through underwater environments as deep as six kilometers (four miles) for days on end.
+
+JASON uses a variety of instruments to record information and collect materials. Six color video cameras, one still camera, and sonar capture and map the seafloor. Two robotic manipulator arms allow scientists to collect samples of rocks, water, and sea life, and construct and maneuver other research instruments. Specially designed water containers are able to collect the extremely hot waters of hydrothermal vents and preserve the chemical composition of samples through their ascent to the surface.
+
+JASON’s technology has been used for a variety of research and educational purposes. It has investigated hydrothermal vents in the Pacific, Atlantic, and Indian Oceans. It has also explored many shipwrecks that were once out of reach for underwater archaeologists, extracting samples such as tools and pottery. As part of the JASON project, the vessel broadcasts images and reports to classrooms and over the internet, allowing the public a rare glimpse into deep-sea environments.
+
+FAST FACT
+
+After the Mutiny on the Bounty
+In 1789, some of the crew of the British ship Bounty mutinied (rebelled) against the ship's leader, Lt. William Bligh. Bligh and 18 crew members loyal to him were set adrift in the South Pacific, a little southeast of the island of Tonga. Bligh and his crew were sent off in a seven-meter (23-foot)-long boat with food and water to last a few days, plus four cutlasses (swords), a sextant, and a pocket watch. They had no compass or navigational charts.
+
+Bligh successfully navigated more than 6,500 kilometers (3,500 nautical miles) to the island of Timor in 47 days. Bligh's voyage to Timor is considered by many to be the most remarkable feat of navigation in history.
+
+FAST FACT
+
+Chart Error
+Nautical charts that Christopher Columbus used when he set off from Spain showed nothing but ocean between him and eastern China. That's why his discovery of the Americas was such a lucky, lucky surprise.
+
+FAST FACT
+
+Crossing the Line
+Sailors have elaborate rituals and celebrations when they cross the Equator, which they call crossing the line. Sailors who have never crossed the line are called pollywogs. Pollywogs are usually the target of embarrassing practical jokes.
+
+FAST FACT
+
+Limnology
+Oceanography is the study of marine environments and their impact on the surrounding area. Limnology is the study of freshwater environments. Some limnologists, especially those who study large bodies of water such as the Great Lakes, must often be familiar with oceanography as well.
+
+FAST FACT
+
+Oceanographers Are In Demand
+According to the Bureau of Labor Statistics, job opportunities for oceanographers and other geoscientists are expected to grow by 18 percent in the next decade. The need for energy, environmental protection, and responsible land and water management will drive the creation of oceanography jobs, mostly in government and the oil industry.

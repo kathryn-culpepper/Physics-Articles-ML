@@ -1,0 +1,37 @@
+When do the planets in our solar system all line up?
+
+The planets in our solar system never line up in one perfectly straight line like they show in the movies. If you look at a two-dimensional plot of the planets and their orbits on a piece of paper you may be lead to believe that all the planets will circle around to the same line eventually. In reality, the planets do not all orbit perfectly in the same plane. Instead, they swing about on different orbits in three dimensional space. For this reason, they will never be perfectly aligned. It's like waiting for a swarm of flies circling your head to all line up. It is not going to happen. When astronomers use words like "planetary alignment", they don't mean a literal lining up. They just mean that some of the planets are in the same general region of the sky. And this type of "alignment" almost never happens to all the planets, but instead happens to two or three planets at one time.
+
+perfect planetary alignment
+The type of planetary alignment shown in this artistic rendering never happens. Public Domain Image, source: Christopher S. Baird.
+Furthermore, "planetary alignment" depends on your viewpoint. If three planets are in the same region of sky from the earth's point of view, they are not necessarily in the same region of sky form the sun's point of view. Alignment is therefore an artifact of a viewpoint and not something fundamental about the planets themselves.
+
+The book Bad Astronomy by Philip C. Plait states,
+
+However, the planets' orbits don't all exist perfectly in the same plane. They're all tilted a little, so that planets don't all fall exactly along a line in the sky. Sometimes a planet is a little above the plane, and sometimes a little below... For this reason, surprisingly, it's actually rather rare for more than two planets to be near each other in the sky at the same time.
+
+Even if the planets did all align in a perfectly straight line, it would have negligible effects on the earth. Fictional and pseudo-science authors like to claim that a planetary alignment would mean that all of the gravitational fields of the planets add together to make something massive that interferes with life on earth. In truth, the gravitational pulls of the planets on the earth are so weak that they have no significant effect on earth life. There are only two solar system objects with enough gravity to significantly affect earth: the moon and the sun. The sun's gravity is strong because the sun is so massive. The moon's gravitational effect on the earth is strong because the moon is so close. The sun's gravity causes earth's yearly orbit and therefore, combined with earth's tilt, it causes the seasons. The moon's gravity is primarily responsible for the daily ocean tides. The near alignment of the sun and the moon does have an effect on the earth, because their gravitational fields are so strong. This partial alignment occurs every full moon and new moon, and it leads to extra strong tides called "spring tides". The word "spring" here refers to the fact that the water seems to leap up the shore with the extra strong tides every two weeks, and not that they occur only in the Spring season.
+
+Let's put some numbers behind these claims. Using Newton's Law of Universal Gravitation and the known masses and distances of the sun, the moon, and the planets, we can calculate the gravitational force that a 100 kg person feels from each astronomical body when he is located on earth's surface at the equator:
+
+Astronomical Body	Gravitational Force (N)
+Earth	980
+Sun when closest	0.61
+Sun when farthest	0.57
+Moon when closest	0.0039
+Moon when farthest	0.0029
+Jupiter when closest	0.000037
+Venus when closest	0.000022
+Saturn when closest	0.0000026
+Mars when closest	0.0000014
+Mercury when closest	0.00000037
+Uranus when closest	0.000000088
+Neptune when closest	0.000000037
+All planets when closest	0.000064
+Note that because the planets orbit the sun along different paths at different speeds, the distance between them is constantly changing. Therefore, in the interest of seeing what the effect of a planetary alignment might be, I have calculated the gravitational force from each planet when it is the closest to the earth. As this table shows, even if all the planets lined up at the points in their orbits where they are closest to the earth, the absolute highest gravitational force that all the planets combined could exert on a 100 kg person on earth's surface is 0.000064 Newtons. This value is 53 times weaker than the average gravitational force of the moon. Furthermore, as the moon moves closer to and farther from the earth in its normal monthly orbit, the moon's gravitational force on a 100 kg person on earth fluctuates by 0.0010 Newtons, which is 15 times stronger than the gravity of all the planets combined if they were perfectly aligned. In other words, the gravitational effect of the moon coming closer to and farther from the earth every month is far stronger than that of any planetary alignment, no matter how contrived. If the gravity of planetary alignments caused problems on earth, then the normal monthly fluctuation of the moon's gravity would cause problems that would be 15 times worse, or more. As should be obvious, there is not a giant earthquake, a catastrophe, or a spate of crimes every month when the moon reaches its closest point to earth. Therefore, the fluctuations in gravitational force on us due to the alignment of any planets, which is tens to thousands times weaker than that of the moon, has no effect on earth.
+
+The closest that the eight planets will come to being aligned (Pluto is now considered a dwarf planet) will occur on May 6, 2492. Again, on this date, the planets will not be situated along a line. Rather, they will be in the same 180-degree-wide patch of sky, as shown in the image below.
+
+simulated image of the night sky on May 6, 2492
+The closest the eight planets will come to being aligned will be on May 6, 2492. This image shows what you would see if you were off the coast of New York City and you looked due south at 5:10 am on May 6, 2492, as calculated by the software program Stellarium 0.13.3. As you can see, the planets are not visually sitting on top of each other, which would be the case if they were all located on a line emanating from the earth (as would be needed to maximize their net gravitational force on the earth). Furthermore, they are not even visually sitting on a line in the sky. They are simply in the same general region of the sky. Public Domain Image, source: Christopher S. Baird.
+Additionally, the five planets Jupiter, Saturn, Mars, Venus and Mercury will be in the same general part of the sky on September 8, 2040. While these planetary alignments have no effect on the earth, they can make for interesting nights for star gazers who know what to look for.

@@ -1,0 +1,42 @@
+Quantum physics
+Our best basic picture of how particles interact to make the world
+By Richard Webb
+
+Quantum physics
+What is quantum physics? Put simply, it’s the physics that explains how everything works: the best description we have of the nature of the particles that make up matter and the forces with which they interact.
+
+Quantum physics underlies how atoms work, and so why chemistry and biology work as they do. You, me and the gatepost – at some level at least, we’re all dancing to the quantum tune. If you want to explain how electrons move through a computer chip, how photons of light get turned to electrical current in a solar panel or amplify themselves in a laser, or even just how the sun keeps burning, you’ll need to use quantum physics.
+
+The difficulty – and, for physicists, the fun – starts here. To begin with, there’s no single quantum theory. There’s quantum mechanics, the basic mathematical framework that underpins it all, which was first developed in the 1920s by Niels Bohr, Werner Heisenberg, Erwin Schrödinger and others. It characterises simple things such as how the position or momentum of a single particle or group of few particles changes over time.
+
+But to understand how things work in the real world, quantum mechanics must be combined with other elements of physics – principally, Albert Einstein’s special theory of relativity, which explains what happens when things move very fast – to create what are known as quantum field theories.
+
+Advertisement
+
+
+Three different quantum field theories deal with three of the four fundamental forces by which matter interacts: electromagnetism, which explains how atoms hold together; the strong nuclear force, which explains the stability of the nucleus at the heart of the atom; and the weak nuclear force, which explains why some atoms undergo radioactive decay.
+
+Over the past five decades or so these three theories have been brought together in a ramshackle coalition known as the “standard model” of particle physics. For all the impression that this model is slightly held together with sticky tape, it is the most accurately tested picture of matter’s basic working that’s ever been devised. Its crowning glory came in 2012 with the discovery of the Higgs boson, the particle that gives all other fundamental particles their mass, whose existence was predicted on the basis of quantum field theories as far back as 1964.
+
+Quantum superposition or quantum entanglement concept illustration. Superposition is the ability of a quantum system to be in multiple states at the same time until it is measured. Quantum entanglement is a physical phenomenon that occurs when pairs or groups of particles are generated or interact in ways such that the quantum state of each particle cannot be described independently.
+Rethinking reality: Is the entire universe a single quantum object?
+In the face of new evidence, physicists are starting to view the cosmos not as made up of disparate layers, but as a quantum whole linked by entanglement
+
+Conventional quantum field theories work well in describing the results of experiments at high-energy particle smashers such as CERN’s Large Hadron Collider, where the Higgs was discovered, which probe matter at its smallest scales. But if you want to understand how things work in many less esoteric situations – how electrons move or don’t move through a solid material and so make a material a metal, an insulator or a semiconductor, for example – things get even more complex.
+
+The billions upon billions of interactions in these crowded environments require the development of “effective field theories” that gloss over some of the gory details. The difficulty in constructing such theories is why many important questions in solid-state physics remain unresolved – for instance why at low temperatures some materials are superconductors that allow current without electrical resistance, and why we can’t get this trick to work at room temperature.
+
+But beneath all these practical problems lies a huge quantum mystery. At a basic level, quantum physics predicts very strange things about how matter works that are completely at odds with how things seem to work in the real world. Quantum particles can behave like particles, located in a single place; or they can act like waves, distributed all over space or in several places at once. How they appear seems to depend on how we choose to measure them, and before we measure they seem to have no definite properties at all – leading us to a fundamental conundrum about the nature of basic reality.
+
+
+This fuzziness leads to apparent paradoxes such as Schrödinger’s cat, in which thanks to an uncertain quantum process a cat is left dead and alive at the same time. But that’s not all. Quantum particles also seem to be able to affect each other instantaneously even when they are far away from each other. This truly bamboozling phenomenon is known as entanglement, or, in a phrase coined by Einstein (a great critic of quantum theory), “spooky action at a distance”. Such quantum powers are completely foreign to us, yet are the basis of emerging technologies such as ultra-secure quantum cryptography and ultra-powerful quantum computing.
+
+But as to what it all means, no one knows. Some people think we must just accept that quantum physics explains the material world in terms we find impossible to square with our experience in the larger, “classical” world. Others think there must be some better, more intuitive theory out there that we’ve yet to discover.
+
+In all this, there are several elephants in the room. For a start, there’s a fourth fundamental force of nature that so far quantum theory has been unable to explain. Gravity remains the territory of Einstein’s general theory of relativity, a firmly non-quantum theory that doesn’t even involve particles. Intensive efforts over decades to bring gravity under the quantum umbrella and so explain all of fundamental physics within one “theory of everything” have come to nothing.
+
+JGYRAN Large Hadron Collider tunnel.
+Six ways we could finally find new physics beyond the standard model
+Leading physicists explain how they think we will discover the new particles or forces that would complete one of science's greatest unfinished masterpieces
+
+Meanwhile cosmological measurements indicate that over 95 per cent of the universe consists of dark matter and dark energy, stuffs for which we currently have no explanation within the standard model, and conundrums such as the extent of the role of quantum physics in the messy workings of life remain unexplained. The world is at some level quantum – but whether quantum physics is the last word about the world remains an open question.

@@ -1,0 +1,43 @@
+What Is Climate Change?
+
+Climate change is a long-term change in the average weather patterns that have come to define Earth’s local, regional and global climates. These changes have a broad range of observed effects that are synonymous with the term.
+
+Changes observed in Earth’s climate since the mid-20th century are driven by human activities, particularly fossil fuel burning, which increases heat-trapping greenhouse gas levels in Earth’s atmosphere, raising Earth’s average surface temperature. Natural processes, which have been overwhelmed by human activities, can also contribute to climate change, including internal variability (e.g., cyclical ocean patterns like El Niño, La Niña and the Pacific Decadal Oscillation) and external forcings (e.g., volcanic activity, changes in the Sun’s energy output, variations in Earth’s orbit).
+
+Scientists use observations from the ground, air, and space, along with computer models, to monitor and study past, present, and future climate change. Climate data records provide evidence of climate change key indicators, such as global land and ocean temperature increases; rising sea levels; ice loss at Earth’s poles and in mountain glaciers; frequency and severity changes in extreme weather such as hurricanes, heatwaves, wildfires, droughts, floods, and precipitation; and cloud and vegetation cover changes.
+
+“Climate change” and “global warming” are often used interchangeably but have distinct meanings. Similarly, the terms "weather" and "climate" are sometimes confused, though they refer to events with broadly different spatial- and timescales.
+
+What Is Global Warming?
+global_warming_2022
+This graph illustrates the change in global surface temperature relative to 1951-1980 average temperatures, with the year 2020 statistically tying with 2016 for hottest on record (Source: NASA's Goddard Institute for Space Studies). Learn more about global surface temperature here. Credit: NASA/JPL-Caltech
+Global warming is the long-term heating of Earth’s surface observed since the pre-industrial period (between 1850 and 1900) due to human activities, primarily fossil fuel burning, which increases heat-trapping greenhouse gas levels in Earth’s atmosphere. This term is not interchangeable with the term "climate change."
+
+Since the pre-industrial period, human activities are estimated to have increased Earth’s global average temperature by about 1 degree Celsius (1.8 degrees Fahrenheit), a number that is currently increasing by more than 0.2 degrees Celsius (0.36 degrees Fahrenheit) per decade. The current warming trend is unequivocally the result of human activity since the 1950s and is proceeding at an unprecedented rate over millennia.
+
+Weather vs. Climate
+“If you don’t like the weather in New England, just wait a few minutes.”
+- Mark Twain
+Weather refers to atmospheric conditions that occur locally over short periods of time—from minutes to hours or days. Familiar examples include rain, snow, clouds, winds, floods, or thunderstorms.
+
+Climate, on the other hand, refers to the long-term (usually at least 30 years) regional or even global average of temperature, humidity, and rainfall patterns over seasons, years, or decades.
+
+Find Out More: A Guide to NASA’s Global Climate Change Website
+This website provides a high-level overview of some of the known causes, effects and indications of global climate change:
+
+Evidence. Brief descriptions of some of the key scientific observations that our planet is undergoing abrupt climate change.
+
+Causes. A concise discussion of the primary climate change causes on our planet.
+
+Effects. A look at some of the likely future effects of climate change, including U.S. regional effects.
+
+Vital Signs. Graphs and animated time series showing real-time climate change data, including atmospheric carbon dioxide, global temperature, sea ice extent, and ice sheet volume.
+
+Earth Minute. This fun video series explains various Earth science topics, including some climate change topics.
+
+Other NASA Resources
+Goddard Scientific Visualization Studio. An extensive collection of animated climate change and Earth science visualizations.
+
+Sea Level Change Portal. NASA's portal for an in-depth look at the science behind sea level change.
+
+NASA’s Earth Observatory. Satellite imagery, feature articles and scientific information about our home planet, with a focus on Earth’s climate and environmental change.

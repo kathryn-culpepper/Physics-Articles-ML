@@ -1,0 +1,68 @@
+How to Think About Relativity
+Albert Einstein’s ideas about space-time aren’t exactly intuitive, and they aren’t exactly Einstein’s, either.
+
+n Newtonian physics, space and time had their independent identities, and nobody ever got them mixed up. It was with the theory of relativity, put together in the early 20th century, that talking about space-time became almost unavoidable. In relativity, it’s no longer true that space and time have separate, objective meanings. What really exists is space-time, and slicing it up into space and time is merely a useful human convention.
+
+One of the major reasons why relativity has a reputation for being difficult to understand is that our intuitions train us to think of space and time as separate things. We experience objects as having extent in “space,” and that seems like a pretty objective fact. Ultimately it suffices for us because we generally travel through space at velocities far lower than the speed of light, so pre-relativistic physics works.
+
+But this mismatch between intuition and theory makes the leap to a space-time perspective somewhat intimidating. What’s worse, presentations of relativity often take a bottom-up approach — they start with our everyday conceptions of space and time and alter them in the new context of relativity.
+
+We’re going to be a little different. Our route into special relativity might be thought of as top-down, taking the idea of a unified space-time seriously from the get-go and seeing what that implies. We’ll have to stretch our brains a bit, but the result will be a much deeper understanding of the relativistic perspective on our universe.
+
+Quantized Columns
+A regular column in which top researchers explore the process of discovery. This month’s columnist, Sean Carroll, is a physicist and philosopher at Johns Hopkins University and the Santa Fe Institute. His most recent book is The Biggest Ideas in the Universe.
+
+See all Quantized Columns
+
+ 
+
+The development of relativity is usually attributed to Albert Einstein, but he provided the capstone for a theoretical edifice that had been under construction since James Clerk Maxwell unified electricity and magnetism into a single theory of electromagnetism in the 1860s. Maxwell’s theory explained what light is — an oscillating wave in electromagnetic fields — and seemed to attach a special significance to the speed at which light travels. The idea of a field existing all by itself wasn’t completely intuitive to scientists at the time, and it was natural to wonder what was actually “waving” in a light wave.
+
+Various physicists investigated the possibility that light propagated through a medium they dubbed the luminiferous ether. But nobody could find evidence for any such ether, so they were forced to invent increasingly complicated reasons why this substance should be undetectable. Einstein’s contribution in 1905 was to point out that the ether had become completely unnecessary, and that we could better understand the laws of physics without it. All we had to do was accept a completely new conception of space and time. (OK, that’s a lot, but it turned out to be totally worth it.)
+
+Einstein’s theory came to be known as the special theory of relativity, or simply special relativity. In his foundational paper, “On the Electrodynamics of Moving Bodies,” he argued for new ways of thinking about length and duration. He explained the special role of the speed of light by positing that there is an absolute speed limit in the universe — a speed at which light just happens to travel when moving through empty space — and that everyone would measure that speed to be the same, no matter how they were moving. To make that work out, he had to alter our conventional notions of time and space.
+
+But he didn’t go quite so far as to advocate joining space and time into a single unified space-time. That step was left to his former university professor, Hermann Minkowski, in the early 20th century. The arena of special relativity is today known as Minkowski space-time.
+
+Once you have the idea of thinking of space-time as a unified four-dimensional continuum, you can start asking questions about its shape. Is space-time flat or curved, static or dynamic, finite or infinite? Minkowski space-time is flat, static and infinite.
+
+Einstein worked for a decade to understand how the force of gravity could be incorporated into his theory. His eventual breakthrough was to realize that space-time could be dynamic and curved, and that the effects of that curvature are what you and I experience as “gravity.” The fruits of this inspiration are what we now call general relativity.
+
+Illustration of planets and other objects floating above the deformable sheet of space-time.
+THE JOY OF WHY
+Where Do Space, Time and Gravity Come From?
+MAY 4, 2022
+
+READ LATER
+So special relativity is the theory of a fixed, flat space-time, without gravity; general relativity is the theory of dynamic space-time, in which curvature gives rise to gravity. Both count as “classical” theories even though they replace some of the principles of Newtonian mechanics. To physicists, classical doesn’t mean “non-relativistic”; it means “non-quantum.” All the principles of classical physics are fully intact in the relativistic context.
+
+We should be willing to let go of our pre-relativity fondness for the separateness of space and time, and allow them to dissolve into the unified arena of space-time. The best way to get there is to think even more carefully about what we mean by “time.” And the best way to do that is to hark back, once again, to how we think about space.
+
+Consider two locations in space, such as your home and your favorite restaurant. What is the distance between them?
+
+Well, that depends, you immediately think. There is the distance “as the crow flies,” if we could imagine taking a perfectly straight-line path between the two points. But there is also the distance you would travel on a real-world journey, where perhaps you are limited to taking public streets and sidewalks, avoiding buildings and other obstacles along the way. The route you take is always going to be longer than the distance as the crow flies, since a straight line is the shortest distance between two points.
+
+Now consider two events in space-time. In the technical jargon of relativity theory, an “event” is just a single point in the universe, specified by locations in both space and time. One event, call it A, might be “at home at 6 p.m.,” and event B might be “at the restaurant at 7 p.m.” Keep these two events fixed in your mind, and think about a journey between A and B. You can’t hurry to get to B sooner; if you arrive at the restaurant at 6:45, you will have to sit around and wait until 7 p.m. to reach the event in space-time we have labeled B.
+
+Now we can ask ourselves, just as we did for the spatial distance between home and restaurant, how much time elapses between these two events.
+
+You might think this is a trick question. If one event is at 6 p.m. and the other is at 7 p.m., there is one hour between them, right?
+
+Not so fast, says Einstein. In an antiquated, Newtonian conception of the world, sure. Time is absolute and universal, and if the time between two events is one hour, that’s all there is to be said.
+
+An image of the cover of the book "The Biggest Ideas in the Universe: space, time, and motion' by Sean Carroll, author of something deeply hidden. There are different blue and grey circles on the cover and one notes that this is a NY Times Bestseller.
+Relativity tells a different story. Now there are two distinct notions of what is meant by “time.” One notion of time is as a coordinate on space-time. Space-time is a four-dimensional continuum, and if we want to specify locations within it, it’s convenient to attach a number called “the time” to every point within it. That’s generally what we have in mind when we think of “6 p.m.” and “7 p.m.” Those are values of a coordinate on space-time, labels that help us locate events. Everyone is supposed to understand what we mean when we say “meet at the restaurant at 7 p.m.”
+
+But, says relativity, just as the distance as the crow flies is generally different from the distance you actually travel between two points in space, the duration of time that you experience generally won’t be the same as the universal coordinate time. You experience an amount of time that can be measured by a clock that you carry with you on the journey. This is the proper time along the path. And the duration measured by a clock, just like the distance traveled as measured by the odometer on your car, will depend on the path you take.
+
+That’s one aspect of what it means to say that “time is relative.” We can think both about a common time in terms of a coordinate on space-time and about a personal time that we individually experience along our path. And time is like space — those two notions need not coincide. (As the historian Peter Galison has pointed out, it’s not a coincidence that Einstein worked in a Swiss patent office at a time when rapid rail travel was forcing Europeans to think about what time it was in other cities across the continent, so that building better clocks became an important technological frontier.)
+
+Still, there must be some way in which time is not like space, otherwise we’d just talk about four-dimensional space, rather than singling out time as deserving of its own label. And we’re not thinking of the arrow of time here — for the moment, we’re in a simple world with few moving parts, where entropy and irreversibility aren’t things we have to worry about.
+
+The difference is this: In space, a straight line describes the shortest distance between two points. In space-time, by contrast, a straight path yields the longest elapsed time between two events. It’s that flip from shortest distance to longest time that distinguishes time from space.
+
+By a “straight path” in space-time, we mean both a straight line in space and a constant velocity of travel. In other words, an inertial trajectory, one with no acceleration. Fix two events in space-time — two locations in space and corresponding moments in time. A traveler could make the journey between them in a straight line at constant velocity (whatever that velocity needs to be for them to arrive at the right time), or they could zip back and forth in a non-inertial path. The back-and-forth route will always involve more spatial distance, but less proper time elapsed, than the straight version.
+
+Why is it like that? Because physics says so. Or, if you prefer, because that’s the way the universe is. Maybe we will eventually uncover some deeper reason why it had to be this way, but in our current state of knowledge it’s one of the bedrock assumptions upon which we build physics, not a conclusion we derive from deeper principles. Straight lines in space are the shortest possible distance; straight paths in space-time are the longest possible time.
+
+It might seem counterintuitive that paths of greater distance take less proper time. That’s OK. If it were intuitive, you wouldn’t have needed to be Einstein to come up with the idea.
