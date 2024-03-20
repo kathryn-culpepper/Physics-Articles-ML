@@ -2,5 +2,6 @@
 Code and Data for my Senior Physics Capstone Project
 
 ## Folder Descriptions
-* Text Data holds the article texts for the sources
+* Data Text Sources holds the article texts for the sources
 * Table Data holds the metadata characteristics tables
+* Presentations holds presentaion documents and writing
