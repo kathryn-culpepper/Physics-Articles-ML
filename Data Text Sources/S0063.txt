@@ -1,0 +1,53 @@
+Methane is Weaker, Not Stronger
+ 
+
+What does stronger mean? Methane absorbs radiation in a shorter distance. So what? Doubling the methane shortens the distance to half. Where is the increased heat? Changing the distance is not increasing the heat.
+
+spectrum
+Because methane absorbs radiation in a shorter distance, very few molecules are unsaturated for heating. The distance between each unsaturated methane molecule in the atmosphere is something like 26 mm apart. For CO2, the unsaturated molecules are 0.85 mm apart, which is also ridiculous.
+
+Climatology is so fraudulent that the claims are often the opposite of the obvious truth. The claimed "potency" of methane is an example.
+
+The fake logic is that since methane absorbs more radiation than CO2, it is a stronger (more potent) greenhouse gas. Adding real numbers shows the opposite.
+
+Throughout this subject, fakes use a rudimentary logic which does not account for numerous factors. Here, saturation was not accounted for, even though the IPCC says saturation does occur, but the shoulders of the absorption peaks do not saturate. In other words, a small percent of the molecules actually do the heating. Because of saturation, those supposed molecules get thinner, as absorption strength increases.
+
+        circles
+
+In 2001, the IPCC (AR3) stated that saturation exists in these terms: "Carbon dioxide absorbs infrared radiation in the middle of its 15 mm band to the extent that radiation in the middle of this band cannot escape unimpeded: this absorption is saturated. This, however, is not the case for the band’s wings. It is because of these effects of partial saturation..."
+
+Carbon dioxide absorbs all radiation available to it in the center of its 15 µm band by the time the radiation travels 10 meters near the earth's surface (Heinz Hug). Where then is the non-saturation occurring? Let's say non-saturation occurs when the radiation goes beyond the top of the troposphere. (The fakes never explain a word of this, or the obvious truth would expose their frauds.) The top of the troposphere averages around 17 km. The density of the shoulder molecules must be 10/17,000 times that of the center of the absorption peak. This is 0.06% as much as the center molecules (0.00059).
+
+Consider how far apart these molecules are. A CO2 molecule is about 200 picometers across, and nitrogen about the same. The atmosphere is now about 400 ppm CO2 (molar, molecule for molecule). This means there is 500 nm of distance between each CO2 molecule (1/400 ppm x 200 pm = 500 nm). The 0.00059 which does not saturate would have a spacing of 1,700 times that amount (1/0.00059 = 1,700), which is 0.85 mm. The CO2 molecules which absorb more radiation for supposed global warming are 0.85 mm apart. This distance is visible with the naked eye.
+
+Compare these numbers for methane. Methane is said to have a "potency" of something between 20 and 120 times that of CO2. (Residence time reduces it to about half.) Lets calculate a radiation effect of 30 times that of CO2. Instead of the peak molecules absorbing all radiation in 10 meters, it will be 74 meters (10 ÷ 30 x 400 ÷ 1.8 = 74). The shoulder molecules which absorb all radiation in 17 km would be 0.0044 times total methane (74 m/17 km = 0.0044).
+ 
+The size of a methane molecule is about 400 pm, but only the nitrogen size is relevant at 200 pm. The atmosphere is about 1.8 ppm methane. The distance between each methane molecule is about 111 microns (1/1.8 ppm x 200 pm = 111 µm). The 0.0044 which does not saturate would have a spacing of 230 times that much (1/0.0044 = 230), which is 26 mm (1 inch). Does one inch between each molecule which adds heat create a potent greenhouse gas?
+
+        molecules
+
+Even though these gases are uniformly distributed in the atmosphere, the ones which absorb at edge wavelengths have unusually stretched bonds.
+
+The reason for this absurd result is that there are very few methane molecules in the atmosphere. Since they absorb infrared radiation strongly, very few of those molecules are going to be unsaturated. Very few molecules out of very few molecules results in a lot of space between each one.
+
+The fakes didn't notice this, because they use word salad in place of science.
+
+For "potency" test compare 1 x 1019 molecules for CO2 and methane. In one gram of air there are 2.10 x 1022 molecules (80% N2 at 28 mw and 20% O2 at 32 mw). CO2 and methane each are 476 ppm (1 x 1019 ÷ 2.10 x 1022 = 476 ppm). The distance between each molecule of CO2 or methane is 420 nm (1/476 ppm x 200 pm = 420 nm).
+
+The saturation distance for CO2 is 8.4 meters (400 ppm ÷ 476 ppm x 10 m = 8.4 m). The effective shoulder molecules for CO2 is 8.4 m ÷ 17 km = 0.00049 times the center molecules. The distance between shoulder molecules is 1 ÷ 0.00049 x 420 nm = 0.85 mm.
+
+The saturation distance for methane is 8.4 m ÷ 30 = 0.28 m. The effective shoulder molecules for methane is 0.28 m ÷ 17 km = 1.65 x 10-5 times the center molecules. The distance between the shoulder molecules is 1 ÷ 1.65 x 10-5 x 420 nm = 26 mm.
+
+This potency test shows that the rate analysis for adding each molecule of the greenhouse gas is exactly the same as the original distance analysis, which is 0.85 mm between each CO2 molecule on the assumed effective shoulders and 26 mm for methane. Methane shows a distance 31 times greater between molecules than CO2, even when the same amount of increase is made for both and starting with the same concentration for both. More distance between effective molecules of methane means less heat is added to the atmosphere as the concentration of methane increases. So methane is not a more potent greenhouse gas than CO2.
+
+Even though methane absorbs radiation more strongly than CO2, there are less effective molecules supposedly unsaturated on the shoulders, which results in less supposed heat increase upon additions.
+
+Even when the unsaturated distance is considered to be the 17 km to the top of the troposphere, doubling the amount of greenhouse gas reduces the distance of absorption by half, which is 8.5 km. Reducing the distance is not increasing the heat.
+
+Background: About 5-10 years ago, alarmist scientists were saying the effective shoulders on the absorption peaks which were not saturated equal 5%. That means the radiation travels 20 times farther than for the center of the peak, which absorbs in 10 meters. Twenty times 10 meters is 200 meters. All air mixes within the first kilometer, which means there is no difference between the 10 meters of the center molecules and the 200 meters of the shoulder molecules.
+
+With that analysis not standing up to criticism, most alarmist scientists decided that the real effect occurs about 9 km up. Trivial rationalizations were used, mainly that the absorption bands get narrower at lower air pressure, so they don't overlap with water vapor.
+
+There are two major problems with the analysis for 9 km up. One, there isn't much space left for adding heat. And two, the temperature increase required for radiating the heat back down to the surface is at least 24°C up there for each 1°C increase near the surface—not accounting for oceans. Oceans will absorb the heat for centuries or millennia, which means 70% of the heat disappears during human influences. So the total would need to be 80°C at 9 km up to create the claimed 1°C near ground level. No temperature increase has been detected at 9 km up due to carbon dioxide.
+
+Notice that the fakes didn't have a mechanism and didn't know where it was occurring 30 years after the first models were constructed in 1979 (said to be only off by 15%) and 10 years after the fudge factor was contrived for pinning down the primary effect, which the mechanism is supposed to represent. How could they get the primary effect (fudge factor) without knowing whether it was occurring at ground level or 9 km up?

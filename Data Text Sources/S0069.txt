@@ -1,0 +1,145 @@
+Heating with Greenhouse Gases
+
+is Impossible
+
+ 
+Because each CO2 molecule would have to be 2,500°C to heat the air 1°C—an impossibility.
+
+There cannot be greenhouse gases creating global warming due to the dilution factor. The so-called greenhouse gases are too dilute to heat the surrounding air.
+
+Concept Errors
+
+CO2 Heating Explained
+ 
+
+ 
+
+     CO2 heat
+ 
+
+ 
+Total carbon dioxide is 400 parts per million in the atmosphere. That means 2,500 air molecules surrounding each CO2 molecule. To heat the air 1°C, each CO2 molecule would have to be 2,500°C—an impossibility.
+
+On top of that, only a small percent of the CO2 is increasing and adding the heat. No one can say what percent, but the highest number used is 5%. That means increasing the number by a factor of 20, which is 50,000°C for each CO2 molecule.
+
+The temperature of each CO2 molecule cannot be much higher than the temperature of the emitting surfaces, which is 15°C for the claimed average surface of the earth, and somewhat less for the atmosphere.
+
+The proportionalities must be maintained at 2,500 to one, because rate of heat loss is similar for the CO2 molecules and air molecules, which means heat must be replaced at the same rate. (Counter-Claim by Climatologists at Bottom of Page)
+
+The Stefan-Boltzmann constant can be used to approximate the temperature increase of CO2 in the atmosphere due to radiation from heated molecules or surfaces.
+
+CO2 is said to absorb about 8% of the black body infrared radiation which leaves the surface of the earth.
+
+     total infrared
+
+The only method of calculating temperature which physicists have for this subject is the Stefan-Boltzmann constant (SBC). It is this:
+
+     W/m² = 5.670373 x 10-8 x K4
+
+It indicates the amount of radiation given off by an opaque surface, as watts per square meter, at any given temperature (K). The SBC is off by about a factor of 20 at normal temperatures, and could be off by 30-50 at the chilly temperatures of the earth's surface average.
+
+With the SBC used by physicists, there would be 390 w/m² given off by the surface of the earth at the claimed average temperature of 15°C. An emissivity of 0.64 reduces the emission to 249.667 w/m². With 8% of it being absorbed by CO2, it is 19.97 w/m² going from the earth to the CO2.
+
+Climatologists reverse the SBC from temperature to radiation, but doing so is not valid, because there is not a definable surface for emission or absorption in the reverse direction. With reverse analysis, 19.97 w/m² would correlate with 5.73°C temperature increase for the CO2 molecules. This amount is certainly not the 2,500°C required to create a 1°C temperature increase for the nearby atmosphere.
+ 
+This table shows the watts per square meter per degree centigrade:
+
+°C
+°K
+w/m²
+after
+emissivity
+15
+288
+390.105
+249.667
+16
+289
+395.551
+253.153
+difference
+  5.446
+  3.486
+
+After emissivity is subtracted, there are 3.486 w/m² per °C. Dividing this into the 19.97 w/m² going into CO2, there would be 5.73°C increase in the temperature of the CO2 molecules. It doesn't come close to getting the required 2,500°C. It's off by a factor of 436. If we divide the claimed global warming of 1°C increase upon doubling CO2 in the atmosphere by 436, it is 0.0023°C.
+
+It means doubling the amount of CO2 in the air would increase the near-surface, atmospheric temperature by 0.0023°C, if everything else were true about the claims of climatologists.
+
+Correcting the SBC by a factor of 20 doesn't fix the problem. The ratios are about the same.
+
+These numbers apply to the total amount of CO2 in the atmosphere, which is 400 ppm. If only 5% of the CO2 adds heat upon doubling the amount of CO2, the deficiency is a factor of 8720 instead of 436. Decreasing the claimed 1°C global warming by a factor of 8720 yields 0.00012°C for global warming.
+
+So how much error is due to reversing the SBC? Since a transparent gas gives off a lot more radiation per degree centigrade than an opaque solid, there would be fewer degrees centigrade per watt per square meter. So the global warming temperature would be smaller than 0.0023°C or 0.00012°C. How much is impossible to say.
+
+There is another major problem. If CO2 is increasing 5.73°C by absorbing 8% of the radiation from the surface of the earth, the other molecules which absorb the remaining 92% must be increasing by 72°C (minus whatever goes around greenhouse gases). Physicists say, no problem, because the molecules emit as much as they absorb, and the temperature changes slightly due to delayed emission. Then the CO2 molecules must be emitting as much as they absorb with slight delay, and they are heating a small fraction of the 5.73°C or the 0.0023°C or 0.00012°C.
+
+In other words, if a surface at 15°C radiates into a surface at 15°C, nothing changes. If 400 ppm of that surface is some other substance, it won't be heating any more than the rest of it, which is none at all. A transparent gas will be somewhat different than an opaque solid, but the temperature differences won't be any greater, at least when the differences are supposed to be zero.
+
+Of course the greenhouse effect is supposed to be additive, as less radiation goes around a greenhouse gas. Adding a small amount to what is already there is of no significance. Adding 5% to 5.73°C is 6.02°C, which still misses the required 2,500°C by a long ways, even before reducing it a large amount due to delayed re-emission.
+
+It's 5%, because most of the CO2 is already saturated. But even with zero saturation, the 5.73°C would be doubled to 11.5°C, which misses the required 2,500°C by a factor of 217, even before the 11.5°C is reduced a large amount due to delayed re-emission.
+
+In other words, what climatologists are missing is the fact that temperature due to radiation absorption cannot be much different than the temperature of the nearby emitting surface. This includes the temperature of dilute molecules. Climatologists missed the dilution factor for the amount of heat involved.
+
+The fact that climatologists missed the greenhouse effect for CO2 by a factor of 436 or more shows that there is no science to the subject. The claimed global warming science is totally contrived, as all other evidence shows.
+
+Even critics within science are saying the primary effect by carbon dioxide is an unquestionable law of physics, while they argue secondary effects. There is no primary effect by carbon dioxide.
+
+Fallacies of the Fake Science
+
+radiation escapeThe fake science based on radiative transfer equations is dependent upon no radiation escaping from the atmosphere except at the top. Yet Wikipedia states that 15-30% of the infrared, black body radiation (IRBBR) goes around greenhouse gases to escape into space. That 15-30% is all that is needed to cool the planet.
+
+But even if greenhouse gases blocked all radiation with none going around, the analysis based upon radiative transfer equations is total fakery with no relationship to real science. The fakes didn't just get one thing wrong. Their whole standard is fraud and charlatanism. Society is too willing to overlook the fact that there is no explanation of methodology. Just trust us. Science has no other purpose than replacing charlatanism with verifiable results. Without the verification, there is no reason to have science. Charlatanism is the only result without proper standards of science.
+
+Therefore, criticism must be directed to the unpublished implications using the accumulative knowledge of science as the basis. What it says is that there is no way to get the claimed results from the procedures which are based on radiative transfer equations—or any other procedures.
+
+If, for example, all of the IRBBR were blocked by greenhouse gases, calculating the amount of radiation that gets to the top of the atmosphere would be impossible without knowing exactly how much energy moves by radiation and how much by conduction, convection and evaporation. Yet those proportions are unknown and stated in two different ridiculous quantities. Based on the Kiehl-Trenberth model, as stated in the IPCC reports, 79% of the energy is in the form of radiation. Nothing but white hot metals could give off that much radiation in an air environment, yet the radiation is supposed to be emitted from the cold surface of the earth at an average temperature of 15°C (59°F). A slight improvement appeared in the NASA energy budget, which says the number is 41% radiation, which is still in the range of white hot metals. The real number would be 1-3% radiation emitted from the land surface, and probably a lot less from the oceans.
+
+Notice several things wrong. The fakes don't know how much IRBBR is emitted from the surface of the earth, and guesses vary by almost double amounts. Yet the end result is supposed to have about 1% error. This fact alone should end the whole subject and laugh the frauds off the planet. Yet only the politics is argued, as if modern charlatanism were supposed to be governing our lives.
+
+Additional errors in the concept are endless. The admitted 15-30% of the IRBBR that goes around greenhouse gases is not, and cannot, enter into the analysis which uses the radiative transfer equations (RTE). The purpose of the RTEs is to calculate the amount of radiation that gets to the top of the atmosphere (said to be 3.7 watts per square meter less upon doubling CO2 in the atmosphere). If 15-30% goes around the greenhouse gases, the fakes don't know how much gets to the top. Even if a defined number existed for going around (say 22%) it would prevent the RTEs from being used, because any amount going around is compounded in an undefined way. In other words, the 78% absorbed by greenhouse gases would be re-emitted and re-absorbed in the atmosphere, each time allowing 22% to go into space. How often the re-absorption and re-emission occurs is impossible to determine. The escaping amount would rapidly accumulate causing it all to escape, until equilibrium is established with energy entering from the sun, no amount of radiation escaping into space from the normal atmosphere is, or can be, accounted for with the RTEs.
+
+Another major problem is that there is no way to convert the end result as radiation (3.7 w/m²) into temperature. Temperature can only be measured, it cannot be calculated. Temperature is the concentration of heat. The second law of thermodynamics says heat always dissipates, which means it goes toward less concentration. How heat dissipates through complex mediums with temperatures constantly changing due to escape of heat is totally impossible to calculate or theorize. It's like theorizing where automobiles are going to be located.
+
+These contradictions overwhelm the fake science so totally that there is nothing resembling a pretense of real science to the subject. The whole subject is nothing but in-the-face fraud, while nothing but the politics is argued, not the least reason being that any scientists who significantly criticize are shoved out of science.
+
+Fake Mechanism
+
+There is a fake mechanism which goes with the radiative transfer equations. Supposedly, micro quantities of heat will accumulate in the atmosphere to produce the claimed global warming. The accumulation concept is perverse. It requires that there not be any radiation which goes around the greenhouse gases, or it will prevent accumulation from occurring. Even if greenhouse gases blocked all radiation there would be no such mechanism, because accumulation is a nonsensical concept. There is no defined temperature with accumulation.
+
+There is the in-between concept, where heat dissipation is reduced or slowed down, and the slower the heat dissipates, the warmer the atmosphere gets. But increasing the CO2 cannot reduce or slow the dissipation; at most it would increase absorption, if no saturation were occurring. And the slowed down concept does not allow the extreme amount of accumulation that is needed to amplify miniscule quantities into relevant quantities.
+
+Here are the ridiculous numbers, if the dilution factor is ignored to pretend that all radiation in question is absorbed by the atmosphere: The radiative transfer equations supposedly show that there is an increase in heat as radiation of 3.7 watts per square meter upon doubling the amount of CO2 in the air. This means that there is 3.7 w/m² less radiation leaving the top of the troposphere than entering from the sun, which causes a heat build-up in the atmosphere.
+
+It would take 19 days for this amount of of radiation to heat the troposphere (normal atmosphere) to the claimed 1°C temperature increase. Why not? Because the 235 w/m² of the sun's energy which falls upon the surface of the earth each day is approximately the amount that leaves during the night. With 235 w/m² added in 12 hours and leaving in 12 hours, it isn't going to take 19 days for 3.7 w/m² to leave. It's off by a factor of 2413 (235÷3.7 x 19x24÷12 = 2413).
+
+The math is this: A watt is one joule per second. It takes one joule to heat one gram of air 1°C. The density of air at sea level and 15°C is 1.225 kilograms per cubic meter. Five kilometers of height is an approximate representation of the mass of the troposphere, which gets lighter up to 15 km. So 1.225 kg/m³ of air times 5000 m³ with height = 6,125 kg of air. At 1kj/kg/1°C it's 6,125 kj of heat required to get 1°C. The source supposedly adds 3.7 w/m², which is 3.7 j/sec. Dividing 6,125 kj by 3.7 = 1.655x106 seconds, which is 19 days.
+
+The mechanism based upon reduced or slower dissipation is based on the assumption that radiation leaves from the surface of the earth only, and blocking it is increasing the heat. But the amount of radiation leaving the surface is trivial compared to the amount leaving from the atmosphere. Increasing the CO2 does nothing significant to reduce radiation from the atmosphere.
+ 
+Counter-Claim by Climatologists
+
+Climatologists admit that the temperature of the CO2 molecules in the air is about the same as the temperature of the rest of the air, which would have to be the case. Yet each CO2 molecule is supposed to heat the surrounding 2,500 air molecules to 1°C upon doubling the amount of CO2 in the air. CO2 would have to be 2,500°C to do that—an impossibility.
+
+Climatologists are implicitly saying that CO2 is a cold conduit for heat. There is no such thing as a cold conduit for heat.
+Temperature conductivity coefficients show that a very significant temperature gradient is needed to conduct heat at any significant rate. The implication of a lot of things on this subject is that nature has forever to get the human effects in place. That assumption is always wrong, because nothing stands still waiting for human corruptions to catch up. Everything about climate is dynamic, which means it is always changing at some rate.
+
+Conceptual Errors
+The given 3.7 watts per square meter as the product of analysis is a rate of heat addition. Rate means a forever increase, not a fixed temperature increase, such as the 1°C given as the primary effect. In other words, the fake scientists missed the difference between rate of addition and fixed temperature increase.
+
+The pretense is that the 3.7 w/m² represent the difference between heat entering from the sun and heat radiating into space. However, no analysis is can be done for the rate of heat going into space, because the subject is too complex. The radiative transfer equations which were used have no ability to produce an analysis of radiation going into space. Wikipedia says 15-30% of the radiation goes around greenhouse gases. The amount would need to be known, if rate of heat leaving were being evaluated. The product of the radiative transfer equations (3.7 w/m²) was said to have an accuracy of about 1% error, while the 15-30% exit rate is 100% variation.
+
+Climatologists used a reversal of the Stefan-Boltzmann constant to get 1°C from 3.7 w/m². Reversing the Stefan-Boltzmann constant is not valid for the reasons given above. According to the Stefan-Boltzmann constant, which is in error by a factor of at least 20, a 1°C temperature increase on the surface of an opaque solid will increase the rate of radiation escape by 3.7 w/m² when the difference is going from 15 to 16°C, as shown by the math above. But adding energy to the atmosphere at 3.7 w/m² will not heat a surface by 1°C, because cause-and-effect relationships change in complex and undefinable ways. In both directions, adding heat to the atmosphere at 3.7 w/m² does not produce a fixed temperature in the atmosphere, unless a particular rate of escape exists, which cannot be reduced to scientific analysis.
+
+The main point to be realized throughout this subject is that the claims being made are beyond scientific analysis. Fake scientists are starting at their desired end points and contriving a method of getting there in contempt for scientific procedures.
+
+
+If heat were passing through CO2 at (almost) the same temperature as the atmosphere and heating the rest of the air molecules, the heat would need to be accumulating in the air (almost) forever. This is an implication of the product of the radiative transfer equations, which claim 3.7 w/m² is capable of overriding other heat flows. The concept of accumulation of heat in the atmosphere is a total fraud due to the extremely dynamic heat flows through the atmosphere.
+
+There has been a lot of CO2 in the air in the past. The claim is that the pre-industrial CO2 level was 280 ppm, five times that much during the dinosaur years and 20 times that much when modern photosynthesis began. The blink of an eye accumulation during post-industrial times is nothing by comparison. Whatever humans did with CO2, nature would have done millions of times over.
+
+Heat is extremely unstable. It constant dissipates through conduction and radiation and sometimes evaporation. It continues to dissipate until it stabilizes with competing energy, called equilibrium. Approximately all of the energy that the earth acquires from the sun during the day is dissipated into space during the night. The Kiehl-Trenberth model claims 168 w/m², average, falls on the earth from the sun and dissipates back into space at almost the same rate. They claim 519 w/m² enters the atmosphere in various ways and dissipates continuously at 3.7 w/m² less (515.3 w/m²) due to human source CO2. If the other 515 w/m² is dissipating at the same rate it enters, the human caused 3.7 w/m² is not going to accumulate forever, or for any amount of time.
+
+     radiation numbers
+
+With energy radiating from CO2 molecules in the air at the same rate it radiates from the nitrogen and oxygen, there has to be 2,500 times as much temperature in the CO2 molecules as the surrounding 2,500 air molecules to get a 1°C temperature increase in the total atmosphere, because the dissipating heat has to be replaced 2,500 times for the air while dissipating once for the CO2.

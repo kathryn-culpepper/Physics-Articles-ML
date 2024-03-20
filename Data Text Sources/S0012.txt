@@ -1,0 +1,52 @@
+Equivalence Principle
+
+Commonly known as the stepping-stone to the development of General Relativity, the Equivalence Principle is a theory developed by Albert Einstein detailing the relationship between gravitational and inertial mass. Einstein posited that gravitation and acceleration are indistinguishable from one another experimentally, laying the framework for what has said to have been the &quot;greatest feat of human thinking about nature&quot;.
+
+'index
+Show/Hide
+&amp;quot;Gravity&amp;quot;
+Problems With &amp;quot;Gravity&amp;quot;
+Einstein's &amp;quot;Happiest Thought&amp;quot;
+The Principle
+Equivalence
+Locality And Tidal Effects
+Equivalence And The Flat Earth
+Upward Acceleration
+&QUOT;GRAVITY&QUOT;
+
+The idea of &quot;gravity&quot; began it's emergence in the late 16th century when a man by the name of Galileo began to question the long held belief that heavier objects are accelerated faster than lighter objects. Through experimentation, Galileo discovered that all objects are accelerated at the same rate and theorized that any deviation from this is to be associated with resistance of air.
+
+Nearly one-hundred years later, Sir Isaac Newton developed three universal laws of motion to govern the interaction of objects on Earth and in the Universe and presumably still hold true to this day.
+
+1. An object at rest will remain a rest unless acted upon by a net force. Also, an object in motion will remain in motion at it's particular velocity and trajectory unless acted upon by a net force. Otherwise known as the law of inertia.
+
+2. An object under the influence of a net force will accelerate proportional to the magnitude of the force acting upon it and inversely proportional to the mass of the object. F=ma.
+
+3. Every action has an equal and opposite reaction which was the cornerstone for the development of the conservation of momentum.
+
+Soon after development of his three laws of motion, Newton began to expand these laws and apply them to the behavior of celestial bodies. In 1867, Newton published Philosophiæ Naturalis Principia Mathematica, detailing his three laws of motion and ultimately his law of universal gravitation. The publication was met with great enthusiasm and the theory of &quot;gravity&quot; as a force was born.
+
+Image
+PROBLEMS WITH &QUOT;GRAVITY&QUOT;
+
+&quot;It is inconceivable, that inanimate brute matter should, without the mediation of something else, which is not material, operate upon, and affect other matter without mutual contact; as it must do, if gravitation, ...., be essential and inherent in it. And this is one reason, why I desired you would not ascribe innate gravity to me. That gravity should be innate, inherent, and essential to matter, so that one body may act upon another, at a distance through vacuum, without the mediation of anything else, by and through their action and force may be conveyed from one to another, is to me so great an absurdity, that I believe no man who has in philosophical matters a competent faculty of thinking, can ever fall into it.&quot;
+-Isaac Newton
+
+Despite being commonly referred to as a force, Newton himself realized the absurdity of instantaneous action at a distance and infinite force propagation. His equation for universal gravitation being proportional to mass and inversely proportional to distance fell short in certain instances and did not fully describe observation. Although being a close approximation mathematically and a marvel of it's time, gravity as a force was flawed.
+
+EINSTEIN'S &QUOT;HAPPIEST THOUGHT&QUOT;
+
+In the wake of the theory of Special Relativity, Einstein was inspired by his own genius. His idea of physical laws being independent of the state of motion of the reference system they preside in led him to inquire of himself. &quot;Is it conceivable that the principle of relativity also applies to systems that are accelerated relative to each other?&quot; He had realized while writing his paper on special relativity that a person in gravitational free-fall cannot feel their own weight and it is almost as if gravity disappears altogether.
+
+Galileo's epiphany that a person in uniform motion cannot be aware of that motion was conspicuously similar to his own. This led to what Einstein said was &quot;the happiest thought of his life&quot;. Gravitation is not a force propagating through the universe and there is no instantaneous action at a distance. Gravity is not something that exists within space-time, but rather an intrinsic attribute of space-time. Inertial mass and gravitational mass are equivalent and it follows that kinematic acceleration and acceleration due to gravity are equivalent and indistinguishable from one another. &quot;Gravity&quot; is simply geometry.
+
+THE PRINCIPLE
+Equivalence
+To fully understand the Equivalence Principle, imagine you are in what looks to be the inside of an elevator. There are no windows and no way to see out of the container you are in. If you drop an object, say an apple for instance, and it falls to the floor in exactly the same manner in which you would expect it to on Earth. How can you tell whether the container you are in is being influenced by a massive object's gravitational field or if the container is being accelerated? The answer is, according to Einstein, is that you cannot. Let us now say that you start to feel a sense of weightlessness and begin to float around inside your container. How can you tell whether the container you are in is in deep space far from anything exhibiting a gravitational field or if you are free-falling with the container due to gravitation. Once again, you cannot.
+
+Image
+Locality And Tidal Effects
+
+EQUIVALENCE AND THE FLAT EARTH
+Upward Acceleration
+In terms of a Flat Earth, the equivalence principle asserts that acceleration and gravitation are identical and indistinguishable from one another. An object being accelerated at 9.81 m/s^2 will feel all the same effects as if it were in a gravitational field in which acceleration due to gravity is 1g.

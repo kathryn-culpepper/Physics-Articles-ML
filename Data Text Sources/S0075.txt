@@ -1,0 +1,20 @@
+Natural Log Curve of the Fudge Factor
+ 
+ 
+
+fudge factor curve
+
+ 
+The fudge factor is a simplified representation of the results of the radiative transfer equations. It's a natural log curve. Why is it a natural log curve? There are no natural logs in the cause-and-effect relationships in nature.
+
+Natural log is a mathematical abstraction resulting from calculus manipulations. It exists nowhere in nature. Yet it is used to represent the rate of depletion of fingerprint radiation for carbon dioxide in the atmosphere. Why?
+
+The only answer to why is that it is a total contrivance. The first reason why the fudge factor is a contrivance is because it erases almost all saturation. Direct measurements show saturation within a short distance, which means the saturation cannot be removed through mathematical manipulation. Yet it was, which shows that the fudge factor is nothing but a contrivance.
+
+Also showing that the fudge factor is a contrivance is the use of natural log to represent it, when there are no natural logs in nature. Even if natural log were a good fit for the results of the radiative transfer equations, it is not appropriate to use natural log for a good fit, because doing so says there is an exactitude where there is none. Representing approximations with exactitudes is not appropriate in science, as it misrepresents inaccuracies. Inaccuracies need to be studied in science, which means they are not supposed to be erased by replacing them with exactitudes.
+
+No scientist should make such an error. Real scientists never do, as they are always mindful of the degree of inaccuracy. But this error is not an oversight, it is a total contrivance.
+
+If an actual measurement were being made, some exponent should have been used instead of natural log. But doing so would have raised the question of where the exponent came from and how accurate it is. Replacing the exponent with natural log erases the question of where the exponent came from, as if some law of nature fell out of the computer data.
+
+When Steve McIntyre and his discussion group attempted to determine where the natural log curve came from, no source could be located. It first showed up in the publications of James Hansen et al during the eighties. They cited the source as a publication of one of their co-workers (Lacis), but the citation did not check out.

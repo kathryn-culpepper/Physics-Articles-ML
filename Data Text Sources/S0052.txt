@@ -1,0 +1,22 @@
+Factor Of 40
+ 
+
+The Stefan-Boltzmann constant shows about 40 times too much radiation given off by all matter at normal temperatures. Reduce the Stefan-Boltzmann constant by a factor of 40, and the calculated heating by carbon dioxide in the atmosphere reduces by a factor of 40.
+ 
+The energy which leaves the surface of the Earth should be about 2% radiation and the rest conduction (with convection) and evaporation. But the Stefan-Boltzmann constant shows way too much radiation given of by matter at normal temperatures, which forces the mathematics to show approximated 79% of the energy which leaves the surface of the Earth to be in the form of radiation.
+
+The 79% number is so ridiculous that the NASA lab tried to reduce it to about half, showing 41% radiation. The attempt was a failure, because the number would not jive with the Stefan-Boltzmann constant as calculated in the Kiehl-Trenberth model.
+
+So the NASA lab was forced to revert back to numbers similar to the Kiehl-Trenberth model with minor updating, where 79% of the energy leaving the Earth's surface is in the form of radiation.
+
+Now with the histrionics locked in and described, the only relevant question is where does the 2% come from. It comes from my experience in working with temperature measuring and controlling in electronics, mushroom research and physics experiments testing the definition of kinetic energy over the past 40 years.
+
+I've built about 200 electronic devices and used about 100 of them continuously. Many of them were precision measuring devices, since laboratory work requires instruments to be tailored for the purpose.
+
+Every component in electronics must be evaluated for the amount of heat that it will produce and its ability to dissipate that heat. Therefore, every component in electronics has specifications for the range of heat that it will tolerate and the amount of heat that it will dissipate. Never is radiation considered as a relevant factor. Conduction and convection are evaluated to determine cooling.
+
+Any idiot could draw approximately the same conclusion when blowing on soup. If radiation were more relevant that conduction and convection, the soup would cool more by letting it sit than by blowing on it. But letting it sit does almost nothing compared to blowing even with small amounts of conduction and convection while sitting.
+
+And this is with heated mediums for both hot soup and heated electronic components. The hotter any matter is, the more it radiates. The average temperature of the earth is extremely cold compared to hot soup and electronic components. Physicists work with an assumed average temperature of 15°C for the surface of the earth.
+
+It means the average amount of radiation leaving the surface of the earth at 15°C would be 1-3%, which can be represented as 2%. As shown by the Kiehl-Trenberth model, the Stefan-Boltzmann constant requires approximately 79% of the energy leaving the surface of the earth to be in the form of radiation. The net result is that the Stefan-Boltzmann constant shows about 40 times too much radiation being emitted by matter at the average temperature of the surface of the Earth.

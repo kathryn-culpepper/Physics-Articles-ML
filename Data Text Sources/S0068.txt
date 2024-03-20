@@ -1,0 +1,92 @@
+It's Actually 220 trillionth of a Degree Centigrade
+ 
+
+Closest Possible Estimate
+
+claimed heat due to atmosphere --- 33°C
+
+99% due to various things --- 32.7°C
+
+1% due to infrared radiation from earth's surface --- 0.33°C
+
+8% of infrared bandwidth available to CO2 --- 0.026°C
+
+0.083% of CO2 added by humans --- 0.000022°C
+
+0.00001% of absorption "unsaturated" for global warming = 220x10-12°C
+
+Net temperature increase caused by humans is 0.000000000220°C
+
+claimed global warming --- 0.6°C
+
+
+ 
+These numbers are for the amount of temperature increase that would occur if there were no natural regulation through equilibrium and claimed effects actually existed.
+
+On the page titled "Crunching the Numbers," I show an estimate that humans increase the temperature of the globe by 0.0002°C. This is using the upper side of estimates for unquestionability. When using more credible estimates, the number is 220 trillionths of a degree centigrade.
+
+Radiation Emitted by Earth
+
+So I'll describe here the basis for the 220x10-12°C. The first number, the 33°C which the atmosphere supposedly heats the globe, has not been questioned by anyone, so it stays the same though preposterous. The second number is that 1% is about how much heat actually leaves the surface of the earth as radiation.
+
+This estimate considers these facts: The average temperature of the earth is considered to be 15°C (59°F). At such cold temperatures, there is very little radiation given off, certainly less than 1% of the heat. But there are deserts which could give off 10% of their heat through radiation—at extremes, even more—but they are small, considering that 70% of the earth's surface is oceans. So a 1% total average is a good estimate.
+
+Bandwidth for CO2
+
+The next number is that 8% of the radiation leaving the earth has a bandwidth which is available to CO2 for absorption. This number is easy to determine, and it was derived before the controversy began; so it stays the same.
+
+So the amount of heat in the atmosphere which can be attributed to CO2 is 33 x 1% x 8% = 0.026°C
+
+The Human Contribution to CO2
+
+The next number is that humans put 3% of the CO2 into the atmosphere (External Reference). This is based on rates. It means decay and respiration put 33 times as much CO2 into the air in the same amount of time as humans do. But rate is an oversimplified criterion to use. Here's a more quantitatively exact analysis:
+
+We know how much CO2 humans put into the air each hour, day and year; so the amount of time it stays there is the exact human contribution. A good estimate is that it stays there for one month.
+
+In a year's time, humans put 1% as much CO2 into the air as already there (8.5 GTC vs. 750 GTC). The oceans remove all of it and release a little based on their chemistry and temperature. But it takes a few weeks for the oceans to absorb it. A good estimate is that about a month's worth of CO2 is circulating before it gets absorbed. So the 1% per year is divided by 12, which equals 0.083%. The 3% is really 0.083%.
+
+The logic for the month's worth of accumulation is this: When the graph for CO2 concentration in the atmosphere is smoothed for seasonal variations, it is an extremely straight line. Slight blips for El Ninos can be observed. If oceans were not regulating rapidly and totally, the line on the graph would be all over the place due to volcanoes, forest fires, dry years (reduced vegetation), etc. There is nothing but ocean equilibrium defining and stabilizing the amount. This means that the straightness of the line on the graph is the degree of control which oceans have over the amount of CO2 in the atmosphere.
+
+Also, highly repetitive seasonal variations show tight control over equilibrium by the oceans. Seasonal variations are shown on the graph below. With oceans removing excess CO2 from the air, atmospheric circulation is the limiting factor in bringing CO2 in contact with the surface of the oceans. Seasonal variations are less than 2%, and they track with precision on the graph. So the 1% per year CO2 added to the atmosphere by humans should also track with precision and be removed within a month.
+
+CO2 graph
+
+The propagandists claim the seasonal blips on the CO2 graph stem from photosynthesis, as if ocean temperatures were irrelevant. The timing is aligned better on ocean temperatures. The downturn starts around June first, when oceans start to cool in the southern hemisphere, where they predominate. Photosynthesis in the northern hemisphere should be diminishing by then due to summer heat causing an upturn rather than a downturn on the graph. It is said that there is an equal amount of photosynthesis in the oceans and on land. If so, there is no logic as to why there would be seasonal blips for photosynthesis; or they should be small and varied rather than one large and uniform turn per year.
+
+So the human addition of CO2 to the atmosphere 0f 0.083% is multiplied times the 0.026°C which total CO2 heats the atmosphere, which results in 0.000022°C.
+
+But this amount is a hypothetical which assumes each molecule of CO2 does the same thing. It doesn't. The first small part of the CO2 does almost everything. The trace amount of heat resulting from additional CO2 must be evaluated in terms of trace effects on the shoulders of the absorption spectral bands.
+
+Unsaturated (Fake Mechanism)
+
+The next number is that 5% of the CO2 is unsaturated for global warming. This means that at the most technical level, the propagandists say that the mechanism is high in the sky, where the shoulders on the absorption peaks do the real thing. There is a stretched logic to this claim. It means that on the shoulders of the absorption peaks there are unusual states for CO2 molecules where they absorb different frequencies; and there are very few CO2 molecules in these states, so they don't absorb all radiation available to them, but when humans add more CO2 to the air, these molecules absorb more of it before the radiation can escape into space.
+
+I state that this number is about 5% on the shoulders of the absorption peaks based on the arguing that is being done, but in actuality, my best estimate is that about one part in a hundred thousand CO2 molecules actually do this. Here are some of the factors involved:
+
+At ground level, this effect does not occur, because the shoulders on the absorption peaks overlap for CO2, water vapor, methane and other greenhouse gasses. This means that radiation not absorbed by one type of gas will be absorbed by another.
+
+So we are told by the propagandists that the shoulders separate higher in the atmosphere. The separation results from colder temperatures, where there are fewer molecules in an unusual energy state. This means that the shoulders virtually disappear. So the rationalized effect occurs with unusual molecules which are disappearing with height in the atmosphere.
+
+The effect is described as if there were a lot of these unusual molecules in the upper atmosphere. But they have to disappear to be separated from other greenhouse gas molecules. Heinz Hug did a mathematical analysis which showed there are far fewer of these unusual molecules than claimed. The debunkers say he should have done this or that. Debunking is not science. It's like repairing an automobile by spraying it with a chemical. Science requires a more complete and accountable analysis than debunkers do.
+
+The problem with a mathematical analysis is that it requires a convention which someone developed, and it often does not include all of the factors involved, because no one can derive a mathematics for the most complex elements of science. For this reason, a good estimate is often much closer than a mathematical analysis.
+
+The logic indicates this: At the center of the absorption peaks, CO2 absorbs to extinction in about 10 meters. Where there are one tenth as many molecules in a suitable energy state to absorb other frequencies (the outer 10% of the absorption peaks), the CO2 molecules absorb to extinction in 100 meters. Where there are 1% as many effective molecules, the distance is 1000 meters. Even here, no global warming is occurring, because the radiation is being stopped in 1000 meters regardless of what humans do. At 0.1%, the distance is 10 kilometers. This distance is not even in the stratosphere, so there is still no global warming resulting from these molecules. They are removing all available radiation, which means more molecules do not result in more heat. If then one tenth this amount is the real global warming, it is one molecule in ten thousand which is capable of creating global warming.
+
+Range of Significance
+
+But CO2 will only be significantly increasing the amount of heat that it traps upon doubling its concentration when it is already trapping exactly one half of its potential. If it is trapping one fifth of its potential, then doubling the amount of CO2 would only absorb another 20% of the potential radiation which it could absorb. This amount is only 20% as significant as the most significant molecules. If CO2 were trapping 90% of its potential, then doubling the CO2 would increase its contribution by another 9%, which is also not in the center of the range of significance.
+
+Therefore, if one out of ten molecules which do not absorb to extinction are absorbing somewhere near half of their potential, they are in the range of significance. On this basis, the previous fraction of one in ten thousand must be reduced to one in one hundred thousand. This is rounding to one tenth for convenience.
+
+Actual Amount
+
+So a real estimate rather than an appeasement estimate is 33 x 1% x 8% x 0.083% x 0.00001 = 220 trillionth of a degree centigrade. It's the amount of global warming that humans would create by doubling the amount of carbon dioxide which they put into the atmosphere from 8.5 GTC per year to 17 GTC per year.
+
+Al Gore described the result which humans produce as if smog coming out of tailpipes were grabbing the heat which tries to escape from the earth and holds it down, so it fries humans and their related biology. You can't skip over the science and the numbers so frivolously. Fake experts try to justify the claims by contriving numbers. But the purpose is so absurd that no amount of lying can stretch the numbers enough. You might not want to believe that scientists do such dastardly things, but the carbon dioxide fraud shows that some of them do, and they often prevail over real science.
+
+The Significance
+
+This web page shows one of the most important points about global warming and the rest of modern science: There are numerous qualitative factors which are not taken into account with the fake math which is being used. These complexities cannot be included in the fake math, because there are too many unknowns. A good estimate gets as close as quantitatively possible; and an estimate does not erase other complexities which need to be taken into account, as fake math always does.
+
+Hypothetically, each estimate could be converted into math, but that much complexity never is reduced to math. It would require numerous separate calculations with questions about each one. Contrarily, fake math is used to encompass everything in one sweep, as if everything were accounted for in the obfuscation and the result were unquestionable. Eliminating questions raised by complexities is the purpose of fake math. Real scientists can see through the fake math, but too many gullible persons fall for it.

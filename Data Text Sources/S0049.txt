@@ -1,0 +1,102 @@
+Radiative Transfer Equations
+
+ 
+The underlying science for greenhouse gases was contrived through fake math.
+ 
+
+There is no such thing as a greenhouse gas.
+ 
+
+Incompetent corrupters in physics started at the desired end point for greenhouse gases and used fake math to get there. They called the fake math "radiative transfer equations" (RTEs). As always, there was no way to remove all of the contradictions in contriving fakery. So there are scientific contradictions in the logic.
+
+The procedure was to divide the atmosphere into many slices and calculate the radiation leaving each slice and entering the slice above it. When they got to the top of the atmosphere, the claim was less energy leaving than entering from the sun, which was attributed to carbon dioxide—five hundred years of scientific knowledge flushed down the drain of fake mathematics.
+
+It's the hoaxers equivalent of taking a pound of gold and cutting it into thousands of pieces and selling it back as two pounds of gold. In the thousands of slices, you can't prove where the extra gold came from. Nothing in physics is going to produce the precision needed to eliminate the errors in cutting atmospheric effects into thousands of pieces. The world's largest computers were used which prevented anyone from reproducing the results.
+
+There is not a correct logic to the procedure. It means, for each watt of energy absorbed, there is 0.9973 watts of energy emitted. No physics says such a thing by any imagination. What hung onto that energy, where, how and why? There is no physics that says that.
+
+One of the frauds is that radiation which leaves one slice is not absorbed into the slice above it. Much of the radiation would go through several slices, depending upon the thickness of each slice, which is not stated in the fake "peer review" for such large studies.
+
+Also, the radiation is not emitted at the same wavelength as absorbed. It's absorbed as three narrow bands of "fingerprint" radiation and emitted as broad-band black body radiation. So there is no such thing as radiation moving from slice to slice, and the absorption cannot be broken into discrete slices—a fallacy that negates the whole concept of radiative transfer equations.
+
+Earth's Radiation
+
+Only radiation emitted from the surface of the Earth (IR radiation) is considered (as generally significant) for absorption by carbon dioxide, because the sun's energy is too high of a frequency to be absorbed by carbon dioxide.
+
+Almost no radiation is given off by cold substances such as the Earth, which averages 59°F or 18°C. So the radiation available to CO2, when leaving the surface of the earth, gets entirely absorbed in traveling a short distance, called saturation. (in ten meters, Heinz Hug).
+
+Surface RadiationThat means, there is nothing to analyze above ten meters from the surface of the earth. Above ten meters, radiation is absorbed and re-emitted with no change in temperature, much like a jar of pickles sitting on a kitchen table, which doesn't heat the kitchen.
+
+Yet climatologists have been looking for the heat caused by CO2 to be maximum at either 5 km up or 9 km up for screwy reasons related to interference from absorption by water vapor.
+
+The fake analysis of RTEs says there is 3.7 watts per square meter less radiant energy leaving the earth than entering from the sun upon doubling the amount of carbon dioxide in the atmosphere. The difference supposedly produces a 1°C temperature increase. That result would be a fixed disequilibrium. Fixed disequilibrium is an impossibility.
+
+escape radiation
+
+There is no such thing as a fixed disequilibrium in the forces or energy states of the atmosphere. The forces and energy states always move toward equilibrium. If not, there would not have been an equilibrium for carbon dioxide to disrupt. To assume nothing has ever influenced the equilibrium of the atmosphere in such a manner as increased carbon dioxide is beyond stupidity.
+
+What the corrupters would have needed for their argument would have been an upward shift in the equilibrium temperature. But there were too many complexities in equilibrium to be evaluated; so they had to produce a disequilibrium as a method of simplifying.
+
+Watts of difference between energy entering and leaving the atmosphere would produce continuous change, not a fixed number. It's like watts of energy going through an electric meter. Continuous energy flow produces an accumulating quantity. In two hours, it's twice as much energy as one hour. So people pay for watt-hours, not watts. Yet the watts supposedly trapped in the atmosphere and creating a disequilibrium are said to produce a constant number (1°C), not an increasing number.
+
+The fakes could not resolve that contradiction, because they wanted a temperature for a product and a method of getting it which would look like a scientific calculation. But they couldn't produce a calculation which would meet their requirements. So they contradicted the scientific logic.
+
+They reversed the Stefan-Boltzmann constant to convert watts per square meter into 1°C. The Stefan-Boltzmann constant is expressed in watts per square meter, so they were stuck with watts.
+
+Also, there are no square meters in the atmosphere, but climatologists needed square meters to convert 3.7 W/m² into 1°C by reversing the Stefan-Boltzmann constant. Reversing the Stefan-Boltzmann constant is not valid, because it applies to radiation emitted from an opaque surface, not from a three dimensional and transparent atmosphere. It means climatologists started at the desired endpoint of 1°C and contrived a method of getting there.
+
+Even if the assumption was that a surface existed for the atmosphere where space begins, getting that location wrong would change the watts per square meter. No one can agree where that interface is; so there is no definable surface area for the top of the atmosphere.
+
+And even if everyone agreed, the mathematics depends upon there being a definable surface for the top of the atmosphere, while there is none. As the atmosphere thins, the radius and hence surface area changes drastically with no definable boundary. Any chosen radius is arbitrary, while the math is claimed to be definitive.
+
+CO2 moleculesThe radiative transfer equations produce the same 1°C when doubling the CO2 from one molecule to two molecules. The whole atmosphere would be heated 1°C with two molecules of CO2. Being ridiculous, physicists say the equations only apply to the range of present conditions, but there are no laws of nature which create such a range. It shows the fakery of the calculations. Even slight variations in the usual range of present conditions results in the same problem of fewer molecules producing the same 1°C upon doubling the molecules.
+
+The fakery also makes saturation disappear, because the primary argument against a greenhouse effect for more than a century was saturation. Nothing can make saturation disappear, which shows the fraud of the RTEs.
+
+Making saturation disappear is like saying you can keep putting more and more water in a bucket without it overflowing. No math can get that result, but supposedly RTEs did.
+ 
+Details Of Radiative Transfer Equations
+
+The result of the radiative transfer equations is used as a simple formula for showing heating of the atmosphere upon each increase in carbon dioxide. The math formula is simplistic and unreal, which means it is fakery—a fudge factor.
+
+The official climatology position is not an explanation; it's fake mathematics. The process is not a measurement; it is a series of calculations. The end result is summarized as a fudge factor for calculating the amount of heat produced by carbon dioxide in the air.
+
+The fudge factor says, the amount of heat added to the atmosphere (watts per square meter) equals 5.35 times the natural log of the amount of CO2 after an increase divided by the amount before. (myhre.pdf)
+
+Heat increase (W/m²) = 5.35 ln C/C0
+This equation states that doubling the amount of CO2 in the atmosphere (natural log of 2 times 5.35) will result in a heat increase of 3.708 watts per square meter. It's total nonsense, as there are no square meters in the atmosphere. But the result points to a change in energy going into and out of the atmosphere when looking at the cross-sectional area of the earth from a distance, where the sun's energy is 1367 W/m².
+ 
+
+curve
+
+ 
+The 3.7 watts per square meter are then converted into a temperature increase of 1°C by applying the Stefan-Boltzmann constant (explained in global warming section, Temperature Effects).
+
+It's not appropriate to use math functions (such as the fudge factor) to represent the complexities of science, because the simplicity of a math equation leaves out too many effects. Also, the dynamic nature of climate changes constantly, on a small scale and long term scale, which cannot be represented by a math equation.
+
+But physicists don't know what science is; so they reduce everything they do to math equations. They assume their math is a higher standard. Corrupters tend to assume corruption is a superior standard.
+
+Mathematical calculations cannot account for the smallest fraction of the effects in the atmosphere or climate. So the omissions are filled in with fake modeling. Modeling cannot account for the missing information either. Yet the result of radiative transfer equations is supposedly 1% error, while modeling produces hundreds of percent variations in different models.
+
+About a century ago, saturation was determined to prevent CO2 from heating the atmosphere. Saturation means all available radiation gets used up with a small amount of CO2, so more CO2 cannot absorb more radiation. This result occurs because only low frequency (infrared) radiation can be absorbed by CO2. The sun's energy is too high of a frequency. So the radiation which CO2 absorbs comes from cold surfaces such as the surface of the earth. Cold surfaces give off very little radiation and it gets absorbed with very little CO2.
+
+Because of saturation there cannot be temperature increases due to greenhouse gases. Radiative transfer equations were used to make saturation disappear. Nothing can make saturation disappear.
+ 
+
+saturation
+ 
+Carbon dioxide absorbs all radiation available to it as the radiation travels 10 meters in the near surface atmosphere, which is called saturation. Doubling the amount of CO2 shortens the distance to 5 meters. Shortening the distance is not increasing the heat. There is no global warming caused by greenhouse gases with saturation.
+
+Radiative transfer equations are a pretense of adding math to the randomness and complexity of energy moving through the atmosphere and then getting a disequilibrium number for a result. It's like mathematics for stirring ink into water. The randomness and complexity does not reduce to a mathematical analysis. Also, disequilibrium in the atmosphere is a heating and cooling process, not a stable temperature increase, as claimed for global warming.
+
+The math of radiative transfer equations would have to read through the constant changes in temperature of the atmosphere and extract a minute effect as if it existed in an identifiable manner. The constant changes in atmospheric temperatures are totally beyond mathematics. In other words, the claimed result is fakery.
+
+Incompetent scientists are failing to grasp how miniscule radiation is compared to other methods of heat transfer. At the cold average temperature of the earth (15°C, 59°F), it's about 2% radiation and 98% conduction, convection and evaporation that moves heat from the surface of the earth into the atmosphere. An erroneous Stefan-Boltzmann constant indicates that it is 79% radiation. A white hot light bulb could not emit 79% radiation without a vacuum environment.
+Radiative transfer equations cannot be any more accurate than the erroneous Stefan-Boltzmann constant, which is too high by a factor of 40, even if everything else about radiative transfer equations were true.
+
+That problem gives them 4,000% error in calculations of radiative transfer equations, yet they claim about 1% error for that. They started at the desired end point and faked a method of getting there, which disappears the 4,000% error.
+
+
+Incompetents assume that warming is produced by radiation flowing back from carbon dioxide to the earth. Looking at radiation flow is nonscientific. Radiation constantly flows in all directions from all matter being emitted and absorbed in proportion to temperature. CO2 is not different from the nitrogen and oxygen in the air for radiation flows. In other words, the temperature has to show up in the carbon dioxide molecules independent of radiation flows.
+
+In other words, radiative transfer equations are total fakery with no concern for scientific credibility. Yet radiative transfer equations are said to be so precise and valuable that they are used to determine the temperature of the atmosphere on Venus. It's shameless worship of frauds, not science.

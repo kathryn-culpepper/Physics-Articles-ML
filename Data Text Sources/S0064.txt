@@ -1,0 +1,73 @@
+How "Greenhouse Gases" are Mathematically Contrived
+ 
+
+The claim that greenhouse gases add heat to the atmosphere hinges upon the Stefan-Boltzmann constant. The result is so absurd that corrections had to be made later (explained below).
+
+The Stefan-Boltzmann constant indicates how much radiant heat is given off by a surface at a particular temperature. Simple observations indicate that about 40 times too much radiation is projected by the Stefan-Boltzmann constant. Without such excessive radiation, the claimed greenhouse effect would not exist. Since numerous other lines of logic also show that the greenhouse effect cannot exist, they show the absurdity of the quantities produced by the Stefan-Boltzmann constant.
+
+The Stefan-Boltzmann constant indicates that so much radiation is given off by the surface of the earth that it would give up all energy from the sun at an absurdly low temperature of -18°C (0°F), if it all radiated into space. But since the average temperature of the earth's surface is 33°C higher (15°C or 59°F), only greenhouse gases could add the extra heat needed to get to present surface temperatures, according to global warming alarmists.
+
+With the Stefan-Boltzmann constant used by climatologists, the surface of the earth must be giving off 390 watts per square meter of radiation at its average temperature of 15°C (59°F). To get their numbers to balance, climatologists have only 24 W/m² leaving the surface by conduction and convection. That's 6% as much conduction and convection as radiation, even though the earth's surface has a lot of wind moving across it. Cooling fans would never be used if only 6% increase in cooling could be achieved. Fans remove far more heat than radiation alone would.
+ 
+
+The Numbers Used by Climatologists
+Based on the Stefan-Boltzmann Constant
+
+This is the Kiehl-Trenberth model. (Jeffrey T. Kiehl, Kevin Trenberth (1997): Earth’s Annual Global Mean Energy Budget; in Bulletin of the American Meteorological Society, Vol. 78, No. 2/1997, S. 197-208) link at IPCC    (Image Below)
+
+The Stefan-Boltzmann constant is this:
+
+W/m² = 5.67051 x 10-8 x K4
+ 
+With the Stephan-Boltzmann constant, the surface of the earth must be giving off 390 watts per square meter of radiation at its average temperature of 15°C (59°F).
+
+radiation numbers	As In Image Below
+
+The 235 W/m² from the sun is stated in the IPCC Report.
+
+Radiation from sun onto earth's surface: 235 - 67 = 168 W/m².
+
+Radiation from atmosphere to earth: 324 W/m².
+
+Total on earth's surface: 324 + 168 = 492 W/m².
+
+From surface by conduction (air rising): 24 W/m².
+
+From surface by evaporation: 78 W/m².
+
+From surface as radiation: 390 W/m².
+
+Of the 390 W/m²: 40 W/m² directly into space.
+     350 W/m² into atmosphere.
+
+Net radiation from surface to atmosphere: 350 - 324 = 26 W/m².
+
+Net energy from surface to atmosphere: 24 + 78 + 26 = 128 W/m².
+
+From sun to atmosphere: 67 W/m².
+
+Emitted from atmosphere to space: 128 + 67 = 195 W/m².
+
+Total into space: 195 + 40 = 235 W/m².
+
+Alarmist climatologists use this procedure to show that the numbers can be balanced when using the Stefan-Boltzmann constant, and the greenhouse effect is supposed to be a necessary method of getting the surface temperature up from the -18°C to 15°C, which liberates 235 W/m², based on the Stefan-Boltzmann constant.
+ 
+There are two major problems visible in the numbers shown. One is that only 24 W/m² leave the surface as conduction, with 390 W/m² leaving as radiation. That's 16 times as much radiation as conduction. Nothing resembling that happens below the temperature of white hot metals. Those numbers were forced into the method because of preposterously high radiation indicated by Stefan-Boltzmann constant.
+
+radiation	16/1
+
+To account for the extremely high radiation indicated by the Stefan-Boltzmann constant, there had to be a lot of radiation interacting with the earth's surface—specifically 324 W/m² going from the atmosphere back to the surface. This amount left almost nothing for conduction, convection and evaporation. The 390 W/m² being emitted from the surface included 40 W/m² going into space and 350 W/m² going into the atmosphere. The 324 W/m² coming back out of the atmosphere and onto the surface had to be less than the 350 W/m² going in. The 324 W/m² left almost no space for conduction, convection and evaporation, because most of it had to be used to create the 390 W/m².
+
+Emissivity Omitted
+
+In addition to the absurdly high radiation required by the Stefan-Boltzmann constant of 390 W/m², this number is supposed to be adjusted for emissivity, which is now days said to be 0.64 for the earth’s surface. This means 0.64 times 390, which equals 250 W/m² instead of 390 W/m². Yet a recently produced NASA energy budget continues to show the same 390 W/m² of the Kiehl-Trenberth model.
+ 
+Presumably, when the Kiehl-Trenberth model was produced in 1997, a number did not exist for the emissivity of the earth’s surface, so it was omitted. Later, a model by NASA reduced the radiation from 79% to 41%, presumably attempting to make it look more credible. But by then, the Kiehl-Trenberth number had been enshrined in several editions of the IPCC reports, so NASA apparently felt maintaining the same number would be less incriminating than reducing it to almost one half. And still, emissivity was not used to reduce the number to 250 W/m², which shows that a consistent absurdity was more important to them than correct scientific procedures.
+
+Kiehl-Trenberth Model
+
+Kiehl-Trenberth Model    Back to Chart ▲
+
+TOP     
+
+   

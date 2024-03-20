@@ -1,0 +1,83 @@
+Global Warming Science Errors
+ 
+
+Incompetents in science have been telling the public that nothing heats the atmosphere but greenhouse gases. They missed the fact that most heat enters the atmosphere by wind blowing over the surface of the Earth and picking up heat through conduction and convection plus evaporation from the oceans. Anyone who gets that much wrong isn't getting anything else right.
+
+This quote has been at the top of hundreds or thousands of state and local web sites making that claim, which shows why the public is convinced that carbon dioxide is destroying the planet.
+
+The Stefan-Boltzmann constant shows about 40 times too much radiation given off by matter at normal temperatures. Reduce the Stefan-Boltzmann constant by a factor of 40, and the heat calculations of physicists would be reduced by a factor of 40, if no frauds were involved.
+
+Fakes say carbon dioxide in the atmosphere traps heat. It's total fraud. The air cools 20 degrees or more on clear nights due to radiation into space. A transparent gas radiates much more readily than opaque surfaces such as the Earth.
+
+The sun's energy is too high of a frequency for carbon dioxide to absorb. Only cold substances such as the surface of the Earth emit the long-wave radiation that carbon dioxide absorbs; but very little radiation is given off by cold substance.
+
+So carbon dioxide in the atmosphere absorbs all radiation available to it within ten meters of the Earth's suface, which is called saturation.
+
+What little radiation is absorbed is re-emitted in 83 femtoseconds. Physicists missed the re-emission.
+
+Absorption DipPhysicists are hung up on an observable absorption dip for carbon dioxide in the Earth's emitted radiation. They missed the fact that the absorbed energy is re-emitted at broadband frequencies which disappear into other frequencies on the graphs. Heat always radiates at broadband, while CO2 absorbs in narrow bands.
+ 
+
+Earth's Radiation
+
+ 
+Absorbed energy is converted to heat; and heat is radiated away. Radiant energy is weak; but so is absorbed energy. So the energy carbon dioxide absorbs is radiated away as fast as it is absorbed, besides the fact that the quantities are too miniscule to be relevant.
+
+There's not the slightest possibility of one molecule in 2,500 influencing the atmosphere, no matter what its temperature is or what it does. The sun's energy on Earth moves into and out of the atmosphere for other reasons.
+
+About fifteen years ago, half of the scientists were on each side of the global warming issue. The wrong side prevailed at the social level and prevented criticism of their errors. Real scientists lost grants, ability to publish and sometimes their jobs for trying to produce correct science. A false consensus was manufactured as the sole basis for the claims. Errors were imposed rather than explained. Consensus is how science is corrupted, not how science is produced. Consensus is the same as hearsay, gossip and scandal being used to overwhelm five hundred years of measured science.
+
+Fake math, called radiative transfer equations, was contrived for calculating heat trapped in the atmosphere. As always, there was no way to remove the contradictions in contriving fakery; so there are numerous scientific contradictions in the logic of radiative transfer equations.
+
+The result shows 3.7 watts per square meter of heating upon doubling the amount of carbon dioxide in the atmosphere. There are no square meters in the atmosphere, but the Stefan-Boltzmann constant was needed for calculating radiation, and it uses watts per square meters.
+
+The 3.7 w/m² are converted into 1°C by reversing the Stefan-Boltzmann constant. Reversing the Stefan-Boltzmann constant is not valid, because it applies to radiation emitted from an opaque surface, not from a three dimensional and transparent atmosphere. It means climatologists started at the desired endpoint of 1°C and contrived a method of getting there.
+
+ three moleculesThe radiative transfer equations produce the same 1°C when doubling the CO2 from one molecule to two molecules. Being ridiculous, physicists say the equations only apply to the usual range, but there are no laws of nature which create such a range. It shows the fakery of the calculations.
+
+Trying to make no significant radiation look like a planet destroying amount, physicists claim 40 times too much radiation leaving the surface of the earth. They say the energy flow from the earth is 79% radiation and 21% conduction, convection and evaporation. It should be 1-3% radiation. No one would assume a greenhouse effect could be significant at such a low level of radiation.
+
+Radiation is always miniscule at cold temperatures and far less than conduction and convection even at warm temperatures. That's why blowing on soup cools it instead of waiting for radiation to cool it. A white hot light bulb could not emit 79% radiation without a vacuum to remove the conduction and convection.
+
+An erroneous Stefan-Boltzmann constant (SBC) is used to show 40 times too much radiation given off by matter at normal temperatures. Reduce the SBC by a factor of 40 and the calculated greenhouse heating in radiative transfer equations reduces by a factor of forty. That means the 2.5°C being hyped reduces mathematically to 0.06°C when correcting the Stefan-Boltzmann constant.
+
+The Intergovernmental Panel on Climate Change (IPCC) is not science. It is designed by politicians for political purposes with the result being dictated by politicians. Any real scientists who get involved either quit in disgust or are kicked out for criticizing the process.
+
+
+ 
+Some Data
+
+"Total human CO2 emissions primarily from use of coal, oil, and natural gas and the production of cement are currently about 5.5 GT C per year (giga tons of carbon per year). A recent update says 8.6 GT.
+
+"To put these figures in perspective, it is estimated that the atmosphere contains 780 Gt C; the surface ocean contains 1,000 Gt C; vegetation, soils, and detritus contain 2,000 Gt C; and the intermediate and deep oceans contain 38,000 Gt C, as CO2 or CO2 hydration products. Each year, the surface ocean and atmosphere exchange an estimated 90 Gt C; vegetation and the atmosphere, 100 Gt C; marine biota and the surface ocean, 50 Gt C; and the surface ocean and the intermediate and deep oceans, 40 Gt C."
+
+Notice that the oceans exchange ten times as much carbon with the atmosphere as humans produce (90GT vs. 8.6 GT). Exchange means regulation. And humans only add 1% as much CO2 to the atmosphere per year as already in it. If such a miniscule amount were as critical as propagandists claim, all life would have been destroyed long ago. Nature hasn't been sitting on a 1% knife edge for millions of years.
+
+Reference:
+   Oregon Institute of Science and Medicine
+External Links:
+   Isherwood - Perpsective and Quotes
+   Climate Physics - Ed Berry
+   Railroaded Science - By Richard Lindzen
+   Jaworowski: critic of ice core measurements
+   Heat in Earth's Interior
+   El Nino and CO2
+   Political Criticism. May 24, 2006
+   Historical Summary
+   Raw Data on CO2 in Air
+   CO2 Criticisms—Segalstad
+ 
+1. Charney, J. G., Arakawa, A., Baker, D., Bolin, B., Dickerso, R., Goody, R., Leith, C., Stommel, H.M. & Wunsch, C.I. 1979 Carbon Dioxide and Climate: A Scientific Assessment. Washington, DC. National Academy of Sciences Press.
+External LInk   Or Here
+
+2. Ramanathan, V., M.S. Lian, and R.D. Cess, 1979. Increased Atmospheric CO2: Zonal and Seasonal Estimates of the Effect on the Radiation energy Balance and Surface Temperature. J. Geophys. Res. 84:4949-4958.
+External Link   Or Here
+
+3. Hansen, J., A. Cacis, D. Rind, G. Russell, P. Stone, I. Fung, R. Ruedy, and J. Lerner, 1984. CLIMATE SENSITIVITY: ANALYSIS OF FEEDBACK MECHANISMS. Geophys. Mono. 29:130-163.
+External Link   Or Here
+
+4. Hansen, J., I. Fung, A. Llacis, D. Rind, S. Lebedeff, R. Ruedy, G. Russell, and P. Stone, 1988. Global Climate Changes as Forcast by Goddard Institute for Space Studies, Three Dimensional Model. J. Geophys. Res. 93:9341-9364.
+External Link   Or Here
+
+5. Myhre, G., E.J. Highwood, K.P. Shine, and F. Stordal, 1998. New estimates of radiative forcing due to well mixed greenhouse gases. Geophys. Res. Lett. 25:2715-2718.
+External Link   Or Here

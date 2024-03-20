@@ -1,0 +1,124 @@
+How Modern Global Warming Science Took Form
+ 
+Scientists cannot conceptualize a mechanism for carbon dioxide creating global warming, and their attempts to model without a mechanism results in extreme contradictions.
+The modern resurgent science of global warming erases saturation, which cannot be erased, and uses a fudge factor for calculating heat with almost no saturation.
+
+
+Global warming is studied as modern physics is studied, which is based on the underlying absurdity that mathematics can be used as the source of knowledge and theoretical concepts. Math has no valid place in science until theoretical concepts have been developed on the basis of observation, measurement and applied knowledge. A knowledge base must precede the math. Valid scientific math can then be used to represent the knowledge. Knowledge must come before math.
+
+Physics is so abstract and difficult to measure with experimental evidence that almost all of it is contrived through fake mathematics. And almost all of it is in error starting with the definition of energy, as I show elsewhere. Out of it are such obvious errors as the Stefan-Boltzmann constant which shows about 20-50 times too much radiation given off by matter at normal temperatures.
+
+
+
+ 
+The foundation publications for modern global warming science meet no criteria for valid science. Methodologies are not given, measurements are not made and evidence is not described. Instead, modeling is used to contrive fake numbers. Preposterous fantasies on atmospheric studies are glibly mentioned with self-contradictory blather. The studies consist of nothing but a desired end point with fictitious methods of deriving the result.
+
+A publication by Charney et al, 1979 (1), makes this statement:
+
+"In response to a request from the Director of the Office of Science and Technology Policy, the President of the National Academy of Sciences convened a study group under the auspices of the Climate Research Board of the National Research council to assess the scientific basis for projection of possible future climatic changes resulting from man-made releases of carbon dioxide into the atmosphere. Specifically, our charge was
+
+1. To identify the principal premises on which our current understanding of the question is based,
+2. To assess quantitatively the adequacy and uncertainty of our knowledge of these factors and processes, and
+3. To summarize in concise and objective terms our best present understanding of the carbon dioxide/climate issue for the benefit of policymakers.
+
+The Study Group met at the NAS Summer Studies Center at Woods Hole, Massachusetts, on July 23-27, 1979, and additional consultations between various members of the group took place in subsequent weeks..."
+
+
+The publication used modeling of atmospheric and oceanic effects to supposedly determine how much heating would result from doubling the amount of carbon dioxide within the atmosphere. They had no starting point for the amount of heat carbon dioxide should produce. Their conclusion was that global temperatures would increase by an estimated 3°C. They added, "Of course, we can never be sure that some badly estimated or totally overlooked effect may not vitiate our conclusions."
+ 
+The procedure was described in section 4, titled "Models and Their Validity" as this:
+
+"The independent studies of the CO2/climate problem that we have examined range from calculations with simple radiative-convective models to zonally and vertically averaged heat-balance models with horizontally diffusive heat exchange and snow-ice albedo feedbacks to full-fledged three-dimensional general circulation models (GCM's) involving most of the relevant physical processes. Our confidence in our conclusion that a doubling of CO2 will eventually result in significant temperature increases and other climate changes is based on the fact that the results of the radiative-convective and heat-balance model studies can be understood in purely physical terms and are verified by the more complex GCM's. The last give more information on geographical variations in heating, precipitation, and snow and ice cover, but they agree reasonably well with the simpler models on the magnitudes of the overall heating effects."
+
+
+The claims are total fakery. Scientists do not have the slightest ability to convert the details, complexities and randomness of the atmosphere to measurement or calculation, which is why weathermen cannot predict more than a few days for simple elements such as temperature and precipitation.
+
+The terms used are nothing but word salad. There is no such thing as "heat balance." Heat migrates and transforms to and from other forms of energy. There is nothing balanced about it.
+
+To claim the atmosphere has relevant "horizontally diffusive heat exchange" is shameless absurdity. Diffusion in the atmosphere or oceans is virtually nonexistent beyond conduction and convection. In large fluids, diffusion would cover no more than a few nanometers before convection renders it irrelevant. Why add "heat exchange?" There needs to be two mediums with an interface for heat exchange. If atmosphere and oceans were the interface, there is no "horizontally diffusive" element to it. Diffusion is a chemistry concept, not an energy concept. Heat moves through conduction, not diffusion.
+
+They say, "understood in purely physical terms." Science doesn't deal with anything other than purely physical terms. They say, "verified by the more complex GCM's (general circulation models)." Models don't verify. They are claiming to achieve verification out of word salad. They are pretending to definitively analyze factors which weathermen cannot evaluate due to unknowns and randomness.
+
+Those of us who disagree are told that we are "flat earthers." Senator Barbara Boxer says she can look out the window and see it happening. Weathermen can only predict the weather for a few days into the future due to the extreme randomness of atmospheric effects which do not reduce to analysis. Yet climatologists determine the snow surface area and the amount of radiation it will reflect for at least the next hundred years.
+
+To model heat through the atmosphere resulting from carbon dioxide, the starting point must be some quantity of heat which is supposed to be moving through the atmosphere. Yet that quantity was the end result of the Charney study rather than the starting point. Numerous other studies used the same basic modeling concepts. 
+
+
+In 1984 and 1988, Hansen et al (2,3) used similar modeling but started with a concept of how much heat carbon dioxide should produce determined as "empirical observation," by which they meant the assumed historical record of carbon dioxide heating the atmosphere. Modeling then had the purpose of showing how the atmosphere would add secondary effects to the primary effect of carbon dioxide. But the historical record included the secondary effects, which means the secondary effects were compounded. In other words, there is no clear concept of a purpose or a logical set of cause-and-effect relationships.
+ 
+
+The present concept of a primary effect by carbon dioxide was locked in by Myhre et al, 1998 (4) using "radiative transfer equations" combined with more modeling to construct a three component fudge factor (5.35lnC/C0) for the amount of heat produced by increases in carbon dioxide in the atmosphere. It means the natural log of the ratio of CO2 end point divided by CO2 starting point. For doubling of CO2 in the atmosphere, it is 5.35 times natural log of 2, which is 3.7 watts per square meter.
+
+The 3.7 w/m² is supposed to be the amount of increased heat, as radiation, which strikes the surface of the earth as CO2 increases in the atmosphere. Getting from heat to temperature is totally impossible due to infinite complexities which cannot be pinned down.
+
+     curve
+
+Radiative Transfer Equations
+
+Radiative transfer equations (RTE) erase the problem of saturation. The methodology of RTE is to slice the atmosphere into numerous small pieces called parcels. The amount of radiation emitted from each parcel is calculate, and the amount of that radiation absorbed into the next parcel up is calculated. This is repeated until the entire atmosphere is covered. The largest computers are used to do this. And what do they have afterwards? Some radiation escaping at the top of the atmosphere, where saturation allows none. Direct measurements easily show the saturation, so obfuscation was needed to erase the saturation.
+
+The math for the radiative transfer equations requires a concept of how much radiation is going from each parcel and how much goes into the next parcel. Accounting for saturation must occur to determine these numbers. Therefore, the erasure of saturation occurs in deciding how much radiation goes where.
+
+There is no theoretical method of calculating the fudge factor from radiative transfer equations, because radiation absorption by CO2 must be measured, it cannot be calculated. So why do a calculation after measuring the result? The measured results shows saturation in 10 meters, while the calculation shows almost no saturation throughout the atmosphere. Muddling the subject and contriving the endpoint is the only reason for doing a calculation.
+
+The end result is that the heating occurs at some high elevation in the atmosphere. The height is given as either 5 kilometers up or 9 km up based upon the rationalization. The variations get endless on explaining how the heating occurs. The general concept is that saturation does not occur in the thin atmosphere up there, so more CO2 causes more radiation to be absorbed.
+
+Why do the radiative transfer equations start at the bottom of the atmosphere, when the bottom of the atmosphere has nothing to do with the heating? There is no logic as to why the RTEs are used at all. Picking a point where saturation no longer exists has nothing to do with the RTEs. The explanations concern where the bandwidth narrows for CO2 absorption and separates from overlap by water vapor. Sometimes, the Stefan-Boltzmann constant is used to determine the height at which the heating should occur based upon the temperature at which radiation leaves the planet in the same quantity it enters.
+
+Through whatever mysterious means, the end result of the radiative transfer analysis is a fudge factor for determining how much primary effect CO2 produces in heating the atmosphere. Critics are not entirely sure that the fudge factor originates with the publication of Myhre et al, 1998, but no other source can be located.
+ 
+The effect of radiative transfer equations is to show that less radiation leaves the atmosphere than enters from the sun, until equilibrium is restored at a warmer temperature for the atmosphere. In doing so, saturation is reduced to trivia, and the mechanism is reduced to simple absorption of radiation throughout the atmosphere, based on the premise that the radiation all starts at ground level and moves upward. Most energy gets into the atmosphere through conduction, convection and evaporation. radiation escapeTherefore, there is no means of determining how far radiation must travel to get out of the atmosphere, which must be known to calculate how much fails to be emitted at the top of the atmosphere.
+
+Another problem is that the planet is cooled by radiation which goes around greenhouse gases to establish equilibrium, which cannot be determined through mathematics. A gate half open will not keep in half the sheep. The assumption is that equilibrium is created at the top of the atmosphere, but it is created throughout the atmosphere.
+
+How equilibrium is achieved cannot be determined, because it involves adjustments by every factor involved. Climatologists claim there is a shift in equilibrium temperature due to restrictions at the top of the troposphere, but the claim is absurd for many reasons. One is that most of the cooling occurs throughout the atmosphere and very little from the top. They are ignoring the radiation escaping from the rest of the atmosphere. There is no way to determine how radiation leaves throughout the atmosphere, so this effect is ignored in the radiation transfer analysis. There is no analysis when ignoring the escape of radiation throughout the atmosphere.
+
+A major reason why the calculation is not valid is because it looks only at radiation moving from ground level to somewhere near the top of the normal atmosphere (troposphere). radiative transferVery little radiation does that. Between 15 and 30% of the radiation leaves from the atmosphere, and it does the cooling of the planet.
+
+There is no identifiable starting point for most radiation. It is emitted and absorbed from every molecule in the atmosphere and on the surface of the earth. So there is no identifiable starting point for the radiative transfer equations used to create the fudge factor.
+
+Another problem with radiative transfer equations is that radiation does not move from one layer to another. Radiation goes various distances in all directions. There is no analysis for the amount of radiation entering or leaving any slice in the atmosphere. Some radiation gets absorbed in one meter, some in three meters, some in five meters. It saturates on average in ten meters, in the analysis of Heinz Hug, with no contradictory claims.
+
+Analysts add a few angles to their radiative transfer equations to show their wizardry with geometry, but they can't scratch the surface of the undefinable complexities, because radiation is emitted and absorbed in all directions from every molecule with 15-30% going directly into space from all positions in the atmosphere. How the radiation equilibrates with energy entering from the sun is beyond analysis.
+
+
+
+Here's an explanation on the internet by Clive Best for getting temperature out of radiative transfer equations: Slices of the atmosphere are evaluated for each pressure comparing two concentrations of CO2: 300 ppm and 600 ppm. A slice is picked where half of the radiation goes through and half is absorbed by CO2. This pressure correlates with a height in the atmosphere. Each height in the atmosphere has a defined average temperature. This temperature is then translated into the temperature that will occur near the surface upon doubling CO2.
+
+There is no logic or cause-and-effect relationship between the elements of such an analysis. It's nothing but a rationalistic method of getting temperature out of radiation.
+
+
+These points are made by Norm Kalmanovitch in a discussion on Judith Curry's web site here: http://judithcurry.com/2011/06/10/lindzen-and-choi-part-ii/
+
+Kalmanovitch points out that the calculations (in the radiative transfer equations and originating with Hansen et al going back to 1981 [5]) deal with radiation intensity which cannot be converted to temperature due to infinite complexity.
+
+He also points out that the curve cannot be chopped off for low values, which show the absurdity. Removing the evidence of absurdity is not a scientific analysis but an obfuscation.
+
+Kalmanovitch's points are brushed off with contempt and ridicule by other commenters who claim the majority scientists cannot be wrong in relating to the fudge factor as an unquestionable law of physics. This mockery and contempt for real science criticism is the entire problem with the global warming issue.
+
+
+
+How could Myhre et al use modeling to determine the primary effect, while everyone else uses modeling to determine secondary effects due to feedback? Modeling the atmosphere will not tell the difference between primary and secondary effects—not the least reason being that it doesn't tell anything. But the three component equation of Myhre et al is now considered to be the unquestionable primary effect and starting point for analysis of global warming by carbon dioxide. Modeling now days only concerns the secondary effects of feedback, which are mostly attributed to water vapor.
+
+There is nothing but modeling in global warming analysis, the simple reason being that the complexities and randomness of the atmosphere are totally out of reach of the science that can be applied. Only modeling is obscure enough to evade accountability to outsiders and provide any desired result without criticism.
+ 
+The problem is, such a standard is not science. Science has a purpose, which is to put an end to error and falsehood through verifiable procedures. Muddled procedures only promote the charlatanism which science attempts to correct.
+
+1. Charney, J. G., Arakawa, A., Baker, D., Bolin, B., Dickerso, R., Goody, R., Leith, C., Stommel, H.M. & Wunsch, C.I. 1979 Carbon Dioxide and Climate: A Scientific Assessment. Washington, DC. National Academy of Sciences Press.
+http://www.atmos.ucla.edu/~brianpm/download/
+charney_report.pdf
+
+2. Hansen, J., A. Cacis, D. Rind, G. Russell, P. Stone, I. Fung, R. Ruedy, and J. Lerner, 1984. CLIMATE SENSITIVITY: ANALYSIS OF FEEDBACK MECHANISMS. Geophys. Mono. 29:130-163.
+Hansen et al, 1984-PDF
+
+3. Hansen, J., I. Fung, A. Llacis, D. Rind, S. Lebedeff, R. Ruedy, G. Russell, and P. Stone, 1988. Global Climate Changes as Forcast by Goddard Institute for Space Studies, Three Dimensional Model. J. Geophys. Res. 93:9341-9364.
+Hansen et al, 1988-PDF
+
+4. Myhre, G., E.J. Highwood, K.P. Shine, and F. Stordal, 1998. New estimates of radiative forcing due to well mixed greenhouse gases. Geophys. Res. Lett. 25:2715-2718.
+http://go.owu.edu/~chjackso/Climate/papers/
+Myhre_1998_New%
+20eatimates%20of%20radiative%20forcing%20due%20to%
+20well%20mixed%20greenhouse%20gasses.pdf
+
+5. Hansen, J., D. Johnson, A. Lacis, S. Lebedeff, P. Lee, D. Rind, G. Russell, 1981. Climate Impact of Increasing Atmospheric Carbon Dioxide. Science, 23:957-966.
+http://pubs.giss.nasa.gov/abs/ha04600x.html

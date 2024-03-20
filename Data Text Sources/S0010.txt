@@ -1,0 +1,43 @@
+I live along the California Monterey Bay. It is a relatively long bay that sits next to the Pacific Ocean. The exact distance between the extremes of the Monterey Bay, Lovers Point in Pacific Grove and Lighthouse State Beach in Santa Cruz, is 33.4 statute miles. See this map.
+
+On a very clear and chilly day it is possible to see Lighthouse Beach from Lovers Point and vice versa. With a good telescope, laying down on the stomach at the edge of the shore on the Lovers Point beach 20 inches above the sea level it is possible to see people at the waters edge on the adjacent beach 33 miles away near the lighthouse. The entire beach is visible down to the water splashing upon the shore. Upon looking into the telescope I can see children running in and out of the water, splashing and playing. I can see people sun bathing at the shore and teenagers merrily throwing Frisbees to one another. I can see runners jogging along the water's edge with their dogs. From my vantage point the entire beach is visible.
+
+IF the earth is a globe, and is 24,900 English statute miles in circumference, the surface of all standing water must have a certain degree of convexity--every part must be an arc of a circle. From the summit of any such arc there will exist a curvature or declination of 8 inches in the first statute mile. In the second mile the fall will be 32 inches; in the third mile, 72 inches, or 6 feet, as shown in this chart. Ergo; looking at the opposite beach 30 miles away there should be a bulge of water over 600 feet tall blocking my view. There isn't.
+
+Here's the math:
+
+
+
+Suppose that the earth is a sphere with a radius of 3,963 miles. If you are at a point P on the earth's surface and move tangent to the surface a distance of 1 mile then you can form a right angled triangle as in the diagram.
+
+Looking over a distance of 1 mile, we can use the theorem of Pythagoras:
+
+a2 = 3,9632 + 12 = 15,705,370
+
+and when we square root that figure we get a = 3,963.000126 miles
+
+Thus your position is 3,963.000126 - 3,963 = 0.000126 miles above the surface of the earth.
+
+0.000126 miles = 12 in * 5,280 ft * 0.000126 mi = 7.98 inches
+
+Hence after one mile the earth drops approximately 8 inches.
+
+-
+
+Ergo, looking across 30 miles the Pythagorean theorem becomes:
+
+a2 = 39632 +302 = 15,706,269
+
+and when we square root that figure we get a = 3,963.113549 miles
+
+Thus your position is 3,963.113549 - 3,963 = 0.113549 miles above the surface of the earth
+
+0.113549 miles = 5,280 ft * 0.113549 mi = 599.53872 feet
+
+Hence after 30 miles the earth drops approximately 600 feet.
+
+-
+
+Whenever I have doubts about the shape of the earth I simply walk outside my home, down to the beach, and perform this simple test. The same result comes up over and over throughout the year under a plethora of different atmospheric conditions.
+
+There are a number of different methods to calculate the drop of the Round Earth. Go ahead and look some up try a few out. You will find that the drop while looking over 30 miles is on the order of 600 feet.

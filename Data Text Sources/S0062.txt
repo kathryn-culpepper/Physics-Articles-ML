@@ -1,0 +1,35 @@
+Heinz Hug Measurement Of Carbon Dioxide Absorption
+
+(Condensed Point)
+ 
+
+Climate Catastrophe - A Spectroscopic Artifact?
+
+http://www.john-daly.com//artifact.htm
+
+Or Here
+ 
+
+Heinz Hug, a German physicist, did a laboratory measurement of cabon dioxide absorption of infrared radiation and found the saturation distance to be 10 meters under near-surface atmospheric conditions.
+
+He stated: "As the transmission T = 10-3.21 is 0.6 per mille, we conclude that the relative absorption around the peak is 1-T = 99.94% which takes place already within a 10 m layer near ground."
+
+ 
+His graphed data showed this:
+ 
+
+CO2 Absorption
+ 
+The increased absorption when doubling the amount of carbon dioxide was represented with this graph:
+ 
+
+ 
+
+CO2 Absorption
+ 
+
+Climatologists admit that saturation occurs, but they do not say what the distance of saturation is. In fact, they dropped the subject of saturation after the 2001 IPCC report and made saturation disappear in the radiative transfer equations. It's not valid to make saturation disappear, which shows the corruptness of the radiative transfer equations.
+
+Here's how saturation was described in the 2001 IPCC report (AR3):
+
+"Carbon dioxide absorbs infrared radiation in the middle of its 15 mm [sic] band to the extent that radiation in the middle of this band cannot escape unimpeded: this absorption is saturated. This, however, is not the case for the band’s wings. It is because of these effects of partial saturation..."

@@ -1,0 +1,343 @@
+Mike Wallace transcript, 10/31/23, Solar forcing accounts for most if not all climate change
+
+Full podcast here.
+
+unedited mike wallace transcript, tom nelson podcast #164, 10/31/23
+
+Tom: [00:00:00] My guest today is Mike Wallace 
+
+Mike: We were brought together by Jasper Machugo and, um, he's an agricultural engineer from Kenya and Jasper and I really seem to relate and connect on multiple levels.
+
+Uh, he's best known for energy and equity perspectives. I relate because I agree with all of his perspectives and also, uh, we have some agricultural overlap, at least wherever water is concerned. And I co authored a paper a few years ago on African climate connections with some German authors recently, so I'm quite interested in what's happening in Africa with regard to hydrology and the like.
+
+Um, I've been practicing hydroclimatology since the early 1990s, and I returned to work on a PhD in 2012 at the University of New Mexico. I only ended up with a Master's in Nanosciences and Microsystems Engineering. But by then I had also developed a falsifiable [00:01:00] hypothesis on semi decadal scaled solar forcing of the global hydrospheric manifold, including the ENSO pattern, which is the El NiÃ±o La NiÃ±a Southern Ocean Oscillation Pattern.
+
+That hypothesis was published in the Hydrological Sciences Journal in 2019, after two years of peer review. I was the sole author. The ENSO connection was at that time somewhat secondary in my perspective. I was more interested in the practical applications from reliable, lagged correlations. of sunspot numbers to streamflows within locations of the Rocky Mountains, the Himalayas, and the Andes.
+
+I felt that I could monetize this advancement through consulting and forecasting streamflows. I was thinking cheaper, faster, better compared to the global circulation models. My first and only client was the city of Santa Fe. I [00:02:00] produced accurate multi year forecasts of the Santa Fe River, uh, for that product, but it was difficult to move beyond that success as the notion of anthropogenic global warming, AGW, gained traction everywhere.
+
+I considered AGW modeling to be fair game as I sought to compare. My solar based streamflow forecasts to others, which were based on models. I already had many years of experience developing and testing hydro climate models, and so I wasn't shy to zero in on how the model products fared in predictive skill compared to my predictions, which were based on lagged correlations.
+
+At this time around 2014, the models of C mip, which was the Coupled Model Intercomparison Pro project, uh, used to support the UN IPCC uh, policies. [00:03:00] Uh, those models were claimed to be very skillful. That's how there was so much traction for anthropogenic global warming is the scientists said that they modeled the past.
+
+climate accurately and then they made projections of future climate. But I read related papers and began to understand that the skill claim wasn't merited. In fact, the model results were periodically reset manually to ensure that the ENSO signature from observation was evident, even when the model did not predict the pattern.
+
+So since that time, um, I've been working on papers and things like that. And most of what you're about to see comes from the paper I've been working on with others on the conceptual model of the solar forest hydrospheric manifold. So let's see if I can move on. So here's a little bit of summary about me.
+
+I [00:04:00] think I'm a little bit of a grab bag, but I'm trying to be organized. So you have a vertical line here and it kind of, for me, it separates the time between 2012 and after 2012. Before 2012, I had already worked for decades as a hydroclimatologist. I was an expert witness for indigenous communities in fighting, um, unprotected uranium mining in the groundwater in northwestern New Mexico.
+
+So I received an award for a lot of the work where I... put myself out there to argue that they needed some protection for the groundwater from these in situ leachate uranium mines. Uh, I also have been an artist all my life and in Albuquerque I've done a few public art projects. Here's a poster I made for a bus many years ago and this picture on the left is a project called the Calabasista Royal Project.
+
+I quit my day job for two years to direct this [00:05:00] project which, um, You which worked with about seven low income grade schools throughout the city and several curators from several museums, and we built thousands of artificial fossils and line the walls of an Arroyo with it. So expert witness of a community.
+
+And paid by feds to find problems with climate models. That's really how I made my living for years. And so, um, I was a little surprised after 2012, uh, when I decided that I wanted to work on a PhD. I was getting tired about arguing with people about climate change. Um, I had been working in it, um, uh, aware of the...
+
+Arguments about global warming, but never convinced. And so I decided to kind of try to get back into the game publication wise by [00:06:00] 2012. So I decided to go work on a PhD and, uh, I attended the American geophysical union conference in San Francisco. 2012 and also 2011. And there's me out there, uh, with a poster on risk assessment and climate.
+
+But, um, I also attended talks that included Michael Mann and Naomi Oreskes and Judith Curry. And at the time, uh, cameras weren't allowed and I was sitting there watching these people talk, looking at the backs of their heads. So I decided to draw Kind of record what I was seeing. I was pretty much taken aback by these words, naysayer, denier.
+
+In this talk, this was some session at AGU, and one after another, people got up there and said that people, you know, are in denial about the crisis of global [00:07:00] warming. I wasn't familiar with hardly any of these people at the time, but I started paying closer attention. It seemed that over time, over the next 10 years, I did tangle with a lot of these people and, um, I was characterized as someone that I don't think I'm like at all.
+
+I mean, I voted for Obama. Uh, then I voted for Trump, by the way. So, I'm not political. I just, uh, want to prosper as a scientist, honestly. So, let's see. So, one of the main things I want to focus on is, uh, What solar forcing, uh, is and what it isn't and how it's been represented and misrepresented. So in the anthropogenic global warming positions and practices, I'm listing the main ones on the left.
+
+Uh, you probably think, most people probably think that [00:08:00] solar forcing is a constant, so it can't account for any climate change. And that ENSO is a natural phenomenon, not caused by solar. So here's an example from a recent paper. By Lou et al. And they show the pattern of El NiÃ±o This is what ENSO is all about.
+
+And, um, over in El NiÃ±o, the temperature warms up, uh, across the equator in the Pacific. And under La NiÃ±a, the temperature across the surface of the Pacific is colder. And, um, when the temperature is colder, some areas of the planet get drier and some areas get wetter. That's what ENSO is all about. It's trying to forecast what the weather's going to be like, uh, several months in advance, based on what they think is happening with this binary switch between a warm El NiÃ±o and a colder La NiÃ±a.[00:09:00] 
+
+And I'm going to get into that in some detail, but other claims by Anthropogenic Global Warming include that temperatures are driven by El NiÃ±o, La NiÃ±a, as well as CO2, as well as ozone. Floods and droughts driven by CO2. Fires driven by CO2. There's an ozone hole, and it's caused by chlorofluorocarbons.
+
+That's another claim in AGU. And so that's why, uh, if you look at the coupled chemistry models about this ozone hole, they also try to attribute that the chemistry here is also adjusting the temperature. And finally, the UNIPCC global circulation models constitute the necessary and sufficient evidence.
+
+That's what the claim is by AGW Promotions, and they seem to focus on modeling, much more [00:10:00] than on data. So, one of the things that I made a little footnote here, I just want people to be aware of, is All the promotions about fires that are being driven by CO2. 
+
+I took a look at, uh, the hermit's peak, Fire, which is New Mexico's largest wildfire in history. It's called a wildfire. The fact was, this fire was set by U. S. Forest Service personnel, and they use guidance from something called complexity science.
+
+Complexity science isn't a real science. But it's heavily promoted by a non accredited institution called the Santa Fe Institute, which is in Santa Fe, New Mexico, which was partially funded by Bill Gates and Jeffrey Epstein, partially founded by Ghislaine Maxwell's father, is my understanding. And so a lot of people belong to the Santa Fe Institute and they're [00:11:00] scientists and they work and practice in New Mexico and around the world, and they may have PhDs and expertise and aspects of systems engineering or, uh, all kinds of obscure, uh, scientific.
+
+Aspects. Some relate to biology. Some relate to pandemics. Um, a little bit relates to things like, uh, starting fires for controlled burns. In any event, the, uh, hermit's peak fire, uh, got out of control. It was set on a windy day. It got out of control. There was a burn plan. It did use complexity science and developing the burn plan.
+
+And then, uh, when all was said and done and the fire had burned out, Uh, it was blamed on climate change, directly blamed on climate change, and then Congress kicked in something like four billion dollars for remediation for the fire. This is really odd to me because [00:12:00] the fire took place, there were only a few hundred structures, uh, and I believe those people were already compensated.
+
+Anyway, complexity science rears its head quite frequently, uh, when I tangle with people about climate change. 
+
+, there's another camp that disagrees with AGW on everything.
+
+They're called lukewarmers. I'm not really planning to talk about them today unless someone asks me, but, uh, for the most part, um, uh, I have my own skeptical concerns, and they're not shared by the lukewarm community. Um, I think that solar forcing accounts for most, if not all, climate change, and that ENSO is a natural phenomenon that's caused by solar.
+
+And what I mean by that is, if you could see these pictures from before, they were... Of El NiÃ±a. This footprint is very distinctive, and you can see it [00:13:00] in this image, which I made. Now, so this footprint here extends from the west coast of the U. S. and Mexico, and goes all the way over to New Guinea. And it, um, it matches.
+
+The footprint of El Nino, but what it is, it's actually the lagged correlation of atmospheric moisture to sunspot numbers. It's a three year lag. So that means that three years after the sun hit a peak, for example, in its sunspot number 11 year cycle, three years afterwards, you can still see this pattern lingering in all of these areas that are bright red.
+
+Thank you. And you see an inverse pattern. These are negative correlations in these two wings. So these patterns are very evident. They seem to be forced by solar and there seems to be a really good reason for it. I've made [00:14:00] literally hundreds of correlation plots and I'm only going to show you guys a few, but this is the most important one to me because first of all, there is a site that was set up right here on a small island.
+
+To measure, um, atmospheric radiation, it's right at the center of all this, and there's papers that hint about solar forcing, but nothing like this has ever been made clear by any global circulation model, by any AGW enthusiast or promoter, but it's so clear that, um, I'm motivated to make sure that everybody understands what this is and what people are saying and why they're wrong.
+
+So. This is a correlation of sunspot numbers to atmospheric moisture, but I have other figures and I'll show you soon about the same thing for temperature. And from past work I've done, floods, [00:15:00] droughts, I am a hydrologist, and so a previous paper, which I'll touch on, will show you some of the amazing correlations between sunspot numbers and stream flows.
+
+And then It's ozone is very important. It's been something I've had to follow because of all the literature and the papers and after a while I started working up the data on ozone and you can see that ozone also is driven by the sun and that it's highly correlated to moisture. And there doesn't appear to be anything resembling an ozone hole.
+
+Um, finally, one of my other positions, as I noted, the global circulation models which are being used are defective. And the history matching model skill is fraudulent. And so impacts were pasted into the GCM model results. In other words, the models couldn't simulate these patterns, so they just took observational data and slapped it into [00:16:00] their model and acted like the model had produced it.
+
+I know it sounds crazy, uh, you'd have to ask them, and when I ask about these things, um, it doesn't go well for me. Um, so. But I do ask and I do publish about it, and I do speak out about Enso. So, uh, since I first spoke out about this Enso fake result issue, uh, the new Exoscale models that come out to model global circulation, they don't even bother to try to match Enso anymore.
+
+There's no mention of Enso. They just, uh, run their models and they don't have to deal with that problem anymore, I guess. And, um, but they are kind of making baby steps towards incorporating solar forcing. In the past, they said that, uh, you know, they had this story about ozone, uh, caused by chlorofluorocarbons, you know, released [00:17:00] by, uh, human activities.
+
+But now, they actually are moving towards using the sun to drive ozone in their models. But not to drive T or atmospheric moisture. And by the way, all of these models... Seem to be lacking in any kind of QA or quality control that I'm aware of, um, you know, if you do work for the feds and you publish it, you're supposed to go through quality control, you're supposed to be transparent and get it published.
+
+And these things don't seem to be happening with global circulation models. So again, did I say that solar force is ENSO? It does. So I'll return to this picture every once in a while to create a segue. Here's an example of solar forcing of ENSO from a paper I wrote and published in 2019. It went through two years of peer review.
+
+Here is a time series starting in 1950 and the yellow [00:18:00] curve is sunspot numbers. It's a I think all of these are five year averages and you can see that there was a big peak in 1960 and some spot numbers and then dropped in the mid 70s. And then there were these three really now for Periodically declining peaks in the solar cycle and one of the largest peaks just happened to be at the beginning of the satellite era, right around 1980.
+
+This is a five year average, so I don't capture the exact year when this kicked in now. Superimpose underneath the sun signature is this black line, and that black line is identified as trade winds of the Western Equatorial Pacific. It's actually a parameter that's part of the ENSO Uh, cannon of data that they monitor and it seems to [00:19:00] fit pretty well with solar forcing, although it develops a lag towards the later years.
+
+And then the white line is negative outgoing long wave radiation. at the same location. That's also an ENSO parameter. And the blue line is negative divergence of Latin energy at the same location. Once again, another, um, aspect of ENSO. And the pink line is a Southern Oscillation Index, uh, which is kind of outside of, uh, it's on the border of ENSO because it's part of the ENSO acronym.
+
+In any event, I wrote this paper in 2019 and I was really focused on trying to show and learn how the sun may drive stream flows, but there's no stream flow shown in this image because this was one of the, the first time series I made for that paper.[00:20:00] 
+
+Just to kind of set the basis, I inadvertently showed that the sun seems to be driving ENSO, but the big, uh, Focus on my paper was a forecast I made of stream flows in the western USA, which turned out to be accurate. So ultimately, with the work that I do with solar forcing is trying to understand, um, all of the past literature about Hadley circulations and Brewer Dobson, um, how these, uh, circulation shift meridionally and ocean currents, how these things all play out.
+
+Uh, to affect the climate as we know it, including this inset here. This is a map of ocean currents made by the U. S. Navy in 1946. And I rely on it a lot, to be honest, because it's very helpful. It shows ocean currents around Antarctica. It shows the Peru. upwelling current [00:21:00] here in green. The green currents are cold and the red currents are warm.
+
+So, in any event, I can kind of jump ahead and tell you what I'm going to be talking about, and that is that, see this pink line here? This is meant to represent the Peruk upwelling current coming up along the west coast of South America. This current, which is colder, it has a lot of CO2 dissolved in it, because CO2 dissolves in cold water more than warm water, and as it moves north and empties into the equator areas, all that CO2 is released, which we'll talk about.
+
+But also, as this current gets colder or warmer, Enso gets colder, Enso changes. So these Enso patterns of warmth and cold people talk about these, like they're, they don't have a clue how it happens. It's, it, it's not [00:22:00] understandable, it's random or something, or there's all kinds of internal oscillations going on.
+
+I think the answer is really, it's just this, it's this cold current coming up. And as the water in the equator gets colder, then you have less evaporation, and then you have less rainfall in other areas. And as the water in this area gets warmer, then you get the opposite. So here's basically a, uh, conceptual model of what, um, I'm talking about.
+
+Peru current over here. So this is 60 south latitude. Here's the equator. Here's the edge of the intertropical convergence zone. So this figure is adapted from my 2019 paper, but it's a little different. Here you're looking at high TSI, total solar irradiance. And so you have enhanced convection. And you have enhanced [00:23:00] albedo because of the clouds grow, uh, because of greater convection.
+
+And you probably have an enhanced Bruer Dobson circulation at the North Pole. Now the Bruer Dobson circulation, I put a lot of time in, probably not enough, but the Bruer, I'll, I'll talk about the Bruer Dobson circulation soon. But the concept that I had that I've explored in 2019 to this day with others, is that under high TSI, it looks like this.
+
+You have greater convection here, you have greater flow through the Brewer Dobson circulation towards the North Pole, and you have a contraction of the Hadley cell. And because it's moving towards the equator, you get cooling. So, Ironically, with greater total solar irradiance in the northern hemisphere, you get some cooling and [00:24:00] the Peru current is warmer because there's more sun.
+
+And so that is what's helping to really feed this convection. Now I'm going to jump to the next slide, which is very similar. But it's for low TSI. This is low. So again, here's high, here's low. So things are different. Under low TSI, the Peru current is not as warm anymore. So it's not contributing the, the necessary heat to amplify the convection in the equator.
+
+So the Peru current is diminished, the equatorial convection is diminished, and the albedo is diminished. Meanwhile, the Ruridopsin is diminished as well. You have less polar air downwelling into the equator and pushing out to the lower latitudes and that creates, you could call it, I'm not going to call it a [00:25:00] vacuum, but it creates an opportunity and the Hadley cell expands to the north and that means these areas are getting warmer.
+
+So that's the conceptual model. It was very similar for my forecasting one. Now the reason that I Kind of focus on the Peru current in the southern hemisphere, and I don't focus on ocean currents in the northern hemisphere is because the North Pole is an area that's an ocean surrounded by land, and the South Pole is a An area of land surrounded by ocean and the temperature trends are different in the Northern Hemisphere.
+
+This is all the warning that you see for a geostrophic representation. And by that I mean a full atmosphere approximation. So I'm getting the average temperature trends [00:26:00] for the entire thickness of the atmosphere over the entire planet. And if you do that you get a very distinctive signature of cooling over Antarctica.
+
+And warming over the Arctic ocean. And I'm going to, I'm going to just warn you or tell you what, what the reasons are, or the reasons seem to be, but before I say that, no one cares, by the way, right? Because everybody, if you're an AGU person or a LUCORN person, nobody talks about this bimodality, this binary shift in, in, uh, temperature patterns.
+
+I, I don't know why, but I'd like to try to understand why both are happening. And these conditions seem to reflect that when the sun cools, Antarctica cools. There's no moisture that can get into the atmosphere to release Latin heat to keep it warmer. But when the [00:27:00] sun cools, the Buradopsin circulation diminishes, and there's a meridional transport of moist air right into the Arctic.
+
+Thank you very much. Which is creating a lot of heat.
+
+These are surface representations of the same thing on the left. Prior, this was geostrophic, so I averaged over the full thickness of the atmosphere. When you look at, um, the surface, uh, You see something somewhat different. You see a concentration of heat within, primarily within the Arctic, where over here it was all over the map.
+
+There's still warming here, but it's much milder in the mid latitudes. These white contour lines are the zero trend contour line. So anything outside of the zero trend is either warming and anything inside is cooling
+
+And the [00:28:00] animation on the right, it should be animated. There it goes. It's just a before and after plot looking on the North Pole of surface specific humidity, not temperature, but it has a stream slices. So basically I'm intersected the, uh, the flow regime of the planet and showing the The average circulation directions of air parcels, uh, through these arrowed lines, and they're pretty fascinating and very distracting to be honest, but they, uh, towards the center, you can see there's a lot of air that converges right at the pole, and then there's air that diverges.
+
+outside of the pole. So this is part of a very intricate, um, manifold of flow, which I've been looking at more and more, uh, lately that relates to the brewery [00:29:00] Dobson. But basically what you see here is that in 1979, the, the redder warmer areas, Are further away from the pole and in 2018, everything seems to be closing in around the pole and that is reflected by the trends because that's what these are.
+
+These are trends. showing that it's warming up in the Arctic. And what this helps to show is that that a lot of that is about circulation. Once again, meridional circulation shifts, pushing up towards the North Pole. And then there's divergence of Latin heat. So when this moist air comes up to the Arctic, When it condenses, it releases a lot of heat, and this heat is evident, and not only that, it's well discussed in a lot of literature, but all that literature, um, is kind of firewalled from the AGW promotions.
+
+[00:30:00] It's kind of inconsistent in their own, their own work. Now, okay, now next, this is what's really, uh, been my main focus. Lagged correlations. to sunspot numbers. So you're going to see a series of maps in which I'm looking at the correlation between temperature at layer 11, which is still in the lower tropopause, and sunspot numbers.
+
+They across the planet. And so there's no lag in this case, this particular frame. And so the highest correlations between sunspot numbers and temperature at the surface of the planet is down around Antarctica, as you can see where most of the red is. And then there's some negative correlations up here in the arctic and watch what happens as I advance the next year.
+
+The [00:31:00] next year will be a lag of one year and then there'll be a two year lag and a three year lag because in my 2019 paper I identified that there is basically a three year lag between sunspot numbers and changes in the climate, basically. So here's a one-year lag, and you could see that the correlation has moved up.
+
+It's kind of following the same trend of of Enso, and here's a two-year lag. The uh, Enso pattern is, is evident, but this is just lag correlation of temperature to sunspot numbers. Here's a two year lag. Here's a three year lag. And now by the fourth year, the correlations seem to diminish everywhere. Same thing for atmospheric moisture.
+
+Once again, zero year lag, but this is now atmospheric moisture, specific humidity to be, uh, clear. And these [00:32:00] little spots and nodes there for other things. But as you can see, once again, the highest correlation is at the Antarctic. And then it progresses with one year of lag, two years of lag, three years of lag, and by the fourth year of lag, it begins to diminish once again.
+
+And so these are the direct evidence of solar forcing of temperature and moisture across the planet, completely ignored by every other scientist out there, I guess, except the few that I'm working with. So now let's jump around CO2. I've been... Looking at CO2 quite a bit. Um, I have to kind of, in my paper, if I'm going to push that the sun is driving climate, I have to explain why CO2 isn't, or at least to some extent, I have to point out some aspects of that.
+
+So I've been looking at CO2 data. Sure, I look at papers too, but I like to work up the data. In this case, I took some data [00:33:00] from surface CO2 developed, um, by a lot of ocean, uh, research vessels. Um, over time to develop, uh, kind of a map of how much CO2 is going into the ocean and how much is going out. Most of the papers are talking about CO2 going into the ocean.
+
+That whole narrative is saying that we're pushing too much CO2 from smokestacks and tailpipes into the air. And there's so much CO2 that it's, it's getting forced into the ocean and acidifying the ocean. And killing fish and shellfish and the like, um, and there's a whole story there and, uh, maybe another time we can go into some more detail, but, um, a lot of that is kind of tied into early days when they would measure ocean pH, but looking back now that I've had access to this data, looking at these newer papers, this, this paper is from [00:34:00] 2017, um, um, I worked up the CO2 data and on this example here on the left.
+
+You can see a plume of CO two associated with that Peru current when it enters the equatorial waters, uh, the dark area. And, um, this is just for a representative month that I picked. This map shows the trend of CO two from all the data that they had, and it shows that the greatest increase in CO two across all the oceans is once again, right here, right where that Enso footprint is.
+
+None of this is, uh, clearly spelled out in this, this paper or other papers, but if you know what to look for, you can see it there. Having the data really helps, and knowing how to work up the data, of course. So, I've also compared, um, AIRS data, which is from NASA. See, this, this data is, maintained by the Max Planck Institute and it's surface [00:35:00] data.
+
+It's not from satellite. This CO2 data, and you're not seeing the CO2 data yet, I'm showing the correlation of AIRS CO2 data. So AIRS is a, uh, a program by NASA Jet Propulsion Laboratory to look at CO2, uh, from a satellite setting and also temperature and some other parameters, including humidity. But I took the AIRS data that was available.
+
+And I, I, uh, correlated it, or I made a map of correlation to the specific humidity from the, from the other satellite data, ERAI, AI, which is a European reanalysis. interim data. And once again, you can see the ENSO pattern somewhat, but what you really can tell is that there's a really high positive correlation of atmospheric moisture to CO2 in the atmosphere in the mid troposphere.
+
+And then there are other bands where the [00:36:00] correlation is strong, but it's inverse. And then there's a generally high correlation of CO2 to specific humidity. Um, across the Arctic. I can't say anything about the Antarctic because the Ayres data is cut off at around 60 south. Um, It's kind of a curiosity about why it's cut off.
+
+In any event, um, here is some more AIRS data. In this case, I'm correlating the same AIRS data to winds, uh, at the elevation in the mid troposphere where they're measured. And once again, you can see really high correlations in the general ENSO area between CO2 and winds alone. Also, across the Arctic, again, there's high correlation between CO2 and winds.
+
+And look over here. This... This plot, this map I didn't make, this came from Pagano and other AIRS researchers, and it's just the CO2, uh, as [00:37:00] measured by AIRS for the average condition in May, and the highest CO2 is in the northern hemisphere in May, um, Greenland is interestingly low, well, May follows a period of several months of really strong winds, So I'm glad I made this plot to show that yes, it seems like winds are accounting for a lot of the CO2 in the Northern Hemisphere.
+
+Probably winds that have picked up upwelling ocean CO2, but I don't know because, you know, the data is kind of hard to unravel everything. But one thing is very notable, um, when I read this paper, which came out in 2012, is that the highest concentration of CO2 is in May in the Northern Hemisphere. And factories don't stop producing CO2 every other month of the year, and cars don't stop [00:38:00] driving.
+
+It's a really strong seasonal signature. I could talk about this figure, probably for hours because there's also other evidence of plankton sucking CO2 out of the air in these blue zones. Um, there's some really good papers about this. They're all kind of left out of the narrative about CO2. So when you do look at the data, I can probe different locations.
+
+So for example, I took this little spot here and I worked out the time series over time about how the CO2 is going. So here's a time series map of CO2 from that location in the Peru current, and you can see even in the early 80s it's higher than the CO2 measured at Hawaii at the Mauna Loa station. Well, this isn't the Mauna Loa station, but it is that Hawaii from the same data set.
+
+And here's the average CO2 over the ocean surface over time. So you can see that all these [00:39:00] people talk about CO2 like it's some global averageable. concentration, it's ridiculous. CO2 is all over the map and there's areas not far from Hawaii where the CO2 is much higher. Now I'm a hydrologist and I look at transport of dissolved constituents and fluids.
+
+And you know, when I see this, I'd say it looks to me like the CO2 is coming out of the ocean and then drifting over to Hawaii, places like that. That's really what I think you see here. And the CO2 bean counters. They totally hide this. I'm telling you, they hide it. And it's pretty elaborate how they go about hiding it, and I can't get to the bottom of it yet.
+
+But I can kind of move ahead and say, if I just look at the natural signature, I can maybe make some inferences about how the sun relates to those as well. And so I've made [00:40:00] these two, I've made, uh, uh, two frames. You'll see as I go back and forth on these two. Is I'm trying to show a conception of how CO2 and ozone circulate around the planet, and under high solar forcing, you get more ozone produced in the stratosphere, and that ozone falls.
+
+This is not well known either, but ozone sinks because it's heavier than air, and the evidence is very clear that it's created in the stratosphere, and then it sinks and flows down mountains into the sea, and it dissolves in moisture. So, there's a lot of things about ozone that seem way simpler than the, than they're presented.
+
+And CO2, I'm showing that in red arrows. CO2 also goes into the ocean, mostly because it's fixed by phytoplankton. There's just so much phytoplankton and there's so much ocean. Uh, I know that [00:41:00] the rest of the planet, the terrestrial part with all the plants, you know, they're, they're big producers of CO2 and, but even that CO2 ends up in the ocean sooner or later through runoff.
+
+So what I'm trying to show here with this plot is that CO2 goes in and then it upwells out of the ocean. When currents come that are colder, the CO2 can't stay in solution and it degasses. So that's what you're seeing here under high TSO, TSI, high ozone. and decreased CO2 upwelling from the Peru current because the Peru current is a little bit warmer.
+
+And then, by the way, this is draft, so I'm just speculating here. And under low TSI, there's a lower ozone. So high, low. But under lower TSI, you have more CO2 upwelling. And, um, as I've shown, it's It's because [00:42:00] the Peru current is colder, and so it has more CO2 in it, so when it reaches the equator, it releases more CO2.
+
+That's in theory. This is a speculative, conceptual model, by the way. Now, I thought I might as well go ahead and see, does solar directly correlate to CO2? Because before, as you could see, I was looking at these correlations. CO2 correlates to moisture, and moisture correlates to solar. So I've already made a case.
+
+But is there a direct correlation? And there is. I just put this map something like this on Twitter just yesterday. I've cleaned it up just a little bit, but it shows that the highest correlations of CO2 to sunspot numbers are down here, these white contours, which is negative 0. 4. So as solar forcing [00:43:00] as the sun diminishes, Um, CO2 concentration goes up, apparently in this one, and when the sun goes up, the CO2 concentration goes down, so I don't have an answer for everything I look at, but I do recognize that there is a correlation to the solar down here, and we don't have all the information because the map cuts off at 60 south, so there would be data south of here Uh, for the Antarctic, that would be very interesting to feed into this plot, but we can't have that data, at least not right now.
+
+And jumping ahead to ozone, I guess I'm almost done by the way. Um, these are some of the assets I've looked at from, for ozone, and this In this map you can see here's the Himalayas, here's Saudi Arabia, Europe, and the ozone concentrations [00:44:00] near the surface, and their highest over the high altitude areas.
+
+And you can see Suggestions that ozone is flowing down along the streamlines. I have many other plots like this, but that's my interpretation. And I also worked up a correlation between stratospheric ozone and solar cycles. So here's solar cycles, and here's ozone in blue. And you can see they trend similar and they have a mild, uh, mildly significant correlation.
+
+Um, also, uh, there are publications that show that stratospheric ozone is correlated with the sun. So I have some ozone animations I could show you if my computer doesn't crash, um, but I'll save that for when we talk. So once again, did I mention solar forces ENSO? And the models misrepresent that. Why, why is there so much misrepresentation?
+
+I, you know, I keep coming up [00:45:00] against...
+
+ocean acidification as promoted by people that are really above my pay grade, wealthy, powerful. Wendy Schmidt, she's part of Google. Her husband was chairman of Google, if I'm not mistaken. And when I started complaining about data from ocean pH, which I haven't gone into, I really got a lot of pushback. It affected my career, affected everything.
+
+So I've paid attention to the Wendy Schmidt Ocean Health X Prize, because it was a prize that was developed to improve the glass electrode pH meter, and there's no need to improve the glass electrode pH meter, it measures other things. You know, it helps to identify if the oceans are acidify or not. So, anyway, we don't have to go there right now, but I just wanted to share that my direct experiences relate to this Ocean Health [00:46:00] XPRIZE and to Ocean Upwelling.
+
+They're all connected. My other area relates to... uh, an aspect of New Mexico, like these fires that were, uh, started and blamed on climate change through complexity science, which isn't a real science. Um, and, um, also here in New Mexico, uh, it's one of a few states that have an ongoing litigation, I guess, planned, I don't think they've ever actually litigated.
+
+against big oil and the, the litigation. Is being developed at the New Mexico Attorney General's office with the help of lawyers from New York University, who are funded by Bloomberg. And so, I've tried to reach out to [00:47:00] the Attorney General's office in the past and say, Hey, you know, I think you guys are wrong and it's affecting my business.
+
+But, um, nothing happens. All of these people that push global warming and ocean acidification. There's no, um, there's no vehicle or there's no platform to argue with them. And when I try to argue, uh, in places, I'm usually shut down. Uh, one, there's always a way to shut somebody down, believe me. So I'm very grateful for...
+
+Twitter and for Tom Nelson, by the way, and Jasper for listening to me. And you don't have to agree with everything I say, but my, you know, my hope is to let people understand that, um, it's really the sun. We, there's nothing we can do to change the climate unless we change the sun. And people are talking about that [00:48:00] now.
+
+So I'm quite concerned that people are. exploring different ways to dim the sun, and this, where they don't seem to understand anything about the sun. They don't, none of those people know this. And when you look at this, when you look at the sun, its pattern moving across the planet over a few years, it's kind of like irrefutable in my view, that the sun is, is causing what we're seeing.
+
+And that's really all I have for today, but um, I can answer questions. All right. Very good. I do have 
+
+Tom: a few questions and that's good. You have this image up right here. Actually, let's leave that one up. Uh, is there anything magical about where that star is, or that just happens to be where, uh, it happens to be the West end of the El Nino type of action?
+
+Well, 
+
+Mike: that I place it there because that's the location of the U. S. Department of Energy's
+
+And I just thought it was interesting that they [00:49:00] actually had a site there. I didn't know about that. And it's right. It's supposed to be measuring atmospheric radiation. It's right at the nexus of the most important part of solar forcing. But you never hear anything about the solar part. So there's hundreds of papers that they've sponsored about what's going on here.
+
+And all kinds of little distractions and details, but the big picture is completely missing. And so I just wanted to bring this out because I'm a big fan of the department of energy, by the way, and I've done a lot of consulting for them indirectly and directly at times, and I've learned a lot by working for them, but.
+
+But this part seems to be some kind of silo or stovepipe about information because, and, and, and they're the ones that fund this site. So, um, I just bring it up because it helps kind of shine a light on that. [00:50:00] 
+
+Tom: Okay. And knowing what you know, are you able to predict El Nino or La Nina in advance in any way or it's still a surprise when they're coming?
+
+Mike: I believe I can. I'm quite interested to do so. No one's paying me to do so yet. So, um, uh, you know, I think I already, I may have already predicted one because Well, I wouldn't have called it that, but when I was trying to forecast those stream flows in the Rocky Mountains... I first, I look at what happens here.
+
+So the sun affects winds and, uh, uh, mainly winds, uh, divergence of Latin energy, outgoing long wave radiation, but it affects winds here. And there's even a lag to that, obviously, and then there's another year or two of lag to what happens over here in southwestern U. S. So [00:51:00] I actually accurately predicted stream flows here in northern New Mexico three years in advance.
+
+Five year average stream flows. I was really proud of that, and I thought that was going to help me get some business, too. But, you know, basically, everybody and their mama believes in global warming. And there's so much modeling, and there's so much expertise, so much media attention, that I just couldn't advance there.
+
+But when I was predicting stream flows here, I had to predict part of ENSO here. And, um, I'm happy to go back to predict ENSO, you know, and here's the thing about ENSO, by the way, see, it's like a wedge, like a triangle. And within this wedge, there's about 14 different parameters that the El Nino scientists look at.
+
+They're in different locations. So no matter what happens, they're going to [00:52:00] point to one of these spots and say, Oh, yeah, I predicted this or that. 
+
+So the thing about El Nino and La Nina having 14 different parameters, that means they have 14 different opportunities to try to match whatever happened in the past. So it kind of gives them a lot of wiggle room to act like they know something about El Nino. The thing is that, you know, the sun is clearly correlated, clearly.
+
+And so, um, these are questions that need to be asked about all the El Nino and La Nina experts. You know, the Enso people, there is, you know, first of all, I should be clear, this is the correlation of sunspot numbers to atmospheric humidity, and it creates an El Nino pattern. Now, what happens is, you know, this humidity pattern affects Temperatures like in the Southwest U.
+
+S. and moisture and that takes a few months for [00:53:00] any diffusion and things like that to work their magic for moisture to get up here or for moisture to get away from there. And so the whole thing about El Nino is. And La Nina is they look at this warming and then they make an educated guess about how it's going to affect things that are kind of on the border of the ENSO pattern like the U.
+
+S. or Australia for that matter, which seems to have an opposite impact. I'm going to, by the way, I want to throw in one more thing, Tom, if you don't mind, that's marginally related. It's kind of important because people don't really follow it very much. Here's a correlation of temperature to specific humidity, that's all I'm doing here, and it's Australia, so it's just a good example that most of Australia is relatively very dry, as this is a negative correlation in dark blue, and it's just saying that as temperature goes up, [00:54:00] specific humidity goes down, but across the oceans, You know, the correlations are very high.
+
+Look, it's 0. 8, and that means this temperature goes up, humidity goes up, uh, and so if you have plenty of water, then you have a pretty straightforward correlation and pattern between temperature and specific humidity. But in terrestrial areas or continental areas, it usually ends up being the inverse.
+
+But it varies quite a lot between where you are on the planet. So, um, that's why I make these maps and look at the specific humidity. So when people talk about temperature going up and humidity going down or vice versa, they really need to be specific about where they're talking, uh, in relation to.
+
+That's my opinion. 
+
+Tom: Okay, I do have four remaining questions. Um, knowing what you know, uh, do you have any predictions that globally [00:55:00] what might happen to the temperature between now and 2030 or 2050? Or can we not predict what the sun's going to do? 
+
+Mike: Yeah, I don't think we can predict what the sun is going to do except, you know, 11 or 12 years in advance.
+
+Um, I do know that a lot of people would like to predict what the sun's going to do beyond that. And I, I think that blogger, Roger Tallblok, I don't know if you know him, but he's been on my 
+
+Tom: podcast. 
+
+Mike: Yeah. Yeah. I think he's a physicist and he actually had worked with a guy on a paper. Who was trying to forecast sunspot numbers like 100 years into the future, and it was intriguing, but I don't think it works.
+
+I don't know. You know, we still have a lot to learn. Naturally, um, you know, a lot of people think that sunspot numbers may be a Sunspot[00:56:00] 
+
+numbers. Has a 12 year, um, it's a 12. One of Jupiter's years is 12 Earth years and the sunspots have about a 12 year cycle. And so there might be things like that, but no one's actually been able to successfully forecast sunspot numbers, um, in advance. 
+
+Tom: Okay, I dropping back to something you just mentioned earlier.
+
+Do you think that the Montreal protocol has anything to do with the alleged ozone hole? Because there's a narrative that that fixed the ozone hole. It sounds like you're not a believer in that narrative. 
+
+Mike: I don't believe it at all. I mean, I think I understand how it developed. I think people, you know, as they were learning more about the brewery dobson circulation and they were using ozone to try to look at, um, Um, To try to understand the brewer dobson ozone and brewer dobson are kind of late in terms of their past [00:57:00] research.
+
+I think it was a spurious correlation that led Molina and the other researcher to finger. CFCs, chlorofluorocarbons. It's very spurious, right? Something goes up and you're saying that this goes down. And, um, you know, they, they, they worked out some stoichiometry and wrote some equations and people found some CFC in the atmosphere.
+
+And everything else just, uh, snowballed. Now, these are quite interesting. This top animation for January is showing meridional motion of atmospheric moisture in the tropical troposphere below 11. 29 kilometers. And above that is the stratosphere and there's Very low moisture, of course, in that area, and in this ozone animation at the same time here, it shows that most of the ozone is produced in the stratosphere, of [00:58:00] course, and most of the ozone disappears once it reaches the tropopause, once it passes the tropopause, which is this line right here, and so what, and this is a log scale, by the way, again, and so what you're seeing is that some ozone does Get through, but it's really the moisture that's destroying the ozone.
+
+There's no CFCs involved in this. CFCs can't be observed. There's no, there's hardly any evidence of anyone finding CFCs in the upper atmosphere. There's a couple of planes that went up there and did some graph samples and claimed to have seen some CFCs. But the CFCs are heavy. And so, just like ozone, they sink.
+
+You can find CFC contamination groundwater, for example, because the CFC is a heavy molecule, and if it gets out in the environment, it'll fall to the ground and then fall through the pores down to the water table, and it's, it's a heavy [00:59:00] gas, but it's still lighter than water. So they find slicks of CFCs In contaminated groundwater at times, but you never find it in the stratosphere that I know of, and it can't attribute this massive destruction of ozone constantly by moisture.
+
+Do you know who Tim Dunkerton is? I do. Yeah. So he's a guy that I don't know personally, but we do communicate a lot on X and he knows a lot about ozone and the brewery Dobson. He's quite smart and helpful with me to almost a mentor in some ways. And when I talk about these things, but, you know, um, he's written some papers about brewery Dobson circulation, which relates, and so, um, uh, he also.
+
+Doesn't appear to believe in an ozone hole. I think he has different reasons. So I can't speak for him, of course, but if you want to interview him, that might be [01:00:00] interesting. I 
+
+Tom: would. So just so that I have this correct, am I correct in thinking that whatever the ozone hole was doing during this scare, it might have been doing similar things way before the pyramids were built?
+
+Is that 
+
+Mike: correct? Yeah, forever. I think as long as there's been a planet with moisture, There's been, there's been ozone on our planet, 
+
+Tom: two more questions. Uh, next one is, um, do you think that I'm looking right now at the Keeling curve that's published online and, um, do you believe that data is really as smooth as they're showing us that's, that's part of the question.
+
+And then also, do you believe in this whole narrative? That, uh, bubbles in ice in Antarctica show us that CO2 was basically pegged around 280 ppm for thousands and thousands of years until we started burning fossil fuel. 
+
+Mike: So your Keeling curve, which is, I guess, CO2 at Mauna Loa, this [01:01:00] isn't quite that, but it's pretty similar. This is, uh, this is the equivalent of your curve. This is Hawaii CO2. And so you can see it's been going up. It's below three 50 and now it's. Pushing 400 or above 400, and they're not exactly the same thing because the monologue is measured at the top of, uh, Uh, the mountain, uh, in Hawaii and 13, 000 ft.
+
+And this measurement is at the surface. This is interpreted at the surface. But, um, see this plot, this is what I'm saying is that, um, there's a lot of CO2 coming out of the ocean. And depending on where you go to measure it, you'll see, uh, trends that CO2 is going up. I think CO2 is going up because it's.
+
+There's more CO2 coming out of the ocean and there's less CO2 being [01:02:00] absorbed by plankton. I mean, I'm just speculating at this point, but, um, when I made these. When I was working on these plots, I'm saying that, you know, the sun has diminished over time. Sunspot numbers have gone down, and I'm arguing that you get more CO2 upwelling from the current as a result of just a purely natural result, and that when the sunspot numbers are higher, you get less upwelling.
+
+And so this curve, I don't ask anyone. You know, I can't prove anything, by the way, that's why we write papers and argue and speculate and things like that, but that's my feeling about it is that all of these curves of CO2 are mostly driven by ocean processes and that the amount of CO2 that they're measuring from your [01:03:00] factory output, things like that, they're just, they're, they're not significant.
+
+Compared to ocean. 
+
+Tom: Yeah. So I just wanted to point out in that black curve at the top, it kind of looks like there's a hiatus from maybe 95 to 2000, whatever, uh, eight or something. Uh, and there's that big drop of over 100 PPM. Why is none of that stuff in the, uh, the Keeling curve or that orange one? Is it all homogenized away or why does it look so different?
+
+What's going on? 
+
+Mike: I don't know. I don't know. I, you know, when I make plots like this, I, I like to come up with questions. What's going on? You just asked a good one, you know, and so I, all I can tell you is that, you know, if you look, it depends on where you take that measurement of the time series. So I just, I just, I just went to this spot with my data set and I said, I'm going to look what the time series looks like from this spot because I can do that.
+
+I could go to [01:04:00] this spot. I could go here. I could go there. You know, Hawaii is over here. So I just picked a spot at random and that's how I came up with this. I could, I could try many other areas and I could do a whole workup and, you know, show how all these areas are trending going up and down. It's a lot of work though.
+
+So, you know, ultimately, there's a lot of questions about CO2. I, I'm only suggesting that most of the CO2 seems to be coming from. Wind driven ocean upwelling, and I'm looking forward to getting paid to do more research on it and geospatial research, but you know, nobody's interested. And by the way, I don't mind mentioning, I did have an opportunity, I thought it was an opportunity to study this.
+
+From a, uh, you know, uh, an organization that would be a client and I [01:05:00] asked, you know, are you guys interested in natural CO2 and looking at the, you know, the cycling of natural CO2 and they're not, you know, there's only money to quantify the amount of CO2 coming out of your tailpipe and things like that.
+
+Tom: So do you have anything, though, specifically to say about that whole Antarctic question that supposedly for the last 800, 000 years are the bubbles show us that the CO2 down there has been pegged it around very close to 2 Do you believe that? Or maybe that's fluctuates a lot more than we think it does.
+
+Mike: I can tell you this much is that, um, a lot of my time is spent looking at, uh, isotopic paleo, paleo isotopic studies. And that includes looking at bubbles and ice cores and, and things like that. And, um, you know, I, it's not, but, but CO2 [01:06:00] in particular, these bubbles, I haven't really looked into that. Um, you know, and by the way, when you, as you notice from these, You know, the data only goes to 60 south for co2.
+
+We don't even have, you know, maybe people have collected a few ice cores from parts of Antarctica, and they've made these broad conclusions, but we don't even have satellite data for co2 across Antarctica. There just isn't any, and the satellites are there. They're spinning around the planet. They're capturing information.
+
+Nothing's getting published. So I think everything going on in Antarctica with regard to CO2 is a mystery. This isn't Antarctica down here. That's just the Southern Ocean. Antarctica's down here. And so, um, but if, get me started on paleoproxies, I could talk for hours.
+
+And, um, you know, the whole thing about interpreting ice cores. Very, [01:07:00] very related to the work I'm doing and the question about ice ages and what's triggering them. And, um, you know, people, I'm familiar with the arguments. People say CO2 is down. And then we had ice ages, right? That's kind of the argument.
+
+And that, um, uh, skeptics, a lot of skeptics will say no. Um, The temperature went down first and then the CO2 went down. You could see that in the cores and that seems to be true. That's what people seem to be agreeable about. And so a lot of people would interpret it. That mean is that CO2 is more of a function of temperature than temperature is a function of CO2, right?
+
+And Uh, to me, I think, you know, temperature and moisture are very, you know, intricate and you have to be [01:08:00] careful about how you correlate them. And I think they're both really driven by this whole solar circulation issue. It's just a different kind of paradigm to think about CO2 from. 
+
+Tom: Have you had a chance yet to have your work reviewed maybe by Willie Soon or the Connellys or, uh, Will Happer?
+
+Mike: Uh, not that I'm aware of. I don't know if they've ever read my paper, the one in 2019. You know, that's the one that first established Solar Drives ENSO. Uh, people like the people you mentioned, I mean, they are researchers and they write publications. And they talk about solar forcing, but they don't say anything about the kind of solar forcing I'm talking about here.
+
+Um, I think they would benefit to read my paper, and if they disagreed with it, then they're happy to, I'm happy for them to call me, or I'm happy for them to write a paper, and then they could talk about it and we could have a real debate again. [01:09:00] 
+
+Tom: All right. Sounds great. Any final points you'd like to make before I let you go?
+
+Mike: No, I just want to thank you again and thank Jesper again. I really enjoyed reading Jesper's tweets and, you know, that's kind of my thing too, is like, why are people trying to stop, to shut down energy? I don't get it. And, um, uh, you and Jesper both are voices of fresh air and I really appreciate it. So keep up the 
+
+Tom: good work.
+
+All right. Thank you very much. I really enjoyed hearing from you. I hope to do this again. Mike Wallace, we'll talk to you next time.

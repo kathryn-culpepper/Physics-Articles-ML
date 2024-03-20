@@ -1,0 +1,17 @@
+Electromagnetic Accelerator
+Recently a proposal for electromagnetic acceleration has surfaced:
+
+&quot;Since there has been such a long wait for a conclusive equation describing EA theory, here is an approximate formula for large-scale bending. To find this, I took the limit of a much longer and nastier expression as x approaches infinity, so this will only work when y is much greater than x - that is to say, when the vertical distance travelled is much greater than the horizontal distance travelled. Put another way, its accuracy will improve the closer the light ray is to vertical. Therefore, it is not valid for short-range experiments such as the one proposed by Sentient Pizza, but it can give an idea of how much sunlight would bend on its way to the Earth, for instance.
+
+Definition of terms:
+
+x, y - co-ordinates in the plane of the light ray, where y is increasing in the direction of fastest decreasing Dark Energy potential, and x is increasing in the direction of the component of propagation of the ray which is perpendicular to y.
+
+c - the speed of light in a vacuum.
+
+β - the Bishop constant, named in honour of the great Flat Earth zetetic Mr. Tom Bishop, which defines the magnitude of the acceleration on a horizontal light ray due to Dark Energy. When the theory is complete, attempts will be made to measure this experimentally.
+
+The equation itself is:
+
+Image
+Where (0,0) is understood to be the point at which the light ray is horizontal (that is, the derivative of this function is zero).&quot;

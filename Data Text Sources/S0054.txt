@@ -1,0 +1,56 @@
+Dilution Factor
+ 
+
+Cubes
+
+ 
+At 400 parts per million in the atmosphere, CO2 is too dilute to heat the surrounding air.
+
+A major error of global warming is defying the fact that each carbon dioxide molecule is surrounded by 2,500 air molecules and has no way to spread the heat around. This dilution divides the CO2 temperature by 2,500 for the average temperature, which is no heating at all.
+ 
+In other words, each carbon dioxide molecule would have to be 2,500°C to average 1°C temperature increase, while the CO2 would be a few trillionths of a degree warmer than the surrounding air molecules.
+
+Conducting heat to nearby molecules by bumping increases the number of molecules radiating away the added heat, which prevents very many molecules from picking up additional heat.
+
+Trapping Heat
+
+If 5 air molecules radiate away the added energy, while one CO2 molecule absorbs, the added energy is gone and the other 2,495 air molecules surrounding each CO2 molecule are not affected. There cannot be a significant temperature increase in the atmosphere when 2,495 air molecules surrounding each CO2 molecule are unaffected by the process.
+
+Absorbed radiation by CO2 would be re-emitted in 83 femto seconds, which means it does not significant increase in temperature. The time is calculated from the emitted wavelength. All matter emits infrared radiation due to the vibration of molecules, which is called black body radiation.
+ 
+Calculating Femto Seconds
+
+The average wavelength for radiation emitted from the earth is 25 microns, which means 83 femto seconds per wave. While one wave is being absorbed at 15 microns, another wave is being emitted at 25 microns. The emitted radiation is stronger than the absorbed radiation, because the absobed radiation is limited to 8% of the black body radiation, which is called fingerprint radiation.
+Earth's Radiation
+
+The average wavelength of radiation emitted by all molecules including CO2 at near-surface temperatures would be around 25 microns, which is about the center of the graph above. In emitting radiation at 25 microns, there are 83 femto seconds for each initial bump. (frequency equals velocity over wavelength. Time equals inverse of frequency) (The speed of light is 3x108 meters per second.) (3x108 ÷ 25x10-6 = 12x1012, inverse = 83x10-15).
+
+ 
+The sequence of events is this: During half of a vibration, half of the energy of a wave is emitted. Then the CO2 molecule bumps into a nearby molecule, which is mostly nitrogen. One half of its energy is given up to the molecule which it bumps into.
+
+Technical Break
+The infrared radiation emitted by all matter (called black body radiation) causes energy to be lost as heat in a constant manner. The vibration of atoms or molecules produces the waves which cary away energy.
+
+How much energy is this? It varies with temperature. Hot objects emit stronger radiation than colder objects. But in general, radiation is a very weak form of energy. For example, energy leaves the surface of the earth primarily through conduction into the air and slightly through radiation. From the soil, something like 95% of the energy enters the air through conduction, 2% leaves by evaporation and 1-3% maximum leaves as radiation (though physicists lie about it and say 79% is radiation due to a grossly false Stefan-Boltzmann constant.)
+
+So, even though the radiation is weak that cools the atmosphere, the radiation that heats the carbon dioxide is only 8% of the black body radiation that is cooling everything.
+
+The air molecules that bump into each other are not giving off much radiation, but radiation that they do give off is 12 times stronger than the radiation absorbed by carbon dioxide.
+
+This adds up to one half of one half, which is one fourth of the energy of one wave, which is passed onto the nearby molecule, while three fourths is radiated away. bumping and wavesThe bumped molecule does the same thing and passes on one fourth of its acquired energy to the molecule it bumps while radiating away three fourths.
+
+The net effect is that three fourths of the energy picked up by the CO2 is radiated away in 83 femto seconds, while one fourth is passed onto a nearby molecule, which radiates away three fourths of its acquired in 83 femto seconds. The second molecule bumped gets no more than a trace of the original energy acquired by the CO2 molecule.
+
+On top of that, saturation only allows a small percent of the CO2 to be adding heat. No one can say what percent, but the the figure 5% used to be used—perhaps being ignored later due to being ridiculously high. That number would require increasing the dilution by another factor of 20, which is 50,000°C for each CO2 molecule for an average of 1°C for the entire atmosphere.
+
+bell curve
+Actually, one thousandths of the CO2 would still saturate, which means the 2,500 dilution would be 2.5 million dilution at the break-point for saturation. The reason is because saturation occurs in 10 meters for most of the CO2. Dividing 10 meters by 1,000 is 10 kilometers, which is the edge of the troposphere.
+
+(The shoulder molecules are in slightly different energy states due to stretching of bonds, as if they were different molecules. The 5% shoulders have twenty times as much space between each, because there are one twentieth as many of them.)
+
+saturation
+Climatologists admit that the temperature of the CO2 molecules in the air is about the same as the temperature of the rest of the air, which would have to be the case. Yet each CO2 molecule is supposed to heat the surrounding 2,500 air molecules to 1°C upon doubling the amount of CO2 in the air.
+
+Doing this would require CO2 to be a cold conduit for heat. There is no such thing as a cold conduit for heat. Temperature conductivity coefficients show that a very significant temperature gradient is needed to conduct heat.
+
+If heat were passing through CO2 at almost the same temperature as the atmosphere and heating the rest of the air molecules, the heat would need to be accumulating in the air. Accumulation of heat cannot occur in the atmosphere, as absorbed radiation is approximately re-emitted in 83 femto seconds.

@@ -1,0 +1,165 @@
+Discovery: Increased Ocean
+Evaporation Mitigates Ocean Rise
+Due to Melting Glaciers
+D. White CH. E.
+Climate Change Truth Inc.
+A nonprofit research corporation
+cctruth.org
+3313 W Cherry Lane
+Suite 1040
+Meridian ID 83642
+Abstract
+In January 2017 a Global and Regional Sea
+Level Rise Scenarios for the United States
+paper was published [1]. It speculated four
+scenarios of ocean level rise. In this report, I
+show the correct ocean rise data to determine
+which scenario is most correct. The current
+earth warming had started in the 1970s. Ocean
+evaporation is a flux from ocean to air. It has
+been described mathematically many times. In
+this report I will show that increased evaporation
+from warming oceans and dilution of salt content
+is offsetting most, if not all, of ocean rise due to
+melting glaciers. The main part of Glaciers that
+is melting is the ice under water. Water expands
+when frozen and contracts when melting. This
+action lowers the ocean level. I worked with the
+NOAA Satellite Altimetry group to make graphs
+every 10 degrees latitude. They clearly show no
+increase of ocean rise since 1880, when ocean
+measurements began to be taken.
+Keywords
+Ocean rise, ocean evaporation, sea level rise
+Method
+I contacted Dr. Laury Miller, Chief of NOAA's
+Laboratory for Satellite Altimetry in Washington,
+to make graphs by every 10 degrees for ocean
+rise. We also installed NOAA RADS software to
+make the graphs [2]. The NOAA group provided
+direction for making a script to create the graphs
+in this report.
+Results & Discussion
+Since 1880, over a period of one hundred thirtyseven years, we have had a global sea rise of
+354 mm, a rate of 2.6 mm per year. The global
+satellite measurement data since 1993 match
+the previous data and show a 2.5 mm/year
+increase. Ocean rises in the northern latitudes
+are increasing in rate while those in the southern
+latitudes are increasing at a slower rate.
+Additionally, "latent heat of evaporation" cools
+the oceans down.
+Figure 1. Global ocean rise since 1880, 2.6
+mm/year
+Ice from icebergs, which are melting actually
+lower the ocean rise because water expands
+when it is frozen, and contracts during melting.
+The graphs I made are by latitude from north to
+south latitudes. I know this combined both the
+Atlantic, Pacific and other sea’s data in each
+graph. However, I am mostly interested in a
+trend by latitude. This is just as valid as the
+global graph as in Figure 1. The first graph,
+Figure 1, is for the entire ocean rise set. This
+data is the familiar ocean graph from NOAA. [3].
+The ocean rise is 2.6 mm/year historically.
+Figure 2 is global ocean data from Satellite
+Altimetry. Figures 3 through 13 are every 10 °
+latitude ocean rise measurement graphs. This
+data clearly shows no increase of ocean rise
+2
+worldwide due to melting glaciers from a
+warming earth. Oceans in the northern latitudes
+are rising slightly due to a thermal expansion in
+the northern hemisphere. Oceans in the
+southern hemisphere are rising at a slower rate
+due to thermal contraction. The only thing that
+can keep the oceans from rising faster is
+increased evaporation from two causes. First,
+we have warmer oceans from a warmer earth.
+Second, we have diluted salt concentration from
+melting glaciers, which also increases
+evaporation. Clausius-Clapeyron Equation,
+which defines the slope of the vapor pressure
+curve, describes ocean evaporation. The rate of
+water vapor pressure change by temperature is
+defined by the heat of vaporization divided by
+the flux. The flux is the temperature times the
+quantity of Vg-Vf . Water vapor concentration
+varies from trace amounts in polar regions to
+nearly four percent in the tropics [4]. As the
+troposphere temperature increases, the vapor
+pressure of water in the atmosphere decreases
+and the ocean evaporation increases until
+equilibrium. Therefore, the increased
+evaporation is offsetting all ocean rise due to
+melting glaciers. The troposphere is only 4%
+clouds and has a great amount of increased
+evaporation capability especially with warming.
+The troposphere is a transport mechanism for
+ocean evaporation to land.
+Figure 2. Global ocean rise 2.5 mm/year
+Figure 3. 60° north ocean rise 3.2 mm/year
+Figure 4. 50° north ocean rise 3.2 mm/year
+Figure 5. 40° north ocean rise 2.8 mm/year
+Figure 6. 30° north ocean rise 2.8 mm/year
+3
+Figure 7. 20° north ocean rise 2.4 mm/year
+Figure 8. 10° north ocean rise 2.8 mm/year
+Figure 9. 10° south ocean rise 2.4 mm/year
+Figure 10. 20° south ocean rise 2.4 mm/year
+Figure 10. 30° south ocean rise 2.4 mm/year
+Figure 11. 40° south ocean rise 2.4 mm/year
+Figure 12. 50° south ocean rise 2.0 mm/year
+4
+Figure 13. 60° south ocean rise 2.0 mm/year
+Figure 14. Summary graph of RADS data with
+GHCNM data
+Model for ocean level drivers.
+We have had forty years of heating in the world
+and glaciers are melting. The ocean rise rate is
+lower in the south where the glaciers are melting
+at a rate which is 1/3 of the artic glaciers from
+GRACE data (5).
+ Model:
+1. Increased water temperature:
+Increased evaporation from warmer
+water.
+2. Increased air temperature: increased
+ocean evaporation from diffusion flux.
+3. Increased melting of ice in the water
+lowers the sea level. Also Changes the
+salt concentration which increases
+evaporation.
+Conclusion
+In one hundred years the oceans will rise 260
+mm. Even at the 3.2 mm rate, the rise would be
+0.32 meters. Increased evaporation is offsetting
+the ocean rise due to melting glaciers.
+Increased evaporation also cools the oceans
+down. The scenario from the Global Ocean
+Rise paper that shows the lowest increase in
+ocean rise is the correct scenario. We will make
+a script to keep these graphs up to date on our
+site at cctruth.org. I will monitor the ocean level
+graphs each year. The correct statistics to put
+on a global ocean rise graph are 2.7mm/yr +/-
+0.6 mm
+References
+1. NOAA Technical Report NOS CO-OPS
+083 Global and Regional Sea Level
+Rise Scenarios for the United States.
+William V. Sweet et al.
+https://tidesandcurrents.noaa.gov/public
+ations/techrpt83_Global_and_Regional_
+SLR_Scenarios_for_the_US_final.pdf
+2. Altimetry data are provided by the
+NOAA Laboratory for Satellite Altimetry.
+3. https://www.epa.gov/climateindicators/climate-change-indicatorssea-level.
+4. https://web.physics.ucsb.edu/~lgrace/ch
+em123/troposphere.htm
+5
+5. https://climate.nasa.gov/vital-signs/icesheets/
+Conflict of Interest section:
+I have no known conflict of interest in the
+production of this paper. 

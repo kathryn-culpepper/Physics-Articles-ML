@@ -1,0 +1,58 @@
+Fake Ice Core Measurements
+The basis for claiming abnormal CO2 levels
+ 
+
+Ocean temperatures determine the amount of carbon dioxide in the air, not humans, because there is vastly more CO2 in ocean water than humans add to the air. The ocean CO2 reaches equilibrium with atmospheric CO2 based on ocean temperatures.
+
+Ocean temperatures are heating for various reasons and putting more CO2 into the atmosphere. One reason is because oceans warm continuously between ice ages. The next ice age is scheduled to occur at any time.
+
+There are additional unknown reasons why oceans are heating at this time, particularly the northern Pacific Ocean. Some scientists theorize that volcanoes on the ocean floor could be the cause. Another explanation is that ice ages might be caused by a hot spot rotating in the center of the earth causing the northern Pacific Ocean to heat and trigger an ice age.
+
+Below are two scientists explaining why the claims of humans increasing the amount of CO2 in the air are not based on proper science.
+ 
+
+Tom V. Segalstad
+
+"...the core partially melted across the Equator during transportation before it was analysed (Etheridge et al., 1988), but this was neither mentioned by the analysts nor the researchers later using the data (see Jaworowski et al., 1992 b). Rather it was characterized as "the excellent quality of the ice core" and its CO2 concentration data "are assumed to represent the global mean concentration history and used as input data to the model" (Siegenthaler & Oeschger, 1987)."
+
+"In order to make a matching construction between the two age-different non-overlapping curves, it was necessary to make the assumption that the age of the gas inclusion air would have to be 95 years younger than the age of the enclosing ice. But this was not mentioned by the originators Siegenthaler & Oeschger (1987)."
+
+"Both argon-39 and krypton-85 isotopes show that large amounts of ambient air are indeed included in the air inclusions in deep ice cores, and air from the inclusions will not be representative of paleoatmospheres (Jaworowski et al., 1992 b)."
+
+"Contamination from drilling fluids and more than twenty physical-chemical processes occurring in the ice before, during, and after drilling, make ice cores unsuitable for paleoatmospheric work (Jaworowski et al., 1992 b)." etc.
+
+ 
+
+Dr Zbigniew Jaworowski
+
+an ice core scientist who publishes and criticizes on the corrupt ice core data.
+
+Excerpts from Opinion Piece in NZCPR September 20, 2008
+
+Archived Link To Jaworowski Article: https://web.archive.org/web/20081014145159/ http://www.nzcpr.com/guest116.htm
+
+(Dr Jaworowski quoted. Bottom half of article quoted.)
+
+Proxy ice data instead of atmospheric CO2
+
+The foundation of the hypothesis that the Modern Warm Period is induced by humans is an assumption that the pre-industrial level of CO2 was 280ppm, i.e. about 100ppm lower than now. British engineer, G.S Callendar may be truly regarded as the father of this hypothesis, and of this assumption (Callendar, 1938; Callendar, 1940; Callendar, 1949; Callendar, 1958) . This assumption was made possible by the arbitrary rejection of more than 90,000 technically excellent, direct measurements of CO2 in the atmosphere, carried out in America, Asia and Europe, during 149 years between 1812 and 1961. Some of these direct measurements were carried out by Nobel Prize winners. Callendar rejected more than 69% from a set of 19th century CO2 measurements ranging from 250 to 550ppm.
+
+This shows a bias in the selection method. Without such selection the 19th century data compiled by Callendar averaged 335ppm (Slocum, 1955) . Similar biased selections were later applied in ice core studies of greenhouse gases (Jaworowski, 1994) .
+
+The low, flat CO2 ice-core concentrations, never reaching above 300ppm during the past 650,000 years and six interglacials (Siegenthaler et al., 2005) , even in periods when the global temperature was much warmer than now, suggest that either atmospheric CO2 has no discernible influence on the climate, or that the proxy ice core reconstructions of the chemical composition of the ancient atmosphere are false – both propositions are probably true. The very long-term ice core data combined with more recent 19th century ones, and with direct atmospheric measurements (since 1958), are widely used for propagating the idea of man-made global warming.
+
+Ice core foundation of greenhouse warming
+
+The proxy estimates of the past CO2 atmospheric concentrations, based on analysis of air bubbles recovered from ice deposited in the 17th, 18th and 19th centuries at the ice caps of Greenland and Antarctic, are regarded as a strongest proof that humans increased CO2 content in the atmosphere, causing the Modern Warm Period. However, polar ice is an improper matrix for reconstruction of the chemical composition of the pre-industrial and ancient atmosphere. No efforts to improve the analytic excellence of CO2 determinations can change this situation.
+
+Ice and the ice cores do not fulfill the essential closed-system criteria, indispensable for reliable estimate of the past CO2 levels. One of them is a lack of liquid water in ice. This criterion is not met, as there is ample evidence that even the coldest Antarctic ice contains liquid water, in which the solubility of CO2 is about 73 times, and 26 times higher than that of N2 and O2, respectively. This dramatically changes the chemical composition of the gas inclusions in polar ice in comparison to atmospheric air. More than 20 physical and chemical processes, mostly related to the presence of liquid water, contribute to the alteration of the original air in gas inclusions - see review in (Jaworowski et al., 1992) . One of these processes is the formation of clathrates (gas hydrates), solid crystals formed at high pressure by interaction of gas with water molecules. In the ice sheets, CO2, O2, and N2 start to form clathrates at about 5 bars, 75 bars, and 100 bars, respectively. Due to this process, CO2 starts to leave air bubbles at a depth of about 200meters, and the air bubbles themselves disappear completely at a depth of about 1000meters.
+
+Drilling, which is an extremely brutal procedure, decompresses the ice cores, in which the solid clathrates decompose back into gas form, exploding in the process as if they were microscopic grenades. In the decompressed bubble-free ice the explosions form new gas cavities and mini-cracks. The ice cores, however, are earlier exposed to a coarser cracking by vibration in drilling barrel, and by the sheeting phenomenon at the bottom of the borehole, induced by pressure difference between the drilling fluid and the ice. The cracks open the gate to extreme pollution of the inside of ice cores with heavy metals from drilling fluid, thousands of times higher than their levels in surface snow (Boutron et al., 1990; Boutron et al., 1987) , and for the escape of gas inclusions.
+
+Glaciological CO2 records are strongly influenced by natural processes in the ice sheets and man-made artifacts in the ice cores, which lead to the depletion of CO2 by 30% to 50%, probably mostly in the upper layers of the ice sheets. These records are also beset with arbitrary selection of data, experimentally unfounded assumptions on gas age, one-sided interpretations ascribing the observed trends to human factors, and ignoring other explanations. A classic example of such manipulation of ice core data is the famous Siple curve, the mother of many other “CO2 hockey curves”.
+
+The problem with the Siple data is that the CO2 concentration found in this locality in pre-industrial ice from a depth of 68meters (i.e. above the depth of clathrate formation) was “too high” to fit the man-made warming hypothesis. In this ice deposited in 1890 AD, the CO2 concentration was 328ppm, not about 290ppm, as needed by the hypothesis. The CO2 atmospheric concentration of about 328ppm was measured at Mauna Loa, Hawaii in 1973 (Boden et al., 1990) , i.e. 83 years after the ice was deposited at Siple. Instead of rejecting the assumption on low pre-industrial concentration of CO2 in the atmosphere, the glaciologists found a “solution”.
+
+An ad hoc speculative assumption, not supported by any factual evidence solved the problem: the average age of air was arbitrary decreed to be exactly 83 years younger than the ice in which it was trapped (Jaworowski, 1994a; Jaworowski et al., 1992) . The “corrected” ice data were made to smoothly overlay the recent Mauna Loa record and then were reproduced in countless publications as a famous “Siple curve”. Eight years after first publication of the Siple curve, and a year after its criticism (Jaworowski et al., 1992) , glaciologists attempted to prove experimentally the “age assumption” (Schwander et al., 1993) , but they failed (Jaworowski, 1994a) . Similar manipulation of data was applied also to ice cores from other polar sites, to make the “CO2 hockey curves” covering the past 1000 and even 400,000 years (IPCC, 2001; Wolff, 2003) . For some of these curves much longer air/ice age difference was arbitrarily assumed, without any experimental support, reaching up to 5,500 years. The apparent aim of these manipulations, and of ignoring other proxy CO2 determinations and of some 90,000 direct determinations in the pre-industrial and 20th century atmosphere, was to induce in the public a false conviction that the 20th century level of CO2 was unprecedented over the past hundreds thousand years.
+
+The “CO2 hockey curves” were used as an “indicator of human i” (IPCC, 2001) (IPCC-AR4, 2007). Also in the report by the U.S. Climate Change Science Program and the Subcommittee on Global Change Research these curves are used as an evidence of “human influences” and “fingerprint” and to argue that the “observed (current) warming could not have been caused by natural forces alone” (CCSP-USP, 2008) . In fact this is the only proof of human causation of the Modern Warm Period presented in the Report. This proof is false. (end quote)

@@ -1,0 +1,103 @@
+Trapping Heat
+
+ 
+
+Heat Cannot Be Trapped Because It Radiates Away Constantly
+
+ 
+
+Trapping Heat
+
+ 
+If 5 air molecules radiate away the added energy, while one CO2 molecule absorbs, the added energy is gone and the other 2,495 air molecules surrounding each CO2 molecule are not affected. There cannot be a significant temperature increase in the atmosphere when 2,495 air molecules surrounding each CO2 molecule are unaffected by the process.
+ 
+In other words, each carbon dioxide molecule would have to be 2,495°C to average 1°C temperature increase, but the CO2 would only be 0.03°C warmer than the surrounding air molecules (sun's warming = 20°C times 2% radiation times 8% absorbed by CO2 = 0.03°C). The miss is one twelve millionth of the amount needed (0.03 ÷ 2,495 = 12 x 10-6). But the hotter anything gets, the more it radiates, which means nothing can get anywhere near 2,495°C in the atmosphere.
+
+(Physicists say 79% of the energy which leaves the surface of the earth is in the form of radiation, where I say it is 2%, but using their numbers, 20°C x 79% x 8% = 1.26°C for each carbon dioxide molecule while 2,495 air molecules are unaffected. The average temperature increase under those conditions would be 0.0005°C for a global temperature increase in the atmosphere.)
+ 
+The Atmosphere As A Heat Sink
+
+In electronics, heat is carried away from some components by attaching them to aluminum which absorbs the heat through conduction and then dissipates it through conduction and convection. (Radiation is not mentioned, it's so trivial.)
+
+The atmosphere is a heat sink which carries away heat from the surface of the Earth. Heat is picked up by conduction and convection as wind blows over the surface of the Earth. (Radiation is too trivial to mention.) Once the heat is in the atmosphere, it radiates into space quite rapidly.
+
+Atmospheric RadiationA transparent gas emits radiation much more readily than the surface of an opaque solid, because radiation can leave from every molecule in a transparent gas but only from a thin layer of surface molecules in an opaque solid. The atmosphere would emit radiation at least a thousand times more readily than the surface of the earth—probably more.
+
+Just as the atmosphere radiates away heat from the surface of the earth, it would radiate away any heat picked up by so-called greenhouse gases. Which means, trapping heat or a greenhouse effect in the atmosphere couldn't be more of a scientific fraud.
+
+How The Atmosphere Radiates Away Heat
+
+All molecules vibrate constantly, which causes them to emit radiation constantly. That type of radiation is called infrared, black body radiation. The amount of radiation emitted depends upon the temperature. The Stefan-Boltzmann constant is used to indicate how much radiation is given off by matter at any temperature, though the constant is not accurate.
+
+CO2 Absorption
+All of the sun's energy during the day leaves at night. Most of it leaves through the atmosphere. Therefore, there is no such thing as trapping heat in the atmosphere.
+
+Most heat gets into the atmosphere through conduction, convection (wind blowing over the surface) and evaporation. Why doesn't it get trapped? Some scientists used to claim that greenhouse gases are the only means for getting heat into the atmosphere. They stopped saying that recently, but activists didn't notice.
+ 
+EmissionWhen a molecule of carbon dioxide absorbs radiation, it re-emits the radiation in femto seconds (83 femto seconds at an average wavelength of 25 microns). The time can be calculated based on wavelength of the radiation. Each wave of emitted radiation is a vibration by the molecule emitting it.
+ 
+The black body infrared radiation being emitted is stronger than the fingerprint radiation being absorbed, which means radiation is emitted as fast as it is absorbed. All matter emits black body infrared radiation constantly. Otherwise, there would be nothing for carbon dioxide to absorb.
+ 
+radiation
+Carbon dioxide absorbs 8% of the black body bandwidth, which means it is 8% as strong as the black body radiation being emitted. Or, the black body radiation is 12 times stronger than the "fingerprint radiation" absorbed by CO2. Fingerprint radiation is weak, because it only influences part of the CO2 molecule causing bonds to be stretched, stretching bondswhile black body radiation is emitted by the entire molecule as it vibrates between the molecules around it. This means energy absorbed by carbon dioxide is re-emitted as block body radiation as fast as it is absorbed.
+
+This is why "heat trapping gas" had to be contrived as a propaganda statement. If the heat isn't trapped, it can't be spread to the 2,500 molecules around it.
+
+The amount of black body radiation emitted by all matter is based on the temperature as indicated by the Stefan-Boltzmann constant.
+
+As molecules vibrate, they impart some kinetic energy to the molecules which they strike, and they emit some energy as radiation. The exact ratio varies with conditions and is too complex to determine exactly, but it can be guessed at for a rough estimate.
+
+This image shows how energy is re-distributed when radiation is absorbed by carbon dioxide.
+
+Trapping Heat
+
+When a molecule of CO2 in the atmosphere absorbs fingerprint radiation (the only thing in question) it increases in vibratory motion, which is heat. As it bumps into surrounding molecules (mostly nitrogen gas), it imparts some motion, which reduces its own motion, while increasing the motion of the other molecule.
+
+The vibrating motion of molecules sends out waves of infrared radiation. As the molecular motion decreases, the intensity of the radiation and its frequency get lower.
+
+The amount of such bumping and re-emitting that must occur to lose the energy gained by absorption depends upon how strong the radiation is that is absorbed, which is determined by the temperature of the emitting molecules. Emissions from the surface of the earth into the atmosphere would go from warmer to colder. For short distances in the atmosphere, the emitting temperature would be about the same as the absorbing temperature.
+
+Absorbed radiation (fingerprint radiation) is weaker than emitted radiation (black body radiation), because 8% of black body radiation is fingerprint radiation absorbed by CO2. In the top image, 8% of the horizontal distance is CO2, as tested during the early fifties.
+ 
+The average wavelength of radiation emitted by all molecules including CO2 at near-surface temperatures would be around 25 microns, which is about the center of the graph above. In emitting radiation at 25 microns, there are 83 femto seconds for each initial bump. (frequency equals velocity over wavelength. Time equals inverse of frequency) (The speed of light is 3x108 meters per second.) (3x108 ÷ 25x10-6 = 12x1012, inverse = 83x10-15).
+ 
+A small amount of energy would be spread to nearby molcules before being radiated away. A CO2 molecule would lose about half of its gained energy in one half cycle as it bumped a nearby molecule (usually nitrogen). It would impart half of its excess energy into the molecule it bumps. One half of one half equals one fourth of the increased energy being imparted into the bumped molecule. The bumped molecule would do the same thing and impart one fourth of its added energy into the molecule which it bumps.
+
+This means that three fourth of the energy picked up by CO2 is radiated away, while one fourth if added to nearby molecules. The energy cannot spread significantly before being radiated away by a small number of molecules. This is why there is no such thing as trapping heat in the atmosphere.
+
+CO2 Grid
+Since each CO2 molecule in the atmosphere is surrounded by 2,500 air molecules, it would have to be 2,500°C to heat the surrounding molecules to an average temperature of 1°C, which is absurd. The CO2 molecules cannot be much different in temperature than surrounding air molecules.
+
+But since CO2 imparts one fourth of its added energy to a molecule which it bumps, the required 2,500°C would actually be three fourths of that, which is 1875°C. Such a temperature for CO2 in the air is totally ridiculous. The CO2 would be virtually the same temperature as the air.
+
+What would actually occur is that the CO2 would only be heated trillionths of a degree centigrade, and no greenhouse effect would occur. Why trillionths of a degree? Because radiation is extremely weak. It's energy is dissipated in femto seconds. The energy cannot build up. This effect rides on top of normal temperatures, which are mostly produced through conduction, convection and evaporation. A method of estimating this number is shown here: 240 thrillionths of a degree
+
+It is equilibrium that determines the temperature of the atmosphere, which is independent of how the heat gets into the atmosphere. Equilibrium means the temperature builds up until the amount of radiation into space equals the amount of radiation entering from the sun. Some persons say greenhouse gases shift the equilibrium temperature upward, but this is where the trillionths of a degree enter in. Radiation would escape into space almost as fast after striking a few CO2 molecules.
+ 
+Heat Dissipates, Always
+
+All matter is emitting radiation constantly based upon its temperature. The Stefan-Boltzmann constant says the amount of radiation emitted is determined by the temperature for all matter. Small adjustments are made for "emissivity" and "absorptivity."
+
+This means, in the atmosphere, all molecules are approximately emitting the same amount of radiation in a local area where their temperatures are the same. The carbon dioxide is emitting the same amount of radiation as the oxygen and nitrogen, according to the Stefan-Boltzmann constant. The Stefan-Boltzmann constant has a lot of problems with it, but for this purpose, the difference between the radiation emitted by carbon dioxide and nitrogen and oxygen is not relevant.
+
+These atmospheric molecules pick up their energy by bumping into each other, which is conduction. The energy gets into the atmosphere mostly through conduction, convection and evaporation, as wind blows over the surface of the earth. A very small amount—a maximum of 1-3%—of the energy results from absorption of black body radiation. Climatologists attribute 79% of the energy to black body radiation, but the number is so crazy they can't live with it, yet they can't change it, because it is locked in place by an absurd Stefan-Boltzmann constant which shows 20-50 times too much radiation being given off by matter at normal temperatures.
+
+The estimate of 1-3% of the energy leaving the surface of the Earth as radiation (the rest leaving as conduction, convection and evaporation) is an upper-limit estimate based on the manner in which energy flows in various ways. Radiation is basically an invisible and hence irrelevant part of most energy flows. The actual amount of radiation appears to be far less than 1-3% but is outside of view and hasn't been determined by physicists. Only the upper limit is relevant here, as it precludes the whole concept of greenhouse gases at 1-3% of the energy flow from the surface of the Earth.
+
+In addition to absorbing black body (wide bandwidth) radiation, all molecules absorb "fingerprint radiation." Usually, the amount of fingerprint radiation is so small that it is considered to be zero. But for some molecules, such as carbon dioxide, it is significant.
+
+The difference between back body radiation and fingerprint radiation is that black body radiation is absorbed by the whole molecule, while fingerprint radiation is absorbed by components of the molecule. With carbon dioxide, the ability of bonds to oxygen to stretch and vibrate causes fingerprint radiation to be absorbed. With nitrogen, the two atoms are locked together more uniformly, so variations do not absorb significant radiation.
+
+The net effect is that all molecules in the atmosphere are emitting radiation constantly and approximately uniformly in a localized area and acquiring energy through conduction and black body radiation constantly and uniformly, while carbon dioxide absorbs fingerprint radiation also.
+
+So the question is, how much temperature increase results from the addition of fingerprint radiation to the energy of carbon dioxide. As the CO2 gets warmer from absorbing fingerprint radiation, it emits more black body radiation due to its increased temperature. At the higher temperature, radiation outflow equals radiation inflow, which is called equilibrium. All dynamic systems in nature adjust to effects upon them through equilibrium, unless something breaks. Energy systems don't break, so they always adjust to equilibrium.
+
+So some climatologists say greenhouse gases shift the equilibrium temperature upward. To some extent, the statement must be a truism. But it is in the trillionths of a degree range, and it is inappropriate to place a significance on nonsignificant numbers, which means it is zero.
+
+The persons who say the equilibrium temperature shifts upward are not only wrong about the significance of zero, they are also wrong in explaining the quantitation derived through radiative transfer equations, which say the number is 3.7 W/m² upon doubling the amount of CO2 in the air. That number is a non-equilibrium number. There is no number for equilibrium. Every molecule shifts its energy slightly to achieve equilibrium. Non-equilibrium is an impossibility for atmospheric energy over time. There are seasonal accumulations of energy, which can offset the equilibrium process for several weeks, but most of that energy is stored in the solid matter on the surface rather than the air.
+
+Why then would the net temperature increase due to CO2 absorbing fingerprint radiation be in the trillionths of a degree range? There is a dynamic explanation and a number crunching explanation.
+
+The dynamic explanation is this: The fingerprint radiation being absorbed would be small compared to the black body radiation being emitted, because only 8% of the black body radiation is fingerprint radiation which can be absorbed by CO2. But the proportionalities don't matter, because even if more radiation is absorbed than emitted, conduction moves the energy to surrounding molecules with each bump, which occurs in about 83 femto seconds at a wavelength of 25 microns. If four molecules are bumped, then four molecules are emitting the radiation instead of just one. It means, for each CO2 molecule absorbing fingerprint radiation, a few molecules around it are emitting that energy. With 2,500 air molecules surrounding each CO2 molecule at 400 parts per million CO2, four molecules warming slightly is no significant average increase for the entire atmosphere.
+
+The entire concept of greenhouse gases creating global warming is based on none of this happening. To get global warming, heat would have to be trapped, which cannot occur. This information shows that the concept of trapping heat in the atmosphere is total fraud.

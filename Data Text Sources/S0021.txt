@@ -1,0 +1,45 @@
+Why the Earth May Really Be Flat
+G. Scott Acton
+Northwestern University
+The hypothesis H is considered that the earth is flat. A relatively simple observation (or experimental outcome) that might plausibly be used to refute H is suggested. The purported refutation is analyzed, identifying the auxiliary assumptions involved, so as to show how H may be saved from actually being refuted. Then it is shown how H can be used, together with some revised auxiliary assumptions that seem reasonable or plausible, to account for the very observation (or outcome) that was originally supposed to refute H.
+According to a philosophy often attributed to Sir Karl Popper (1959), naive or dogmatic falsificationism, science is defined as a modus tollens argument of the following form. First, from a hypothesis we draw some observational consequence: H implies C. Then we do the experiment and find some observed outcome: C*. If C* is incompatible with C, then we conclude that H is false. Diagrammatically, we have the following logical argument:
+IF H, THEN NOT C*.
+C*.
+__________________________
+THEREFORE, NOT H.
+
+If this were all there is to science, then there could be no objection to the conclusion that H is false, because it is a consequence of a logically valid argument: given the truth of the premises, the truth of the conclusion follows. However, if we look at the actual practice of scientists, we will find that this is not a true picture of the way science is actually conducted. Scientists routinely argue over conclusions from observation and experiment. What could they possibly have to argue about if science progresses as a series of deductive arguments of the form proposed above? Well, it turns out that there is more to the logical structure of science than the naive scheme for falsification would hold. The key to understanding this "something more" is understanding the role of auxiliary assumptions. Auxiliary assumptions are subject-specific assumptions concerning the initial conditions or experimental assumptions, and/or the assumptions of the theory.
+
+According to the more sophisticated scheme for falsification (Popper's methodological falsificationism), we start out with a hypothesis plus some auxiliary assumptions, which combined imply some observational consequence: H plus auxiliary assumptions imply C. Then we do the experiment and find some observed outcome: C*. If C* is incompatible with C, then we conclude that either H is false or some of the auxiliary assumptions are false (or both). There is room for argument as to what exactly is to blame for the anomalous observational outcome, C*. Diagrammatically, we have the following:
+
+IF (H & A1 & A2 & A3 . . . ), THEN NOT C*.
+C*.
+__________________________________________________________________
+THEREFORE, NOT H, OR NOT A1, OR NOT A2, . . .
+
+A particularly effective rhetorical strategy is to take a potential falsifier, such as the anomalous observation C*, and, by modifying the auxiliary assumptions, turn it into a corroborating instance of the hypothesis, H. This is exactly the strategy that I will attempt to illustrate in the remainder of this paper.
+
+Consider the hypothesis, H, that the earth is flat. Now suppose we wished to derive some testable observational consequences from this hypothesis. If the earth is flat, then we should not observe a circular shadow on the moon during a lunar eclipse. However, we do observe a circular shadow on the moon during a lunar eclipse. Therefore, according to the naive scheme for falsification, we have a completely knock-down argument that the earth is not flat.
+
+However, what auxiliary assumptions intervene between hypothesis and conclusion? Auxiliary assumptions can be divided into two types: experimental assumptions concerning the initial conditions, and theoretical assumptions.
+
+As for the initial conditions of this experiment, we note the following. First, we assume that the sun gives the moon its light. Second, we assume that the earth and not another celestial body intervenes between the sun and the moon to cause the lunar eclipse. Third, we assume that the behavior of light is the same in outer space as it is on earth. Fourth, we assume that the rotation of the earth has no effect on the shape of the shadow cast by the earth upon the moon. Fifth, we assume that the shadow cast by the sun is not obscured by light from other heavenly bodies, such as the stars. On the theoretical side, we assume a theory of optics that would allow us to tell the difference between a curved and flat shadow.
+
+Let us take the fourth experimental assmption, that the rotation of the earth has no effect on the shape of the shadow cast by the earth upon the moon. Is this really credible? If this assumption were not true, then that could shift the evidence in favor of a flat earth. Let's see how.
+
+A quarter is a flat object. However, if you spin a quarter on its axis, the shadow made by a light overhead is in the shape of a circle.
+
+Suppose that the earth is flat, as per our initial hypothesis. Now suppose that the earth is in constant motion. In fact, it is widely acknowledged that the earth is spinning at the tremendous rate of approximately 1000 miles per hour. Given these assmptions, what shape shadow should the earth cast upon the moon during a lunar eclipse? Clearly, the earth should cast a circular shadow!
+
+I have demonstrated that the earth may in fact be flat. I have done so by turning a previous argument against the flatness of the earth on its head, showing the importance of the role played by auxiliary assumptions. Let us continue this exercise to account for one further observation.
+
+Given that the earth is spinning at a tremendous rate, why do we not fly off the earth? The answer is that gravity pulls us down, keeping us in close proximity to the earth. In fact, gravity seems to be equally in operation at every point along the surface of the earth, just as we would expect if the earth were a sphere.
+
+How can we account for the equal effects of gravity if the earth is a flat disc? Gravity is a force field. Nobody really knows what gravity looks like--we only know what gravity is like through its effects: it pulls us downward. Therefore, suppose that gravity is curved. It proceeds from the center of mass of the disc-shaped earth out to the further reaches of the earth, while all the time it is curved in such a way as to pull objects on the earth downward. That would account for the observed effects of gravity.
+
+Now I have shown how a little tinkering with auxiliary assumptions can change the evidence against a hypothesis to favor it. Given that the earth is spinning rapidly so as to cause a circular shadow during a lunar eclipse, and that gravity is curved so as to affect the whole surface of the earth equally, we can conclude that the earth may in fact be flat. On the other hand, the auxiliary assumptions themselves need to be subjected to empirical test, and their auxiliary assumptions need to be subjected to empirical test, and so on. Given different auxiliary assumptions, we might arrive at a different conclusion. As Einstein and Infeld (1938, pp. 30-31) say, "It is really our whole system of guesses which is to be either proved or disproved by experiment. No one of the assumptions can be isolated for separate testing.... [W]e can well imagine that another system, based on different assumptions, might work just as well."
+
+References
+Einstein, A., & Infeld, L. (1938). The evolution of physics: From early concepts to relativity and quanta. New York: Simon & Schuster.
+Popper, K. R. (1959). The logic of scientific discovery. New York: Harper & Row.
+
