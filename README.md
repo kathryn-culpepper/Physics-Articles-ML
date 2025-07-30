@@ -1,5 +1,5 @@
 # Classification of Physics Articles
-Code and Data for my Senior Physics Capstone Project
+Undergraduate Senior Physics Capstone Project, analyzes collected data set to create an algorithm to classify physics articles as misinformation or not. Primarily done in Python. 
 
 ## Folder Descriptions
 * Data Text Sources holds the article texts for the sources
