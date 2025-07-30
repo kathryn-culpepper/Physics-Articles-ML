@@ -1,4 +1,4 @@
-# Physics-Articles-ML
+# Classification of Physics Articles
 Code and Data for my Senior Physics Capstone Project
 
 ## Folder Descriptions
